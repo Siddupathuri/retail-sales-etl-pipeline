@@ -1,0 +1,1836 @@
+order_id,order_date,product_id,product_name,category,store_id,store_name,city,quantity,unit_price,discount
+ORD00813,07-01-2024,P013,Non-stick Frying Pan,Home,S05,Bengaluru Tech Park,Bengaluru,1,34.50,0.00
+ORD00056,"Oct 08, 2024",P011,Wool Socks (3 pack),Apparel,S03,Guntur City Store,Guntur,1,14.25,0.05
+ORD00493,2024-12-22,P013,Non-stick Frying Pan,Home,S05,Bengaluru Tech Park,Bengaluru,1,$34.50,0.00
+ORD00310,2024-09-18,P010,Rain Jacket,Apparel,S01,Hyderabad Central,Hyderabad,1,119.00,0.00
+ORD00748,2024-03-12,P017,Dumbbell Set,Sports,S01,Hyderabad Central,Hyderabad,1,149.00,0.00
+ORD00138,2024-02-04,P005,Bluetooth Speaker,Electronics,S02,Vijayawada Mall,Vijayawada,2,59.00,0.00
+ORD00213,2024-03-22,P006,Noise Cancelling Headphones,Electronics,S03,Guntur City Store,Guntur,2,199.00,0.00
+ORD00850,2024-04-06,P018,Water Bottle (1L),Sports,S04,Visakhapatnam Bay,Visakhapatnam,3,12.99,0.05
+ORD00394,2024-08-27,P018,Water Bottle (1L),Sports,S05,Bengaluru Tech Park,Bengaluru,2,12.99,0.10
+ORD00218,10/09/2024,P008,Cotton T-Shirt,Apparel,S04,Visakhapatnam Bay,Visakhapatnam,2,19.99,0.00
+ORD00635,09/08/2024,P013,Non-stick Frying Pan,Home,S04,Visakhapatnam Bay,Visakhapatnam,2,34.50,0.05
+ORD00593,2024-11-26,P008,Cotton T-Shirt,Apparel,S02,Vijayawada Mall,Vijayawada,3,19.99,0.00
+ORD00730,2024-06-17,P011,Wool Socks (3 pack),Apparel,S02,Vijayawada Mall,Vijayawada,2,14.25,0.15
+ORD00263,2024-04-22,P012,Coffee Maker,Home,S05,Bengaluru Tech Park,Bengaluru,4,99.00,0.15
+ORD00338,2024-09-17,P004,USB-C Hub,Electronics,S04,Visakhapatnam Bay,Visakhapatnam,1,$39.95,0.15
+ORD00372,"Jan 19, 2024",P001,Wireless Mouse,Electronics,S03,Guntur City Store,Guntur,4,24.99,0.00
+ORD00619,2024-10-26,P001,Wireless Mouse,Electronics,S02,Vijayawada Mall,Vijayawada,2,24.99,0.05
+ORD00726,22/12/2024,P016,Yoga Mat,Sports,S04,Visakhapatnam Bay,Visakhapatnam,1,27.00,0.00
+ORD00284,2024-12-01,P020,Bookshelf,Furniture,S04,Visakhapatnam Bay,Visakhapatnam,2,$129.50,0.00
+ORD00579,2024-02-04,P017,Dumbbell Set,Sports,S04,Visakhapatnam Bay,Visakhapatnam,3,149.00,0.15
+ORD00431,2024-09-04,P005,Bluetooth Speaker,Electronics,S05,Bengaluru Tech Park,Bengaluru,2,59.00,0.10
+ORD00839,2024-02-04,P005,Bluetooth Speaker,Electronics,S03,Guntur City Store,Guntur,4,59.00,0.05
+ORD00682,2024-04-25,P003,27-inch Monitor,Electronics,S06,Online Store,Online,4,249.00,0.00
+ORD00870,2024-06-08,P016,Yoga Mat,Sports,S02,Vijayawada Mall,Vijayawada,2,27.00,0.00
+ORD00690,2024-08-27,P014,Bed Linen Set,Home,S05,Bengaluru Tech Park,Bengaluru,1,64.00,0.00
+ORD00696,2024-02-03,P005,Bluetooth Speaker,Electronics,S01,Hyderabad Central,Hyderabad,3,59.00,0.00
+ORD00777,2024-03-04,P010,Rain Jacket,Apparel,S02,Vijayawada Mall,Vijayawada,2,119.00,0.15
+ORD00649,08-11-2024,P013,Non-stick Frying Pan,Home,S02,Vijayawada Mall,Vijayawada,2,34.50,0.00
+ORD00899,2024-11-09,P001,Wireless Mouse,Electronics,S01,Hyderabad Central,Hyderabad,2,24.99,0.10
+ORD00785,"Dec 13, 2024",P017,Dumbbell Set,Sports,S02,Vijayawada Mall,Vijayawada,3,149.00,0.00
+ORD00034,15/11/2024,P011,Wool Socks (3 pack),Apparel,S03,Guntur City Store,Guntur,1,14.25,0.00
+ORD00294,10/07/2024,P010,Rain Jacket,Apparel,S05,Bengaluru Tech Park,Bengaluru,1,119.00,0.05
+ORD00346,2024-09-05,P012,Coffee Maker,Home,S04,Visakhapatnam Bay,Visakhapatnam,3,99.00,0.00
+ORD00013,"Sep 05, 2024",P017,Dumbbell Set,Sports,S01,Hyderabad Central,Hyderabad,4,149.00,0.00
+ORD00278,2024-10-28,P016,Yoga Mat,Sports,S02,Vijayawada Mall,Vijayawada,2,$27.00,0.00
+ORD00343,2024-10-06,P019,Office Chair,Furniture,S03,Guntur City Store,Guntur,2,$179.00,0.05
+ORD00683,"Nov 16, 2024",P011,Wool Socks (3 pack),Apparel,S03,Guntur City Store,Guntur,2,14.25,0.00
+ORD00305,2024-01-12,P009,Denim Jeans,Apparel,S05,Bengaluru Tech Park,Bengaluru,3,49.50,0.05
+ORD00580,  2024-09-11  ,P013,Non-stick Frying Pan,Home,S04,Visakhapatnam Bay,Visakhapatnam,2,34.50,0.00
+ORD00542,09/11/2024,P007,Running Shoes,Apparel,S05,Bengaluru Tech Park,Bengaluru,3,74.99,0.00
+ORD00766,2024-10-02,P001,Wireless Mouse,Electronics,S02,Vijayawada Mall,Vijayawada,1,24.99,0.15
+ORD00589,2024-07-24,P003,27-inch Monitor,Electronics,S02,Vijayawada Mall,Vijayawada,3,249.00,0.05
+ORD00294,10/07/2024,P020,Bookshelf,Furniture,S05,Bengaluru Tech Park,Bengaluru,2,129.50,0.00
+ORD00652,17/08/2024,P008,Cotton T-Shirt,Apparel,S03,Guntur City Store,Guntur,1,19.99,0.00
+ORD00840,2024-05-26,P020,Bookshelf,Furniture,S04,Visakhapatnam Bay,Visakhapatnam,4,129.50,0.00
+ORD00032,2024-12-13,P009,Denim Jeans,Apparel,S05,Bengaluru Tech Park,Bengaluru,1,49.50,0.05
+ORD00626,"Aug 10, 2024",P003,27-inch Monitor,Electronics,S06,Online Store,Online,1,249.00,0.00
+ORD00367,11/10/2024,P010,Rain Jacket,Apparel,S04,Visakhapatnam Bay,Visakhapatnam,2,119.00,0.15
+ORD00657,2024-03-02,P010,Rain Jacket,Apparel,S03,Guntur City Store,Guntur,1,119.00,0.00
+ORD00848,11/04/2024,P019,Office Chair,Furniture,S01,Hyderabad Central,Hyderabad,2,179.00,0.00
+ORD00192,2024-02-10,P015,Desk Lamp,Home,S03,Guntur City Store,Guntur,2,29.99,0.10
+ORD00129,01/08/2024,P017,Dumbbell Set,Sports,S02,Vijayawada Mall,Vijayawada,3,149.00,0.05
+ORD00256,27-10-2024,P001,Wireless Mouse,Electronics,S03,Guntur City Store,Guntur,4,24.99,0.00
+ORD00192,10/02/2024,P003,27-inch Monitor,Electronics,S03,Guntur City Store,Guntur,2,$249.00,0.15
+ORD00891,27-12-2024,P001,Wireless Mouse,Electronics,S05,Bengaluru Tech Park,Bengaluru,1,24.99,0.05
+ORD00475,04-10-2024,P011,Wool Socks (3 pack),Apparel,S03,Guntur City Store,Guntur,1,14.25,0.10
+ORD00217,"Oct 02, 2024",P005,Bluetooth Speaker,Electronics,S06,Online Store,Online,1,59.00,0.00
+ORD00608,16-11-2024,P015,Desk Lamp,Home,S02,Vijayawada Mall,Vijayawada,1,$29.99,0.10
+ORD00606,2024-06-05,P003,27-inch Monitor,Electronics,S03,Guntur City Store,Guntur,1,249.00,0.00
+ORD00036,27/03/2024,P010,Rain Jacket,Apparel,S06,Online Store,Online,2,$119.00,0.10
+ORD00781,09/06/2024,P001,Wireless Mouse,Electronics,S01,Hyderabad Central,Hyderabad,4,24.99,0.00
+ORD00316,22-10-2024,P008,Cotton T-Shirt,Apparel,S06,Online Store,Online,4,19.99,0.10
+ORD00310,2024-09-18,P004,USB-C HUB,Electronics,S01,Hyderabad Central,Hyderabad,,39.95,0.10
+ORD00156,"Jan 09, 2024",P001,Wireless Mouse,Electronics,S03,Guntur City Store,Guntur,2,24.99,0.00
+ORD00042,2024-06-20,P003,27-inch Monitor,Electronics,S03,Guntur City Store,Guntur,1,249.00,0.00
+ORD00546,"Dec 22, 2024",P014,Bed Linen Set,Home,S02,Vijayawada Mall,Vijayawada,4,64.00,0.05
+ORD00427,2024-03-10,P019,Office Chair,Furniture,S04,Visakhapatnam Bay,Visakhapatnam,1,179.00,0.10
+ORD00364,2024-10-28,P019,Office Chair,Furniture,S06,Online Store,Online,1,179.00,0.00
+ORD00614,2024-06-11,P014,Bed Linen Set,Home,S06,Online Store,Online,1,64.00,0.00
+ORD00388,"Oct 22, 2024",P020,Bookshelf,Furniture,S05,Bengaluru Tech Park,Bengaluru,1,129.50,0.10
+ORD00309,2024-04-13,P016,Yoga Mat,Sports,S03,Guntur City Store,Guntur,1,$27.00,0.00
+ORD00737,13/07/2024,P015,Desk Lamp,Home,S04,Visakhapatnam Bay,Visakhapatnam,1,$29.99,0.05
+ORD00112,2024-10-16,P020,Bookshelf,Furniture,S06,Online Store,Online,1,129.50,0.10
+ORD00041,15/09/2024,P008,Cotton T-Shirt,Apparel,S04,Visakhapatnam Bay,Visakhapatnam,3,19.99,0.00
+ORD00797,2024-07-13,P010,Rain Jacket,Apparel,S04,Visakhapatnam Bay,Visakhapatnam,2,119.00,0.00
+ORD00451,22/03/2024,P014,Bed Linen Set,Home,S04,Visakhapatnam Bay,Visakhapatnam,1,64.00,0.10
+ORD00452,16/11/2024,P005,Bluetooth Speaker,Electronics,S02,Vijayawada Mall,Vijayawada,4,59.00,0.00
+ORD00392,2024-02-12,P008,Cotton T-Shirt,Apparel,S01,Hyderabad Central,Hyderabad,1,$19.99,0.00
+ORD00337,21-01-2024,P010,Rain Jacket,Apparel,S06,Online Store,Online,1,119.00,0.05
+ORD00200,2024-05-31,P005,BLUETOOTH SPEAKER,Electronics,S02,Vijayawada Mall,Vijayawada,3,$59.00,0.00
+ORD00885,29/10/2024,P011,Wool Socks (3 pack),Apparel,S05,Bengaluru Tech Park,Bengaluru,3,14.25,0.00
+ORD00384,2024-05-18,P014,Bed Linen Set,Home,S02,Vijayawada Mall,Vijayawada,3,64.00,0.00
+ORD00211,2024-02-13,P016,Yoga Mat,Sports,S01,Hyderabad Central,Hyderabad,1,27.00,0.00
+ORD00079,2024-09-04,P013,Non-stick Frying Pan,Home,S01,Hyderabad Central,Hyderabad,2,34.50,0.05
+ORD00343,06-10-2024,P005,Bluetooth Speaker,Electronics,S03,Guntur City Store,Guntur,1,59.00,0.15
+ORD00789,2024-12-29,P007,Running Shoes,Apparel,S02,Vijayawada Mall,Vijayawada,1,74.99,0.00
+ORD00479,2024-05-12,P006,Noise Cancelling Headphones,Electronics,S03,Guntur City Store,Guntur,2,199.00,0.10
+ORD00764,2024-03-29,P015,Desk Lamp,Home,S06,Online Store,Online,4,29.99,0.10
+ORD00296,23-04-2024,P005,Bluetooth Speaker,Electronics,S06,Online Store,Online,3,59.00,0.10
+ORD00671,2024-04-14,P018,Water Bottle (1L),Sports,S02,Vijayawada Mall,Vijayawada,4,12.99,0.15
+ORD00105,2024-05-28,P001,Wireless Mouse,Electronics,S03,Guntur City Store,Guntur,2,24.99,0.00
+ORD00672,13/11/2024,P013,Non-stick Frying Pan,Home,S03,Guntur City Store,Guntur,4,34.50,0.15
+ORD00179,"Jan 29, 2024",P011,Wool Socks (3 pack),Apparel,S02,Vijayawada Mall,Vijayawada,1,14.25,0.00
+ORD00890,02/05/2024,P004,USB-C Hub,Electronics,S01,Hyderabad Central,Hyderabad,1,39.95,0.05
+ORD00309,2024-04-13,P004,USB-C Hub,Electronics,S03,Guntur City Store,Guntur,3,39.95,0.10
+ORD00225,2024-03-13,P009,Denim Jeans,Apparel,S05,Bengaluru Tech Park,Bengaluru,2,49.50,0.00
+ORD00204,2024-11-16,P013,Non-stick Frying Pan,Home,S04,Visakhapatnam Bay,Visakhapatnam,1,34.50,0.05
+ORD00776,2024-02-15,P013,Non-stick Frying Pan,Home,S03,Guntur City Store,Guntur,4,$34.50,0.00
+ORD00699,2024-07-10,P019,Office Chair,Furniture,S05,Bengaluru Tech Park,Bengaluru,2,179.00,0.00
+ORD00414,"Sep 08, 2024",P002,Mechanical Keyboard,Electronics,S01,Hyderabad Central,Hyderabad,1,89.50,0.10
+ORD00358,09/03/2024,P006,Noise Cancelling Headphones,Electronics,S06,Online Store,Online,2,199.00,0.00
+ORD00827,2024-03-14,P005,Bluetooth Speaker,Electronics,S04,Visakhapatnam Bay,Visakhapatnam,1,$59.00,0.00
+ORD00032,2024-12-13,P009,Denim Jeans,Apparel,S05,Bengaluru Tech Park,Bengaluru,1,49.50,0.05
+ORD00562,2024-09-03,P012,Coffee Maker,Home,S05,Bengaluru Tech Park,Bengaluru,2,99.00,0.05
+ORD00625,07-06-2024,P005,BLUETOOTH SPEAKER,Electronics,S06,Online Store,Online,1,59.00,0.00
+ORD00243,11/09/2024,P009,Denim Jeans,Apparel,S04,Visakhapatnam Bay,Visakhapatnam,3,$49.50,0.05
+ORD00077,15-12-2024,P001,Wireless Mouse,Electronics,S02,Vijayawada Mall,Vijayawada,4,24.99,0.00
+ORD00007,2024-06-15,P002,Mechanical Keyboard,Electronics,S01,Hyderabad Central,Hyderabad,3,89.50,0.00
+ORD00416,2024-04-28,P007,Running Shoes,Apparel,S05,Bengaluru Tech Park,Bengaluru,1,74.99,0.10
+ORD00100,25-04-2024,P011,Wool Socks (3 pack),Apparel,S04,Visakhapatnam Bay,Visakhapatnam,1,14.25,0.00
+ORD00487,2024-04-15,P010,Rain Jacket,Apparel,S06,Online Store,Online,2,119.00,0.10
+ORD00216,2024-03-01,P004,USB-C Hub,Electronics,S02,Vijayawada Mall,Vijayawada,1,39.95,0.10
+ORD00050,2024-06-03,P014,Bed Linen Set,Home,S06,Online Store,Online,3,64.00,0.00
+ORD00336,2024-11-12,P018,Water Bottle (1L),Sports,S05,Bengaluru Tech Park,Bengaluru,3,12.99,0.10
+ORD00103,2024-05-19,P019,Office Chair,Furniture,S04,Visakhapatnam Bay,Visakhapatnam,2,179.00,0.10
+ORD00148,25/08/2024,P012,Coffee Maker,Home,S02,Vijayawada Mall,Vijayawada,4,99.00,0.00
+ORD00610,2024-05-16,P010,Rain Jacket,Apparel,S03,Guntur City Store,Guntur,3,119.00,0.00
+ORD00070,2024-02-05,P011,Wool Socks (3 pack),Apparel,S03,Guntur City Store,Guntur,4,$14.25,0.05
+ORD00505,2024-11-08,P011,Wool Socks (3 pack),Apparel,S06,Online Store,Online,1,14.25,0.15
+ORD00152,05/01/2024,P002,Mechanical Keyboard,Electronics,S01,Hyderabad Central,Hyderabad,1,89.50,0.05
+ORD00685,2024-07-12,P018,Water Bottle (1L),Sports,S03,Guntur City Store,Guntur,1,$12.99,0.15
+ORD00360,2024-11-15,P009,Denim Jeans,Apparel,S06,Online Store,Online,1,49.50,0.10
+ORD00433,2024-06-10,P018,Water Bottle (1L),Sports,S04,Visakhapatnam Bay,Visakhapatnam,1,12.99,0.00
+ORD00733,04/01/2024,P003,27-inch Monitor,Electronics,S01,Hyderabad Central,Hyderabad,4,$249.00,0.00
+ORD00309,2024-04-13,P014,Bed Linen Set,Home,S03,Guntur City Store,Guntur,1,64.00,0.00
+ORD00554,2024-04-23,P001,Wireless Mouse,Electronics,S03,Guntur City Store,Guntur,1,24.99,0.15
+ORD00343,2024-10-06,P001,Wireless Mouse,Electronics,S03,Guntur City Store,Guntur,2,$24.99,0.05
+ORD00886,2024-02-05,P015,Desk Lamp,Home,S03,Guntur City Store,Guntur,4,$29.99,0.10
+ORD00837,30/12/2024,P008,Cotton T-Shirt,Apparel,S06,Online Store,Online,1,19.99,0.05
+ORD00772,29-06-2024,P002,Mechanical Keyboard,Electronics,S05,Bengaluru Tech Park,Bengaluru,1,89.50,0.00
+ORD00689,13/10/2024,P012,Coffee Maker,Home,S01,Hyderabad Central,Hyderabad,1,99.00,0.00
+ORD00818,2024-05-26,P006,Noise Cancelling Headphones,Electronics,S02,Vijayawada Mall,Vijayawada,4,199.00,0.00
+ORD00245,2024-05-18,P010,Rain Jacket,Apparel,S01,Hyderabad Central,Hyderabad,3,119.00,0.00
+ORD00191,2024-12-23,P006,Noise Cancelling Headphones,Electronics,S06,Online Store,Online,1,199.00,0.00
+ORD00172,11-02-2024,P017,Dumbbell Set,Sports,S05,Bengaluru Tech Park,Bengaluru,,$149.00,0.00
+ORD00356,2024-03-12,P008,Cotton T-Shirt,Apparel,S04,Visakhapatnam Bay,Visakhapatnam,1,19.99,0.10
+ORD00324,15/09/2024,P001,Wireless Mouse,Electronics,S02,Vijayawada Mall,Vijayawada,2,24.99,0.00
+ORD00095,26/10/2024,P020,Bookshelf,Furniture,S05,Bengaluru Tech Park,Bengaluru,2,129.50,0.15
+ORD00812,2024-03-24,P013,Non-stick Frying Pan,Home,S02,Vijayawada Mall,Vijayawada,1,34.50,0.05
+ORD00760,19-02-2024,P019,Office Chair,Furniture,S02,Vijayawada Mall,Vijayawada,4,179.00,0.00
+ORD00836,28-04-2024,P011,Wool Socks (3 pack),Apparel,S02,Vijayawada Mall,Vijayawada,1,14.25,0.05
+ORD00763,2024-07-25,P004,USB-C Hub,Electronics,S02,Vijayawada Mall,Vijayawada,1,39.95,0.00
+ORD00408,2024-11-12,P002,Mechanical Keyboard,Electronics,S03,Guntur City Store,Guntur,1,89.50,0.10
+ORD00029,27-07-2024,P005,Bluetooth Speaker,Electronics,S05,Bengaluru Tech Park,Bengaluru,4,59.00,0.00
+ORD00611,2024-05-07,P013,Non-stick Frying Pan,Home,S03,Guntur City Store,Guntur,2,34.50,0.10
+ORD00472,2024-07-17,P003,27-inch Monitor,Electronics,S06,Online Store,Online,1,249.00,0.00
+ORD00606,2024-06-05,P005,Bluetooth Speaker,Electronics,S03,Guntur City Store,Guntur,3,59.00,0.10
+ORD00867,2024-09-24,P005,Bluetooth Speaker,Electronics,S06,Online Store,Online,1,59.00,0.00
+ORD00674,15/12/2024,P005,Bluetooth Speaker,Electronics,S03,Guntur City Store,Guntur,2,$59.00,0.00
+ORD00403,2024-05-07,P004,USB-C Hub,Electronics,S04,Visakhapatnam Bay,Visakhapatnam,2,39.95,0.00
+ORD00045,2024-05-13,P014,Bed Linen Set,Home,S04,Visakhapatnam Bay,Visakhapatnam,1,64.00,0.00
+ORD00499,2024-02-27,P019,Office Chair,Furniture,S05,Bengaluru Tech Park,Bengaluru,3,179.00,0.10
+ORD00177,02-10-2024,P005,Bluetooth Speaker,Electronics,S04,Visakhapatnam Bay,Visakhapatnam,3,59.00,0.00
+ORD00529,2024-08-20,P002,Mechanical Keyboard,Electronics,S01,Hyderabad Central,Hyderabad,4,$89.50,0.00
+ORD00534,18/10/2024,P011,Wool Socks (3 pack),Apparel,S01,Hyderabad Central,Hyderabad,1,14.25,0.00
+ORD00783,05/08/2024,P017,Dumbbell Set,Sports,S06,Online Store,Online,2,149.00,0.00
+ORD00061,2024-02-20,P007,Running Shoes,Apparel,S02,Vijayawada Mall,Vijayawada,1,74.99,0.00
+ORD00384,2024-05-18,P005,Bluetooth Speaker,Electronics,S02,Vijayawada Mall,Vijayawada,2,59.00,0.00
+ORD00202,07-01-2024,P013,Non-stick Frying Pan,Home,S03,Guntur City Store,Guntur,3,34.50,0.10
+ORD00187,"Oct 08, 2024",P018,Water Bottle (1L),Sports,S06,Online Store,Online,2,12.99,0.05
+ORD00150,28-05-2024,P014,Bed Linen Set,Home,S04,Visakhapatnam Bay,Visakhapatnam,1,64.00,0.15
+ORD00186,15/03/2024,P007,Running Shoes,Apparel,S01,Hyderabad Central,Hyderabad,1,74.99,0.00
+ORD00053,  2024-11-08  ,P012,Coffee Maker,Home,S06,Online Store,Online,3,99.00,0.00
+ORD00753,2024-12-20,P019,Office Chair,Furniture,S03,Guntur City Store,Guntur,3,179.00,0.05
+ORD00132,2024-12-16,P015,Desk Lamp,Home,S04,Visakhapatnam Bay,Visakhapatnam,1,29.99,0.00
+ORD00898,2024-11-16,P015,Desk Lamp,Home,S06,Online Store,Online,4,29.99,0.05
+ORD00379,15/05/2024,P007,Running Shoes,Apparel,S02,Vijayawada Mall,Vijayawada,3,74.99,0.15
+ORD00305,12/01/2024,P006,Noise Cancelling Headphones,Electronics,S05,Bengaluru Tech Park,Bengaluru,1,$199.00,0.10
+ORD00016,2024-10-03,P007,Running Shoes,Apparel,S02,Vijayawada Mall,Vijayawada,1,74.99,0.10
+ORD00628,2024-10-09,P017,Dumbbell Set,Sports,S01,Hyderabad Central,Hyderabad,1,149.00,0.00
+ORD00445,2024-10-19,P018,Water Bottle (1L),Sports,S05,Bengaluru Tech Park,Bengaluru,1,12.99,0.10
+ORD00252,2024-07-27,P012,Coffee Maker,Home,S01,Hyderabad Central,Hyderabad,4,99.00,0.00
+ORD00732,2024-12-22,P020,Bookshelf,Furniture,S06,Online Store,Online,4,129.50,0.05
+ORD00248,2024-12-21,P004,USB-C Hub,Electronics,S01,Hyderabad Central,Hyderabad,1,39.95,0.00
+ORD00724,2024-06-16,P007,Running Shoes,Apparel,S03,Guntur City Store,Guntur,2,74.99,0.05
+ORD00441,2024-05-16,P020,Bookshelf,Furniture,S05,Bengaluru Tech Park,Bengaluru,1,$129.50,0.00
+ORD00027,14/05/2024,P015,Desk Lamp,Home,S02,Vijayawada Mall,Vijayawada,2,$29.99,0.00
+ORD00236,2024-05-02,P001,Wireless Mouse,Electronics,S04,Visakhapatnam Bay,Visakhapatnam,4,24.99,0.00
+ORD00723,2024-01-15,P006,Noise Cancelling Headphones,Electronics,S01,Hyderabad Central,Hyderabad,3,$199.00,0.00
+ORD00559,2024-12-29,P007,Running Shoes,Apparel,S05,Bengaluru Tech Park,Bengaluru,1,74.99,0.00
+ORD00662,2024-12-28,P004,USB-C Hub,Electronics,S03,Guntur City Store,Guntur,2,39.95,0.00
+ORD00301,2024-02-15,P014,Bed Linen Set,Home,S02,,Vijayawada,2,64.00,0.00
+ORD00299,  2024-07-28  ,P011,Wool Socks (3 pack),Apparel,S05,,Bengaluru,2,$14.25,0.00
+ORD00019,2024-08-20,P002,Mechanical Keyboard,Electronics,S03,Guntur City Store,Guntur,2,89.50,0.05
+ORD00691,"Aug 26, 2024",P008,Cotton T-Shirt,Apparel,S05,Bengaluru Tech Park,Bengaluru,2,19.99,0.15
+ORD00201,05/04/2024,P018,Water Bottle (1L),Sports,S04,Visakhapatnam Bay,Visakhapatnam,1,12.99,0.05
+ORD00496,10/02/2024,P002,Mechanical Keyboard,Electronics,S05,Bengaluru Tech Park,Bengaluru,4,89.50,0.05
+ORD00584,2024-10-25,P012,Coffee Maker,Home,S01,Hyderabad Central,Hyderabad,1,99.00,0.00
+ORD00307,2024-11-18,P014,Bed Linen Set,Home,S01,Hyderabad Central,Hyderabad,2,64.00,0.10
+ORD00496,10/02/2024,P003,27-inch Monitor,Electronics,S05,Bengaluru Tech Park,Bengaluru,1,249.00,0.10
+ORD00385,  2024-10-14  ,P013,Non-stick Frying Pan,Home,S05,Bengaluru Tech Park,Bengaluru,1,34.50,0.00
+ORD00087,2024-08-20,P002,Mechanical Keyboard,Electronics,S03,Guntur City Store,Guntur,2,89.50,0.00
+ORD00374,2024-06-27,P001,Wireless Mouse,Electronics,S03,Guntur City Store,Guntur,1,24.99,0.00
+ORD00143,  2024-10-09  ,P011,Wool Socks (3 pack),Apparel,S06,Online Store,Online,4,14.25,0.00
+ORD00845,2024-08-04,P015,Desk Lamp,Home,S03,Guntur City Store,Guntur,4,29.99,0.05
+ORD00331,2024-12-11,P011,Wool Socks (3 pack),Apparel,S06,Online Store,Online,4,14.25,0.00
+ORD00715,21/10/2024,P008,Cotton T-Shirt,Apparel,S01,Hyderabad Central,Hyderabad,1,19.99,0.05
+ORD00368,2024-02-21,P005,Bluetooth Speaker,Electronics,S02,Vijayawada Mall,Vijayawada,2,$59.00,0.05
+ORD00385,2024-10-14,P013,Non-stick Frying Pan,Home,S05,Bengaluru Tech Park,Bengaluru,1,34.50,0.00
+ORD00038,2024-11-18,P013,Non-stick Frying Pan,Home,S05,Bengaluru Tech Park,Bengaluru,2,34.50,0.00
+ORD00437,2024-11-05,P018,Water Bottle (1L),Sports,S03,Guntur City Store,Guntur,1,12.99,0.10
+ORD00822,2024-09-10,P008,Cotton T-Shirt,Apparel,S04,Visakhapatnam Bay,Visakhapatnam,1,19.99,0.05
+ORD00328,2024-04-01,P018,Water Bottle (1L),Sports,S05,Bengaluru Tech Park,Bengaluru,1,$12.99,0.15
+ORD00856,2024-12-03,P001,Wireless Mouse,Electronics,S03,Guntur City Store,Guntur,1,24.99,0.15
+ORD00819,13/02/2024,P014,Bed Linen Set,Home,S01,Hyderabad Central,Hyderabad,1,64.00,0.10
+ORD00100,25/04/2024,P020,Bookshelf,Furniture,S04,Visakhapatnam Bay,Visakhapatnam,2,129.50,0.10
+ORD00120,2024-09-26,P011,Wool Socks (3 pack),Apparel,S01,Hyderabad Central,Hyderabad,4,14.25,0.05
+ORD00651,04/06/2024,P017,Dumbbell Set,Sports,S06,Online Store,Online,1,149.00,0.00
+ORD00057,2024-04-08,P006,Noise Cancelling Headphones,Electronics,S02,Vijayawada Mall,Vijayawada,1,199.00,0.10
+ORD00859,2024-03-22,P004,USB-C Hub,Electronics,S04,Visakhapatnam Bay,Visakhapatnam,-1,39.95,0.00
+ORD00098,2024-01-31,P014,Bed Linen Set,Home,S05,Bengaluru Tech Park,Bengaluru,4,64.00,0.10
+ORD00741,2024-07-15,P019,Office Chair,Furniture,S04,Visakhapatnam Bay,Visakhapatnam,4,179.00,0.00
+ORD00533,2024-04-20,P006,Noise Cancelling Headphones,Electronics,S05,Bengaluru Tech Park,Bengaluru,1,199.00,0.00
+ORD00650,18/07/2024,P018,Water Bottle (1L),Sports,S06,Online Store,Online,1,12.99,0.00
+ORD00474,19/05/2024,P009,Denim Jeans,Apparel,S02,Vijayawada Mall,Vijayawada,1,$49.50,0.05
+ORD00514,2024-01-20,P017,Dumbbell Set,Sports,S06,Online Store,Online,2,149.00,0.15
+ORD00652,17/08/2024,P019,Office Chair,Furniture,S03,Guntur City Store,Guntur,3,179.00,0.10
+ORD00096,2024-07-30,P013,Non-stick Frying Pan,Home,S03,Guntur City Store,Guntur,1,34.50,0.00
+ORD00487,"Apr 15, 2024",P014,Bed Linen Set,Home,S06,Online Store,Online,3,64.00,0.00
+ORD00749,"Jun 13, 2024",P012,Coffee Maker,Home,S01,Hyderabad Central,Hyderabad,1,99.00,0.00
+ORD00738,"Jan 07, 2024",P012,Coffee Maker,Home,S05,Bengaluru Tech Park,Bengaluru,2,99.00,0.00
+ORD00852,2024-07-14,P001,Wireless Mouse,Electronics,S03,Guntur City Store,Guntur,2,24.99,0.00
+ORD00292,29/11/2024,P001,Wireless Mouse,Electronics,S04,Visakhapatnam Bay,Visakhapatnam,4,24.99,0.15
+ORD00807,27/01/2024,P007,Running Shoes,Apparel,S06,Online Store,Online,2,74.99,0.00
+ORD00666,15/02/2024,P014,Bed Linen Set,Home,S02,Vijayawada Mall,Vijayawada,2,64.00,0.00
+ORD00792,2024-01-27,P014,Bed Linen Set,Home,S06,Online Store,Online,4,64.00,0.10
+ORD00785,2024-12-13,P004,USB-C Hub,Electronics,S02,Vijayawada Mall,Vijayawada,1,,0.00
+ORD00071,2024-03-17,P014,Bed Linen Set,Home,S04,Visakhapatnam Bay,Visakhapatnam,1,64.00,0.10
+ORD00236,02/05/2024,P004,USB-C Hub,Electronics,S04,Visakhapatnam Bay,Visakhapatnam,1,39.95,0.10
+ORD00248,21-12-2024,P001,Wireless Mouse,Electronics,S01,Hyderabad Central,Hyderabad,3,24.99,0.00
+ORD00347,2024-04-23,P004,USB-C Hub,Electronics,S06,Online Store,Online,1,39.95,0.05
+ORD00347,23/04/2024,P016,Yoga Mat,Sports,S06,Online Store,Online,2,27.00,0.00
+ORD00169,2024-05-07,P019,Office Chair,Furniture,S01,Hyderabad Central,Hyderabad,3,179.00,0.00
+ORD00764,2024-03-29,P015,Desk Lamp,Home,S06,Online Store,Online,1,$29.99,0.00
+ORD00159,2024-12-27,P006,Noise Cancelling Headphones,Electronics,S02,Vijayawada Mall,Vijayawada,2,199.00,0.05
+ORD00380,24-02-2024,P016,Yoga Mat,Sports,S01,Hyderabad Central,Hyderabad,2,27.00,0.15
+ORD00149,2024-02-24,P015,Desk Lamp,Home,S03,Guntur City Store,Guntur,1,$29.99,0.00
+ORD00412,2024-10-09,P004,USB-C Hub,Electronics,S02,Vijayawada Mall,Vijayawada,2,39.95,0.00
+ORD00370,01-12-2024,P020,Bookshelf,Furniture,S05,Bengaluru Tech Park,Bengaluru,1,129.50,0.15
+ORD00243,11/09/2024,P012,Coffee Maker,Home,S04,Visakhapatnam Bay,Visakhapatnam,1,99.00,0.15
+ORD00526,"May 25, 2024",P006,Noise Cancelling Headphones,Electronics,S04,Visakhapatnam Bay,Visakhapatnam,3,199.00,0.05
+ORD00613,2024-07-21,P005,Bluetooth Speaker,Electronics,S06,Online Store,Online,4,59.00,0.05
+ORD00632,"Nov 12, 2024",P004,USB-C Hub,Electronics,S05,Bengaluru Tech Park,Bengaluru,3,39.95,0.10
+ORD00433,2024-06-10,P018,Water Bottle (1L),Sports,S04,Visakhapatnam Bay,Visakhapatnam,1,12.99,0.00
+ORD00154,  22-06-2024  ,P002,Mechanical Keyboard,Electronics,S05,Bengaluru Tech Park,Bengaluru,1,89.50,0.00
+ORD00155,2024-03-17,P005,Bluetooth Speaker,Electronics,S05,Bengaluru Tech Park,Bengaluru,1,59.00,0.05
+ORD00688,2024-10-26,P010,Rain Jacket,Apparel,S04,Visakhapatnam Bay,Visakhapatnam,2,$119.00,0.00
+ORD00424,2024-11-19,P010,Rain Jacket,Apparel,S04,Visakhapatnam Bay,Visakhapatnam,2,$119.00,0.00
+ORD00707,12/09/2024,P011,Wool Socks (3 pack),Apparel,S06,Online Store,Online,1,14.25,0.00
+ORD00303,2024-09-14,P006,Noise Cancelling Headphones,Electronics,S05,Bengaluru Tech Park,Bengaluru,1,199.00,0.00
+ORD00604,30/07/2024,P018,Water Bottle (1L),Sports,S03,Guntur City Store,Guntur,3,12.99,0.00
+ORD00709,16/07/2024,P004,USB-C Hub,Electronics,S02,Vijayawada Mall,Vijayawada,1,39.95,0.00
+ORD00514,20-01-2024,P009,Denim Jeans,Apparel,S06,Online Store,Online,1,49.50,0.00
+ORD00321,13/10/2024,P010,Rain Jacket,Apparel,S05,Bengaluru Tech Park,Bengaluru,2,,0.00
+ORD00863,2024-12-03,P003,27-inch Monitor,Electronics,S01,Hyderabad Central,Hyderabad,4,249.00,0.10
+ORD00576,2024-08-12,P004,USB-C Hub,Electronics,S05,Bengaluru Tech Park,Bengaluru,3,39.95,0.00
+ORD00134,2024-08-11,P016,Yoga Mat,Sports,S04,Visakhapatnam Bay,Visakhapatnam,1,27.00,0.15
+ORD00170,30-04-2024,P010,Rain Jacket,Apparel,S01,Hyderabad Central,Hyderabad,2,119.00,0.10
+ORD00222,2024-03-25,P007,Running Shoes,Apparel,S05,Bengaluru Tech Park,Bengaluru,3,74.99,0.15
+ORD00609,2024-11-12,P016,Yoga Mat,Sports,S04,Visakhapatnam Bay,Visakhapatnam,1,27.00,0.10
+ORD00251,2024-12-24,P011,Wool Socks (3 pack),Apparel,S06,Online Store,Online,2,14.25,0.00
+ORD00616,2024-04-06,P008,Cotton T-Shirt,Apparel,S02,Vijayawada Mall,Vijayawada,1,,0.00
+ORD00459,2024-09-26,P007,Running Shoes,Apparel,S04,Visakhapatnam Bay,Visakhapatnam,2,74.99,0.05
+ORD00697,2024-06-11,P018,Water Bottle (1L),Sports,S05,Bengaluru Tech Park,Bengaluru,1,$12.99,0.00
+ORD00816,2024-03-12,P002,Mechanical Keyboard,Electronics,S04,Visakhapatnam Bay,Visakhapatnam,1,89.50,0.00
+ORD00006,22/05/2024,P015,Desk Lamp,Home,S04,Visakhapatnam Bay,Visakhapatnam,1,29.99,0.10
+ORD00495,"Jan 20, 2024",P012,Coffee Maker,Home,S05,Bengaluru Tech Park,Bengaluru,1,$99.00,0.00
+ORD00673,02/06/2024,P004,USB-C Hub,Electronics,S01,Hyderabad Central,Hyderabad,3,39.95,0.10
+ORD00319,2024-07-25,P018,Water Bottle (1L),Sports,S04,Visakhapatnam Bay,Visakhapatnam,2,12.99,0.15
+ORD00543,2024-11-27,P008,Cotton T-Shirt,Apparel,S05,Bengaluru Tech Park,Bengaluru,2,19.99,0.10
+ORD00502,"Mar 26, 2024",P016,Yoga Mat,Sports,S04,Visakhapatnam Bay,Visakhapatnam,1,27.00,0.10
+ORD00399,2024-05-02,P007,Running Shoes,Apparel,S05,Bengaluru Tech Park,Bengaluru,3,$74.99,0.00
+ORD00025,2024-02-23,P020,Bookshelf,Furniture,S02,Vijayawada Mall,Vijayawada,1,129.50,0.00
+ORD00271,2024-02-15,P011,Wool Socks (3 pack),Apparel,S06,Online Store,Online,2,14.25,0.00
+ORD00557,"Aug 05, 2024",P016,Yoga Mat,Sports,S06,Online Store,Online,4,$27.00,0.05
+ORD00533,2024-04-20,P012,Coffee Maker,Home,S05,Bengaluru Tech Park,Bengaluru,4,$99.00,0.00
+ORD00297,2024-04-03,P011,Wool Socks (3 pack),Apparel,S06,Online Store,Online,1,14.25,0.05
+ORD00897,08/08/2024,P003,27-inch Monitor,Electronics,S03,Guntur City Store,Guntur,-1,249.00,0.00
+ORD00003,"Mar 22, 2024",P011,Wool Socks (3 pack),Apparel,S06,Online Store,Online,1,14.25,0.00
+ORD00890,2024-05-02,P016,Yoga Mat,Sports,S01,Hyderabad Central,Hyderabad,1,27.00,0.15
+ORD00218,2024-09-10,P019,Office Chair,Furniture,S04,Visakhapatnam Bay,Visakhapatnam,1,$179.00,0.15
+ORD00470,13-09-2024,P011,Wool Socks (3 pack),Apparel,S02,Vijayawada Mall,Vijayawada,4,14.25,0.10
+ORD00457,"Oct 20, 2024",P015,Desk Lamp,Home,S05,Bengaluru Tech Park,Bengaluru,3,$29.99,0.00
+ORD00092,2024-03-30,P005,Bluetooth Speaker,Electronics,S03,Guntur City Store,Guntur,3,$59.00,0.05
+ORD00090,2024-04-20,P005,Bluetooth Speaker,Electronics,S02,Vijayawada Mall,Vijayawada,3,59.00,0.05
+ORD00316,22/10/2024,P020,Bookshelf,Furniture,S06,Online Store,Online,1,129.50,0.10
+ORD00445,19-10-2024,P015,Desk Lamp,Home,S05,Bengaluru Tech Park,Bengaluru,2,29.99,0.00
+ORD00162,2024-10-02,P004,USB-C Hub,Electronics,S03,Guntur City Store,Guntur,1,39.95,0.10
+ORD00775,2024-10-15,P014,Bed Linen Set,Home,S06,Online Store,Online,1,64.00,0.05
+ORD00175,2024-05-10,P007,Running Shoes,Apparel,S01,Hyderabad Central,Hyderabad,2,74.99,0.00
+ORD00197,09-02-2024,P019,Office Chair,Furniture,S03,Guntur City Store,Guntur,1,179.00,0.15
+ORD00820,2024-07-07,P005,Bluetooth Speaker,Electronics,S03,Guntur City Store,Guntur,1,59.00,0.00
+ORD00009,26/10/2024,P002,Mechanical Keyboard,Electronics,S04,Visakhapatnam Bay,Visakhapatnam,4,89.50,0.00
+ORD00063,2024-10-31,P014,Bed Linen Set,Home,S06,Online Store,Online,3,$64.00,0.05
+ORD00117,"Dec 01, 2024",P013,Non-stick Frying Pan,Home,S06,Online Store,Online,1,34.50,0.10
+ORD00504,2024-09-28,P004,USB-C Hub,Electronics,S06,Online Store,Online,4,39.95,0.10
+ORD00170,2024-04-30,P020,Bookshelf,Furniture,S01,Hyderabad Central,Hyderabad,1,129.50,0.00
+ORD00688,2024-10-26,P019,Office Chair,Furniture,S04,Visakhapatnam Bay,Visakhapatnam,2,179.00,0.00
+ORD00129,2024-08-01,P003,27-inch Monitor,Electronics,S02,Vijayawada Mall,Vijayawada,2,249.00,0.00
+ORD00176,2024-11-26,P013,Non-stick Frying Pan,Home,S04,Visakhapatnam Bay,Visakhapatnam,2,34.50,0.00
+ORD00795,2024-11-08,P019,Office Chair,Furniture,S02,Vijayawada Mall,Vijayawada,2,$179.00,0.00
+ORD00646,2024-07-31,P008,Cotton T-Shirt,Apparel,S03,Guntur City Store,Guntur,1,19.99,0.15
+ORD00857,03-11-2024,P007,Running Shoes,Apparel,S03,Guntur City Store,Guntur,2,74.99,0.00
+ORD00667,2024-07-30,P013,Non-stick Frying Pan,Home,S03,Guntur City Store,Guntur,4,34.50,0.00
+ORD00744,17-10-2024,P007,Running Shoes,Apparel,S02,Vijayawada Mall,Vijayawada,1,74.99,0.00
+ORD00761,29/05/2024,P007,Running Shoes,Apparel,S02,Vijayawada Mall,Vijayawada,3,$74.99,0.00
+ORD00697,2024-06-11,P018,Water Bottle (1L),Sports,S05,Bengaluru Tech Park,Bengaluru,1,$12.99,0.00
+ORD00107,2024-02-28,P011,Wool Socks (3 pack),Apparel,S04,Visakhapatnam Bay,Visakhapatnam,1,14.25,0.05
+ORD00318,30/04/2024,P011,Wool Socks (3 pack),Apparel,S01,Hyderabad Central,Hyderabad,1,$14.25,0.00
+ORD00460,15/11/2024,P020,Bookshelf,Furniture,S03,Guntur City Store,Guntur,2,129.50,0.05
+ORD00560,2024-06-03,P016,Yoga Mat,Sports,S05,Bengaluru Tech Park,Bengaluru,2,27.00,0.00
+ORD00265,2024-04-29,P001,Wireless Mouse,Electronics,S05,Bengaluru Tech Park,Bengaluru,2,24.99,0.00
+ORD00333,2024-04-09,P017,Dumbbell Set,Sports,S03,Guntur City Store,Guntur,1,149.00,0.00
+ORD00456,22/10/2024,P006,Noise Cancelling Headphones,Electronics,S05,Bengaluru Tech Park,Bengaluru,2,199.00,0.05
+ORD00654,2024-04-08,P002,Mechanical Keyboard,Electronics,S03,Guntur City Store,Guntur,1,89.50,0.00
+ORD00878,2024-07-25,P017,Dumbbell Set,Sports,S01,Hyderabad Central,Hyderabad,1,149.00,0.10
+ORD00112,2024-10-16,P012,Coffee Maker,Home,S06,Online Store,Online,2,$99.00,0.00
+ORD00425,"Sep 14, 2024",P005,Bluetooth Speaker,Electronics,S06,Online Store,Online,1,59.00,0.10
+ORD00084,2024-07-22,P012,Coffee Maker,Home,S05,Bengaluru Tech Park,Bengaluru,2,99.00,0.10
+ORD00088,2024-07-04,P012,Coffee Maker,Home,S01,Hyderabad Central,Hyderabad,2,99.00,0.10
+ORD00144,2024-05-25,P007,Running Shoes,Apparel,S01,Hyderabad Central,Hyderabad,2,74.99,0.05
+ORD00086,"Nov 08, 2024",P014,Bed Linen Set,Home,S02,Vijayawada Mall,Vijayawada,1,64.00,0.00
+ORD00568,2024-08-14,P011,Wool Socks (3 pack),Apparel,S05,Bengaluru Tech Park,Bengaluru,1,14.25,0.00
+ORD00023,2024-10-15,P018,Water Bottle (1L),Sports,S01,Hyderabad Central,Hyderabad,1,12.99,0.00
+ORD00064,2024-12-11,P006,Noise Cancelling Headphones,Electronics,S05,Bengaluru Tech Park,Bengaluru,2,199.00,0.10
+ORD00488,2024-11-09,P005,Bluetooth Speaker,Electronics,S05,Bengaluru Tech Park,Bengaluru,3,59.00,0.00
+ORD00610,2024-05-16,P005,Bluetooth Speaker,Electronics,S03,Guntur City Store,Guntur,1,59.00,0.00
+ORD00848,"Apr 11, 2024",P011,Wool Socks (3 pack),Apparel,S01,Hyderabad Central,Hyderabad,1,14.25,0.00
+ORD00209,01/10/2024,P020,Bookshelf,Furniture,S05,Bengaluru Tech Park,Bengaluru,1,129.50,0.10
+ORD00371,2024-05-26,P020,Bookshelf,Furniture,S02,Vijayawada Mall,Vijayawada,2,129.50,0.10
+ORD00321,13-10-2024,P008,Cotton T-Shirt,Apparel,S05,Bengaluru Tech Park,Bengaluru,1,19.99,0.00
+ORD00808,2024-07-07,P018,Water Bottle (1L),Sports,S03,Guntur City Store,Guntur,1,12.99,0.00
+ORD00688,26/10/2024,P012,Coffee Maker,Home,S04,Visakhapatnam Bay,Visakhapatnam,1,$99.00,0.05
+ORD00411,2024-08-20,P018,Water Bottle (1L),Sports,S01,Hyderabad Central,Hyderabad,3,12.99,0.00
+ORD00517,"Aug 23, 2024",P007,Running Shoes,Apparel,S03,Guntur City Store,Guntur,1,74.99,0.00
+ORD00822,2024-09-10,P014,Bed Linen Set,Home,S04,Visakhapatnam Bay,Visakhapatnam,2,64.00,0.10
+ORD00034,15/11/2024,P013,Non-stick Frying Pan,Home,S03,Guntur City Store,Guntur,2,34.50,0.00
+ORD00752,2024-06-16,P008,Cotton T-Shirt,Apparel,S04,Visakhapatnam Bay,Visakhapatnam,3,19.99,0.10
+ORD00737,  2024-07-13  ,P005,Bluetooth Speaker,Electronics,S04,Visakhapatnam Bay,Visakhapatnam,3,59.00,0.00
+ORD00251,2024-12-24,P019,Office Chair,Furniture,S06,Online Store,Online,1,179.00,0.00
+ORD00498,2024-11-15,P016,Yoga Mat,Sports,S01,Hyderabad Central,Hyderabad,1,27.00,0.05
+ORD00013,"Sep 05, 2024",P007,Running Shoes,Apparel,S01,Hyderabad Central,Hyderabad,2,74.99,0.00
+ORD00519,26-07-2024,P017,Dumbbell Set,Sports,S01,Hyderabad Central,Hyderabad,2,149.00,0.10
+ORD00812,2024-03-24,P020,Bookshelf,Furniture,S02,Vijayawada Mall,Vijayawada,1,129.50,0.00
+ORD00418,03/11/2024,P014,Bed Linen Set,Home,S04,Visakhapatnam Bay,Visakhapatnam,3,64.00,0.00
+ORD00229,2024-04-29,P003,27-inch Monitor,Electronics,S04,Visakhapatnam Bay,Visakhapatnam,2,$249.00,0.00
+ORD00896,29-12-2024,P001,Wireless Mouse,Electronics,S03,Guntur City Store,Guntur,1,24.99,0.00
+ORD00377,27/04/2024,P010,Rain Jacket,Apparel,S03,Guntur City Store,Guntur,1,119.00,0.10
+ORD00020,2024-01-26,P017,Dumbbell Set,Sports,S05,Bengaluru Tech Park,Bengaluru,4,149.00,0.05
+ORD00381,"Sep 03, 2024",P017,Dumbbell Set,Sports,S03,Guntur City Store,Guntur,3,$149.00,0.00
+ORD00433,2024-06-10,P006,Noise Cancelling Headphones,Electronics,S04,Visakhapatnam Bay,Visakhapatnam,1,199.00,0.10
+ORD00801,2024-07-04,P013,Non-stick Frying Pan,Home,S06,Online Store,Online,1,34.50,0.00
+ORD00875,2024-04-21,P014,Bed Linen Set,Home,S01,Hyderabad Central,Hyderabad,2,64.00,0.00
+ORD00237,2024-10-18,P018,Water Bottle (1L),Sports,S04,Visakhapatnam Bay,Visakhapatnam,2,12.99,0.15
+ORD00308,24/05/2024,P016,Yoga Mat,Sports,S01,Hyderabad Central,Hyderabad,1,27.00,0.00
+ORD00665,2024-05-11,P004,USB-C Hub,Electronics,S01,Hyderabad Central,Hyderabad,2,39.95,0.00
+ORD00220,06-05-2024,P015,Desk Lamp,Home,S03,Guntur City Store,Guntur,1,29.99,0.15
+ORD00449,2024-12-30,P006,Noise Cancelling Headphones,Electronics,S02,Vijayawada Mall,Vijayawada,3,199.00,0.00
+ORD00854,2024-08-03,P015,Desk Lamp,Home,S02,Vijayawada Mall,Vijayawada,2,29.99,0.00
+ORD00716,"Dec 03, 2024",P019,Office Chair,Furniture,S02,Vijayawada Mall,Vijayawada,1,179.00,0.10
+ORD00218,2024-09-10,P016,Yoga Mat,Sports,S04,Visakhapatnam Bay,Visakhapatnam,1,27.00,0.15
+ORD00881,04-06-2024,P011,Wool Socks (3 pack),Apparel,S01,Hyderabad Central,Hyderabad,2,14.25,0.15
+ORD00415,"Jan 21, 2024",P010,Rain Jacket,Apparel,S06,Online Store,Online,1,$119.00,0.00
+ORD00029,2024-07-27,P006,Noise Cancelling Headphones,Electronics,S05,Bengaluru Tech Park,Bengaluru,4,199.00,0.00
+ORD00022,02/12/2024,P008,Cotton T-Shirt,Apparel,S05,Bengaluru Tech Park,Bengaluru,1,19.99,0.00
+ORD00694,2024-03-30,P004,USB-C Hub,Electronics,S03,Guntur City Store,Guntur,1,39.95,0.00
+ORD00401,2024-05-17,P015,Desk Lamp,Home,S02,Vijayawada Mall,Vijayawada,3,$29.99,0.00
+ORD00900,2024-09-24,P004,USB-C Hub,Electronics,S03,Guntur City Store,Guntur,1,39.95,0.00
+ORD00579,04/02/2024,P001,Wireless Mouse,Electronics,S04,Visakhapatnam Bay,Visakhapatnam,4,24.99,0.00
+ORD00805,12/08/2024,P018,Water Bottle (1L),Sports,S05,Bengaluru Tech Park,Bengaluru,3,12.99,0.00
+ORD00245,2024-05-18,P017,Dumbbell Set,Sports,S01,Hyderabad Central,Hyderabad,4,149.00,0.00
+ORD00310,18-09-2024,P002,Mechanical Keyboard,Electronics,S01,Hyderabad Central,Hyderabad,3,89.50,0.00
+ORD00332,13/11/2024,P012,Coffee Maker,Home,S04,Visakhapatnam Bay,Visakhapatnam,3,99.00,0.05
+ORD00085,22-11-2024,P008,Cotton T-Shirt,Apparel,S03,Guntur City Store,Guntur,2,19.99,0.05
+ORD00809,15/06/2024,P009,Denim Jeans,Apparel,S01,Hyderabad Central,Hyderabad,4,49.50,0.05
+ORD00751,2024-02-14,P003,27-inch Monitor,Electronics,S03,Guntur City Store,Guntur,1,249.00,0.10
+ORD00074,2024-11-16,P010,Rain Jacket,Apparel,S06,Online Store,Online,4,119.00,0.10
+ORD00002,2024-10-06,P014,Bed Linen Set,Home,S01,Hyderabad Central,Hyderabad,1,64.00,0.00
+ORD00664,30-09-2024,P013,Non-stick Frying Pan,Home,S05,Bengaluru Tech Park,Bengaluru,2,$34.50,0.00
+ORD00844,2024-08-28,P007,Running Shoes,Apparel,S02,Vijayawada Mall,Vijayawada,1,74.99,0.15
+ORD00300,2024-08-19,P006,Noise Cancelling Headphones,Electronics,S03,Guntur City Store,Guntur,2,199.00,0.00
+ORD00331,11-12-2024,P010,Rain Jacket,Apparel,S06,Online Store,Online,2,119.00,0.00
+ORD00171,2024-11-06,P018,Water Bottle (1L),Sports,S03,Guntur City Store,Guntur,4,12.99,0.15
+ORD00706,09-10-2024,P014,BED LINEN SET,Home,S04,Visakhapatnam Bay,Visakhapatnam,1,$64.00,0.00
+ORD00720,12/08/2024,P006,Noise Cancelling Headphones,Electronics,S02,Vijayawada Mall,Vijayawada,1,199.00,0.05
+ORD00067,2024-09-22,P016,Yoga Mat,Sports,S03,Guntur City Store,Guntur,2,27.00,0.15
+ORD00644,29-05-2024,P011,WOOL SOCKS (3 PACK),Apparel,S06,Online Store,Online,3,14.25,0.00
+ORD00852,2024-07-14,P001,Wireless Mouse,Electronics,S03,Guntur City Store,Guntur,2,24.99,0.00
+ORD00324,15/09/2024,P019,Office Chair,Furniture,S02,Vijayawada Mall,Vijayawada,2,179.00,0.05
+ORD00208,"Dec 03, 2024",P014,Bed Linen Set,Home,S02,Vijayawada Mall,Vijayawada,2,64.00,0.15
+ORD00064,2024-12-11,P019,Office Chair,Furniture,S05,Bengaluru Tech Park,Bengaluru,2,$179.00,0.15
+ORD00180,"Mar 30, 2024",P014,Bed Linen Set,Home,S06,Online Store,Online,2,64.00,0.00
+ORD00373,2024-06-29,P013,Non-stick Frying Pan,Home,S06,Online Store,Online,2,34.50,0.05
+ORD00819,2024-02-13,P010,Rain Jacket,Apparel,S01,Hyderabad Central,Hyderabad,1,119.00,0.00
+ORD00875,  21-04-2024  ,P009,Denim Jeans,Apparel,S01,Hyderabad Central,Hyderabad,3,$49.50,0.15
+ORD00811,02-09-2024,P006,Noise Cancelling Headphones,Electronics,S01,Hyderabad Central,Hyderabad,2,199.00,0.15
+ORD00635,"Aug 09, 2024",P019,Office Chair,Furniture,S04,Visakhapatnam Bay,Visakhapatnam,2,$179.00,0.05
+ORD00205,2024-10-31,P011,Wool Socks (3 pack),Apparel,S02,Vijayawada Mall,Vijayawada,2,14.25,0.10
+ORD00166,20-08-2024,P017,Dumbbell Set,Sports,S06,Online Store,Online,2,149.00,0.00
+ORD00402,2024-03-15,P013,Non-stick Frying Pan,Home,S01,Hyderabad Central,Hyderabad,1,34.50,0.00
+ORD00503,2024-09-28,P010,Rain Jacket,Apparel,S04,Visakhapatnam Bay,Visakhapatnam,4,119.00,0.00
+ORD00575,10-10-2024,P014,Bed Linen Set,Home,S04,Visakhapatnam Bay,Visakhapatnam,1,64.00,0.00
+ORD00341,2024-07-26,P001,Wireless Mouse,Electronics,S04,Visakhapatnam Bay,Visakhapatnam,1,24.99,0.00
+ORD00004,23/01/2024,P020,Bookshelf,Furniture,S06,Online Store,Online,4,129.50,0.00
+ORD00129,"Aug 01, 2024",P016,Yoga Mat,Sports,S02,Vijayawada Mall,Vijayawada,1,27.00,0.00
+ORD00088,04-07-2024,P007,Running Shoes,Apparel,S01,Hyderabad Central,Hyderabad,4,$74.99,0.15
+ORD00725,22/05/2024,P019,Office Chair,Furniture,S06,Online Store,Online,1,179.00,0.00
+ORD00271,15-02-2024,P015,Desk Lamp,Home,S06,Online Store,Online,3,29.99,0.00
+ORD00615,15/05/2024,P014,Bed Linen Set,Home,S05,Bengaluru Tech Park,Bengaluru,4,64.00,0.00
+ORD00078,21/03/2024,P012,Coffee Maker,Home,S01,Hyderabad Central,Hyderabad,4,99.00,0.00
+ORD00650,2024-07-18,P005,Bluetooth Speaker,Electronics,S06,Online Store,Online,2,$59.00,0.05
+ORD00166,20/08/2024,P009,Denim Jeans,Apparel,S06,Online Store,Online,3,49.50,0.00
+ORD00656,06/03/2024,P012,Coffee Maker,Home,S04,Visakhapatnam Bay,Visakhapatnam,4,99.00,0.00
+ORD00493,2024-12-22,P020,Bookshelf,Furniture,S05,Bengaluru Tech Park,Bengaluru,1,129.50,0.05
+ORD00878,2024-07-25,P003,27-inch Monitor,Electronics,S01,Hyderabad Central,Hyderabad,2,$249.00,0.00
+ORD00153,2024-05-27,P020,Bookshelf,Furniture,S01,Hyderabad Central,Hyderabad,1,129.50,0.00
+ORD00162,2024-10-02,P002,Mechanical Keyboard,Electronics,S03,Guntur City Store,Guntur,2,89.50,0.05
+ORD00710,2024-11-04,P006,Noise Cancelling Headphones,Electronics,S04,Visakhapatnam Bay,Visakhapatnam,1,199.00,0.00
+ORD00067,22-09-2024,P005,Bluetooth Speaker,Electronics,S03,Guntur City Store,Guntur,4,59.00,0.00
+ORD00555,14/02/2024,P007,Running Shoes,Apparel,S05,Bengaluru Tech Park,Bengaluru,2,74.99,0.05
+ORD00745,2024-07-28,P013,Non-stick Frying Pan,Home,S04,Visakhapatnam Bay,Visakhapatnam,1,34.50,0.00
+ORD00882,16/03/2024,P016,Yoga Mat,Sports,S05,Bengaluru Tech Park,Bengaluru,4,27.00,0.00
+ORD00577,05/08/2024,P009,Denim Jeans,Apparel,S06,Online Store,Online,3,49.50,0.15
+ORD00733,04/01/2024,P007,Running Shoes,Apparel,S01,Hyderabad Central,Hyderabad,1,74.99,0.00
+ORD00439,"Mar 01, 2024",P014,Bed Linen Set,Home,S02,Vijayawada Mall,Vijayawada,1,64.00,0.10
+ORD00797,13/07/2024,P012,Coffee Maker,Home,S04,Visakhapatnam Bay,Visakhapatnam,1,99.00,0.00
+ORD00014,2024-08-12,P004,USB-C Hub,Electronics,S05,Bengaluru Tech Park,Bengaluru,1,39.95,0.00
+ORD00772,29/06/2024,P017,Dumbbell Set,Sports,S05,Bengaluru Tech Park,Bengaluru,1,$149.00,0.00
+ORD00207,14/01/2024,P014,Bed Linen Set,Home,S06,Online Store,Online,2,64.00,0.00
+ORD00451,22-03-2024,P013,Non-stick Frying Pan,Home,S04,Visakhapatnam Bay,Visakhapatnam,1,34.50,0.00
+ORD00020,26/01/2024,P003,27-inch Monitor,Electronics,S05,Bengaluru Tech Park,Bengaluru,3,249.00,0.00
+ORD00033,2024-06-09,P014,Bed Linen Set,Home,S04,Visakhapatnam Bay,Visakhapatnam,1,64.00,0.15
+ORD00875,2024-04-21,P007,Running Shoes,Apparel,S01,Hyderabad Central,Hyderabad,1,74.99,0.00
+ORD00325,20/12/2024,P005,Bluetooth Speaker,Electronics,S05,Bengaluru Tech Park,Bengaluru,1,59.00,0.10
+ORD00405,22/11/2024,P012,Coffee Maker,Home,S03,Guntur City Store,Guntur,4,99.00,0.15
+ORD00829,28/08/2024,P011,Wool Socks (3 pack),Apparel,S04,Visakhapatnam Bay,Visakhapatnam,abc,14.25,0.10
+ORD00451,2024-03-22,P005,Bluetooth Speaker,Electronics,S04,Visakhapatnam Bay,Visakhapatnam,1,59.00,0.00
+ORD00381,03-09-2024,P011,Wool Socks (3 pack),Apparel,S03,Guntur City Store,Guntur,2,14.25,0.05
+ORD00283,24-02-2024,P010,Rain Jacket,Apparel,S05,Bengaluru Tech Park,Bengaluru,4,119.00,0.00
+ORD00089,19/06/2024,P019,Office Chair,Furniture,S02,Vijayawada Mall,Vijayawada,1,179.00,0.15
+ORD00010,2024-09-27,P009,Denim Jeans,Apparel,S03,Guntur City Store,Guntur,3,49.50,0.00
+ORD00461,2024-04-02,P010,Rain Jacket,Apparel,S05,Bengaluru Tech Park,Bengaluru,4,119.00,0.00
+ORD00201,2024-04-05,P018,Water Bottle (1L),Sports,S04,Visakhapatnam Bay,Visakhapatnam,2,$12.99,0.00
+ORD00137,  13/12/2024  ,P005,Bluetooth Speaker,Electronics,S02,Vijayawada Mall,Vijayawada,3,$59.00,0.10
+ORD00416,2024-04-28,P006,Noise Cancelling Headphones,Electronics,S05,Bengaluru Tech Park,Bengaluru,2,$199.00,0.05
+ORD00586,2024-09-20,P019,Office Chair,Furniture,S04,Visakhapatnam Bay,Visakhapatnam,1,179.00,0.05
+ORD00184,02/09/2024,P010,Rain Jacket,Apparel,S02,Vijayawada Mall,Vijayawada,1,119.00,0.05
+ORD00602,16/12/2024,P009,Denim Jeans,Apparel,S01,Hyderabad Central,Hyderabad,1,49.50,0.15
+ORD00043,2024-12-22,P014,Bed Linen Set,Home,S01,Hyderabad Central,Hyderabad,2,64.00,0.10
+ORD00741,15/07/2024,P018,Water Bottle (1L),Sports,S04,Visakhapatnam Bay,Visakhapatnam,2,12.99,0.00
+ORD00114,2024-01-22,P007,Running Shoes,Apparel,S04,Visakhapatnam Bay,Visakhapatnam,1,74.99,0.00
+ORD00829,2024-08-28,P005,Bluetooth Speaker,Electronics,S04,Visakhapatnam Bay,Visakhapatnam,1,59.00,0.10
+ORD00585,21/06/2024,P018,Water Bottle (1L),Sports,S02,,Vijayawada,1,12.99,0.00
+ORD00604,2024-07-30,P009,Denim Jeans,Apparel,S03,Guntur City Store,Guntur,2,49.50,0.00
+ORD00178,2024-02-27,P014,Bed Linen Set,Home,S01,Hyderabad Central,Hyderabad,2,$64.00,0.00
+ORD00213,22/03/2024,P014,Bed Linen Set,Home,S03,Guntur City Store,Guntur,4,64.00,0.00
+ORD00375,14-09-2024,P004,USB-C Hub,Electronics,S03,Guntur City Store,Guntur,3,39.95,0.00
+ORD00655,08/07/2024,P013,Non-stick Frying Pan,Home,S06,Online Store,Online,2,34.50,0.05
+ORD00142,2024-09-02,P003,27-inch Monitor,Electronics,S05,Bengaluru Tech Park,Bengaluru,2,$249.00,0.10
+ORD00430,2024-01-28,P018,Water Bottle (1L),Sports,S02,Vijayawada Mall,Vijayawada,1,12.99,0.05
+ORD00839,04/02/2024,P009,Denim Jeans,Apparel,S03,Guntur City Store,Guntur,4,49.50,0.00
+ORD00785,13-12-2024,P019,Office Chair,Furniture,S02,Vijayawada Mall,Vijayawada,1,179.00,0.00
+ORD00606,2024-06-05,P015,Desk Lamp,Home,S03,Guntur City Store,Guntur,2,29.99,0.10
+ORD00175,"May 10, 2024",P018,Water Bottle (1L),Sports,S01,Hyderabad Central,Hyderabad,4,12.99,0.00
+ORD00783,05/08/2024,P012,Coffee Maker,Home,S06,Online Store,Online,1,99.00,0.10
+ORD00900,2024-09-24,P004,USB-C Hub,Electronics,S03,Guntur City Store,Guntur,1,39.95,0.00
+ORD00395,2024-11-23,P015,Desk Lamp,Home,S06,Online Store,Online,1,29.99,0.00
+ORD00522,2024-02-19,P016,Yoga Mat,Sports,S04,Visakhapatnam Bay,Visakhapatnam,2,27.00,0.05
+ORD00896,2024-12-29,P005,Bluetooth Speaker,Electronics,S03,Guntur City Store,Guntur,1,59.00,0.00
+ORD00264,"Dec 26, 2024",P019,Office Chair,Furniture,S06,Online Store,Online,2,179.00,0.05
+ORD00266,07-03-2024,P006,Noise Cancelling Headphones,Electronics,S03,Guntur City Store,Guntur,4,$199.00,0.15
+ORD00777,2024-03-04,P019,Office Chair,Furniture,S02,Vijayawada Mall,Vijayawada,4,$179.00,0.05
+ORD00781,09/06/2024,P002,Mechanical Keyboard,Electronics,S01,Hyderabad Central,Hyderabad,1,89.50,0.00
+ORD00866,2024-07-11,P019,Office Chair,Furniture,S03,Guntur City Store,Guntur,2,179.00,0.15
+ORD00004,2024-01-23,P018,Water Bottle (1L),Sports,S06,Online Store,Online,1,12.99,0.00
+ORD00597,25/09/2024,P019,Office Chair,Furniture,S03,Guntur City Store,Guntur,3,,0.15
+ORD00195,18/05/2024,P009,Denim Jeans,Apparel,S01,Hyderabad Central,Hyderabad,4,49.50,0.05
+ORD00273,"Jul 11, 2024",P016,Yoga Mat,Sports,S02,Vijayawada Mall,Vijayawada,2,27.00,0.00
+ORD00225,2024-03-13,P003,27-inch Monitor,Electronics,S05,Bengaluru Tech Park,Bengaluru,1,249.00,0.10
+ORD00734,2024-04-14,P015,Desk Lamp,Home,S02,Vijayawada Mall,Vijayawada,4,29.99,0.00
+ORD00636,2024-09-06,P020,Bookshelf,Furniture,S02,Vijayawada Mall,Vijayawada,4,129.50,0.00
+ORD00024,2024-02-05,P010,Rain Jacket,Apparel,S02,Vijayawada Mall,Vijayawada,1,119.00,0.15
+ORD00663,10-01-2024,P008,Cotton T-Shirt,Apparel,S03,Guntur City Store,Guntur,3,19.99,0.15
+ORD00694,  2024-03-30  ,P008,Cotton T-Shirt,Apparel,S03,Guntur City Store,Guntur,1,19.99,0.00
+ORD00643,2024-01-22,P006,Noise Cancelling Headphones,Electronics,S05,Bengaluru Tech Park,Bengaluru,2,199.00,0.15
+ORD00803,2024-04-13,P005,Bluetooth Speaker,Electronics,S05,Bengaluru Tech Park,Bengaluru,1,59.00,0.00
+ORD00048,21/04/2024,P001,Wireless Mouse,Electronics,S04,Visakhapatnam Bay,Visakhapatnam,4,24.99,0.05
+ORD00274,2024-07-28,P018,Water Bottle (1L),Sports,S06,Online Store,Online,1,$12.99,0.00
+ORD00523,2024-06-15,P002,Mechanical Keyboard,Electronics,S01,Hyderabad Central,Hyderabad,2,89.50,0.00
+ORD00413,2024-07-17,P017,Dumbbell Set,Sports,S06,Online Store,Online,2,149.00,0.05
+ORD00049,22/07/2024,P003,27-inch Monitor,Electronics,S06,Online Store,Online,2,$249.00,0.15
+ORD00782,10-03-2024,P017,Dumbbell Set,Sports,S04,Visakhapatnam Bay,Visakhapatnam,2,149.00,0.10
+ORD00391,2024-01-12,P006,Noise Cancelling Headphones,Electronics,S02,Vijayawada Mall,Vijayawada,1,199.00,0.00
+ORD00228,2024-08-07,P006,Noise Cancelling Headphones,Electronics,S02,Vijayawada Mall,Vijayawada,1,199.00,0.10
+ORD00617,11/08/2024,P002,Mechanical Keyboard,Electronics,S01,Hyderabad Central,Hyderabad,2,89.50,0.10
+ORD00853,2024-11-15,P015,Desk Lamp,Home,S05,Bengaluru Tech Park,Bengaluru,2,29.99,0.15
+ORD00093,"Aug 17, 2024",P017,Dumbbell Set,Sports,S03,Guntur City Store,Guntur,1,$149.00,0.10
+ORD00339,03-02-2024,P007,Running Shoes,Apparel,S02,Vijayawada Mall,Vijayawada,4,74.99,0.00
+ORD00831,2024-04-04,P014,Bed Linen Set,Home,S06,Online Store,Online,1,64.00,0.00
+ORD00790,17-01-2024,P013,Non-stick Frying Pan,Home,S02,Vijayawada Mall,Vijayawada,2,34.50,0.10
+ORD00543,2024-11-27,P003,27-inch Monitor,Electronics,S05,Bengaluru Tech Park,Bengaluru,2,249.00,0.15
+ORD00592,2024-10-16,P010,Rain Jacket,Apparel,S06,Online Store,Online,3,119.00,0.00
+ORD00414,08-09-2024,P012,Coffee Maker,Home,S01,Hyderabad Central,Hyderabad,3,99.00,0.00
+ORD00054,2024-05-21,P017,Dumbbell Set,Sports,S05,Bengaluru Tech Park,Bengaluru,4,149.00,0.00
+ORD00535,2024-11-22,P019,Office Chair,Furniture,S05,Bengaluru Tech Park,Bengaluru,4,179.00,0.15
+ORD00179,29/01/2024,P014,Bed Linen Set,Home,S02,Vijayawada Mall,Vijayawada,1,64.00,0.00
+ORD00518,2024-04-08,P001,Wireless Mouse,Electronics,S01,Hyderabad Central,Hyderabad,1,24.99,0.00
+ORD00689,2024-10-13,P003,27-inch Monitor,Electronics,S01,Hyderabad Central,Hyderabad,1,249.00,0.10
+ORD00662,2024-12-28,P019,Office Chair,Furniture,S03,Guntur City Store,Guntur,3,179.00,0.05
+ORD00333,2024-04-09,P006,Noise Cancelling Headphones,Electronics,S03,Guntur City Store,Guntur,4,199.00,0.00
+ORD00211,2024-02-13,P005,Bluetooth Speaker,Electronics,S01,Hyderabad Central,Hyderabad,1,59.00,0.00
+ORD00180,30/03/2024,P013,Non-stick Frying Pan,Home,S06,Online Store,Online,3,34.50,0.00
+ORD00344,17/04/2024,P019,Office Chair,Furniture,S06,Online Store,Online,3,179.00,0.15
+ORD00646,"Jul 31, 2024",P017,Dumbbell Set,Sports,S03,Guntur City Store,Guntur,3,149.00,0.00
+ORD00827,2024-03-14,P001,WIRELESS MOUSE,Electronics,S04,Visakhapatnam Bay,Visakhapatnam,2,24.99,0.00
+ORD00580,2024-09-11,P002,Mechanical Keyboard,Electronics,S04,Visakhapatnam Bay,Visakhapatnam,4,89.50,0.00
+ORD00060,2024-05-07,P013,Non-stick Frying Pan,Home,S01,Hyderabad Central,Hyderabad,2,34.50,0.00
+ORD00586,2024-09-20,P001,Wireless Mouse,Electronics,S04,Visakhapatnam Bay,Visakhapatnam,2,24.99,0.05
+ORD00770,02-12-2024,P010,Rain Jacket,Apparel,S01,Hyderabad Central,Hyderabad,1,119.00,0.05
+ORD00607,2024-10-30,P007,Running Shoes,Apparel,S03,Guntur City Store,Guntur,1,74.99,0.00
+ORD00215,2024-10-27,P012,Coffee Maker,Home,S01,Hyderabad Central,Hyderabad,3,99.00,0.05
+ORD00267,27/10/2024,P016,Yoga Mat,Sports,S01,Hyderabad Central,Hyderabad,2,27.00,0.00
+ORD00139,"Feb 28, 2024",P009,Denim Jeans,Apparel,S01,Hyderabad Central,Hyderabad,2,49.50,0.00
+ORD00550,2024-03-23,P002,Mechanical Keyboard,Electronics,S02,Vijayawada Mall,Vijayawada,4,89.50,0.05
+ORD00475,04-10-2024,P006,Noise Cancelling Headphones,Electronics,S03,Guntur City Store,Guntur,1,199.00,0.05
+ORD00040,07/05/2024,P011,Wool Socks (3 pack),Apparel,S01,Hyderabad Central,Hyderabad,4,14.25,0.00
+ORD00874,2024-02-07,P012,Coffee Maker,Home,S02,Vijayawada Mall,Vijayawada,1,$99.00,0.15
+ORD00883,"Feb 17, 2024",P007,Running Shoes,Apparel,S03,Guntur City Store,Guntur,2,$74.99,0.00
+ORD00176,2024-11-26,P018,Water Bottle (1L),Sports,S04,Visakhapatnam Bay,Visakhapatnam,1,12.99,0.15
+ORD00295,03-11-2024,P019,Office Chair,Furniture,S04,Visakhapatnam Bay,Visakhapatnam,2,179.00,0.05
+ORD00190,"Dec 07, 2024",P017,Dumbbell Set,Sports,S05,Bengaluru Tech Park,Bengaluru,3,$149.00,0.05
+ORD00434,30-04-2024,P002,Mechanical Keyboard,Electronics,S05,Bengaluru Tech Park,Bengaluru,2,89.50,0.00
+ORD00195,18/05/2024,P009,Denim Jeans,Apparel,S01,Hyderabad Central,Hyderabad,4,49.50,0.05
+ORD00883,17-02-2024,P003,27-inch Monitor,Electronics,S03,Guntur City Store,Guntur,1,249.00,0.15
+ORD00306,2024-08-15,P018,Water Bottle (1L),Sports,S04,Visakhapatnam Bay,Visakhapatnam,1,12.99,0.10
+ORD00825,04-07-2024,P005,Bluetooth Speaker,Electronics,S05,Bengaluru Tech Park,Bengaluru,4,59.00,0.00
+ORD00360,2024-11-15,P019,Office Chair,Furniture,S06,Online Store,Online,1,$179.00,0.00
+ORD00752,16/06/2024,P004,USB-C Hub,Electronics,S04,Visakhapatnam Bay,Visakhapatnam,2,39.95,0.05
+ORD00621,17-11-2024,P005,Bluetooth Speaker,Electronics,S03,Guntur City Store,Guntur,1,59.00,0.00
+ORD00464,2024-09-16,P001,Wireless Mouse,Electronics,S05,Bengaluru Tech Park,Bengaluru,1,24.99,0.00
+ORD00216,2024-03-01,P020,Bookshelf,Furniture,S02,Vijayawada Mall,Vijayawada,1,129.50,0.00
+ORD00252,27/07/2024,P004,USB-C Hub,Electronics,S01,Hyderabad Central,Hyderabad,1,39.95,0.15
+ORD00491,2024-12-09,P001,Wireless Mouse,Electronics,S02,Vijayawada Mall,Vijayawada,1,24.99,0.00
+ORD00681,20-05-2024,P013,Non-stick Frying Pan,Home,S01,Hyderabad Central,Hyderabad,1,34.50,0.00
+ORD00518,2024-04-08,P019,Office Chair,Furniture,S01,Hyderabad Central,Hyderabad,1,179.00,0.00
+ORD00363,2024-12-13,P017,Dumbbell Set,Sports,S06,Online Store,Online,1,149.00,0.15
+ORD00001,23/11/2024,P009,DENIM JEANS,Apparel,S01,Hyderabad Central,Hyderabad,1,49.50,0.00
+ORD00234,12/03/2024,P003,27-inch Monitor,Electronics,S02,Vijayawada Mall,Vijayawada,1,249.00,0.05
+ORD00551,04-04-2024,P006,Noise Cancelling Headphones,Electronics,S02,Vijayawada Mall,Vijayawada,2,199.00,0.00
+ORD00625,07-06-2024,P014,Bed Linen Set,Home,S06,Online Store,Online,1,64.00,0.00
+ORD00071,17/03/2024,P016,Yoga Mat,Sports,S04,Visakhapatnam Bay,Visakhapatnam,1,27.00,0.05
+ORD00730,17/06/2024,P014,Bed Linen Set,Home,S02,Vijayawada Mall,Vijayawada,2,64.00,0.00
+ORD00874,2024-02-07,P008,Cotton T-Shirt,Apparel,S02,Vijayawada Mall,Vijayawada,2,19.99,0.00
+ORD00759,2024-07-19,P016,Yoga Mat,Sports,S03,Guntur City Store,Guntur,4,$27.00,0.15
+ORD00002,06/10/2024,P001,Wireless Mouse,Electronics,S01,Hyderabad Central,Hyderabad,2,24.99,0.10
+ORD00081,26/05/2024,P015,Desk Lamp,Home,S02,Vijayawada Mall,Vijayawada,1,$29.99,0.00
+ORD00828,2024-08-01,P016,Yoga Mat,Sports,S02,Vijayawada Mall,Vijayawada,3,27.00,0.10
+ORD00766,02/10/2024,P016,Yoga Mat,Sports,S02,Vijayawada Mall,Vijayawada,1,27.00,0.15
+ORD00139,28-02-2024,P006,Noise Cancelling Headphones,Electronics,S01,Hyderabad Central,Hyderabad,2,$199.00,0.00
+ORD00542,2024-11-09,P002,Mechanical Keyboard,Electronics,S05,Bengaluru Tech Park,Bengaluru,2,$89.50,0.10
+ORD00189,2024-02-04,P001,Wireless Mouse,Electronics,S06,Online Store,Online,1,24.99,0.00
+ORD00768,16/08/2024,P002,Mechanical Keyboard,Electronics,S03,Guntur City Store,Guntur,1,$89.50,0.00
+ORD00062,2024-08-20,P007,Running Shoes,Apparel,S01,Hyderabad Central,Hyderabad,1,$74.99,0.05
+ORD00713,15/04/2024,P010,Rain Jacket,Apparel,S02,Vijayawada Mall,Vijayawada,2,119.00,0.10
+ORD00467,"Jan 10, 2024",P009,Denim Jeans,Apparel,S02,Vijayawada Mall,Vijayawada,3,49.50,0.00
+ORD00469,2024-02-27,,Running Shoes,Apparel,S03,Guntur City Store,Guntur,4,74.99,0.00
+ORD00860,19/07/2024,P014,Bed Linen Set,Home,S06,Online Store,Online,1,$64.00,0.15
+ORD00106,26/12/2024,P019,Office Chair,Furniture,S02,Vijayawada Mall,Vijayawada,2,179.00,0.00
+ORD00604,2024-07-30,P014,Bed Linen Set,Home,S03,Guntur City Store,Guntur,4,64.00,0.15
+ORD00721,09/12/2024,P017,Dumbbell Set,Sports,S01,Hyderabad Central,Hyderabad,2,$149.00,0.10
+ORD00711,2024-12-03,P015,Desk Lamp,Home,S05,Bengaluru Tech Park,Bengaluru,1,29.99,0.05
+ORD00654,08-04-2024,P004,USB-C Hub,Electronics,S03,Guntur City Store,Guntur,1,$39.95,0.00
+ORD00556,09-07-2024,P012,Coffee Maker,Home,S01,Hyderabad Central,Hyderabad,1,$99.00,0.00
+ORD00645,2024-07-31,P016,Yoga Mat,Sports,S01,Hyderabad Central,Hyderabad,1,27.00,0.05
+ORD00335,2024-07-02,P011,Wool Socks (3 pack),Apparel,S01,Hyderabad Central,Hyderabad,2,14.25,0.00
+ORD00270,2024-06-18,P008,Cotton T-Shirt,Apparel,S06,Online Store,Online,1,19.99,0.00
+ORD00153,2024-05-27,P017,DUMBBELL SET,Sports,S01,Hyderabad Central,Hyderabad,2,149.00,0.05
+ORD00210,2024-04-23,P012,Coffee Maker,Home,S05,Bengaluru Tech Park,Bengaluru,4,99.00,0.00
+ORD00568,2024-08-14,P005,Bluetooth Speaker,Electronics,S05,Bengaluru Tech Park,Bengaluru,1,59.00,0.00
+ORD00138,2024-02-04,P015,Desk Lamp,Home,S02,Vijayawada Mall,Vijayawada,4,$29.99,0.00
+ORD00810,11-05-2024,P007,Running Shoes,Apparel,S06,Online Store,Online,2,74.99,0.15
+ORD00008,17/10/2024,P005,Bluetooth Speaker,Electronics,S06,Online Store,Online,1,59.00,0.00
+ORD00171,06/11/2024,P007,Running Shoes,Apparel,S03,Guntur City Store,Guntur,3,74.99,0.10
+ORD00630,01-08-2024,P009,Denim Jeans,Apparel,S06,Online Store,Online,1,49.50,0.15
+ORD00552,06/10/2024,P019,Office Chair,Furniture,S05,Bengaluru Tech Park,Bengaluru,2,179.00,0.15
+ORD00174,2024-08-21,P018,Water Bottle (1L),Sports,S05,Bengaluru Tech Park,Bengaluru,2,$12.99,0.15
+ORD00714,2024-10-21,P007,Running Shoes,Apparel,S03,Guntur City Store,Guntur,2,74.99,0.10
+ORD00401,17/05/2024,P007,Running Shoes,Apparel,S02,Vijayawada Mall,Vijayawada,1,74.99,0.00
+ORD00229,2024-04-29,P019,Office Chair,Furniture,S04,Visakhapatnam Bay,Visakhapatnam,1,$179.00,0.10
+ORD00885,2024-10-29,P015,Desk Lamp,Home,S05,Bengaluru Tech Park,Bengaluru,4,29.99,0.05
+ORD00291,2024-08-30,P003,27-inch Monitor,Electronics,S05,Bengaluru Tech Park,Bengaluru,1,249.00,0.00
+ORD00837,2024-12-30,P019,Office Chair,Furniture,S06,Online Store,Online,2,$179.00,0.00
+ORD00589,2024-07-24,P003,27-inch Monitor,Electronics,S02,Vijayawada Mall,Vijayawada,2,249.00,0.05
+ORD00661,29-04-2024,P018,Water Bottle (1L),Sports,S04,Visakhapatnam Bay,Visakhapatnam,1,12.99,0.10
+ORD00047,2024-05-06,P020,Bookshelf,Furniture,S02,Vijayawada Mall,Vijayawada,1,$129.50,0.00
+ORD00892,"Feb 05, 2024",P011,Wool Socks (3 pack),Apparel,S02,Vijayawada Mall,Vijayawada,4,14.25,0.00
+ORD00091,2024-12-04,P001,Wireless Mouse,Electronics,S01,Hyderabad Central,Hyderabad,1,24.99,0.15
+ORD00363,13/12/2024,P008,Cotton T-Shirt,Apparel,S06,Online Store,Online,4,19.99,0.00
+ORD00327,2024-11-04,P017,Dumbbell Set,Sports,S06,Online Store,Online,1,149.00,0.10
+ORD00887,  2024-08-23  ,P001,Wireless Mouse,Electronics,S02,Vijayawada Mall,Vijayawada,2,24.99,0.05
+ORD00800,2024-02-19,P018,Water Bottle (1L),Sports,S06,Online Store,Online,3,12.99,0.00
+ORD00858,2024-10-22,P013,Non-stick Frying Pan,Home,S04,Visakhapatnam Bay,Visakhapatnam,4,34.50,0.00
+ORD00087,20/08/2024,P018,Water Bottle (1L),Sports,S03,Guntur City Store,Guntur,1,12.99,0.10
+ORD00207,14-01-2024,P007,Running Shoes,Apparel,S06,Online Store,Online,2,$74.99,0.00
+ORD00569,2024-02-27,P016,Yoga Mat,Sports,S01,Hyderabad Central,Hyderabad,3,$27.00,0.00
+ORD00809,15/06/2024,P001,Wireless Mouse,Electronics,S01,Hyderabad Central,Hyderabad,3,24.99,0.00
+ORD00629,2024-10-18,P009,Denim Jeans,Apparel,S03,Guntur City Store,Guntur,2,$49.50,0.15
+ORD00260,2024-07-14,P016,Yoga Mat,Sports,S06,Online Store,Online,2,27.00,0.00
+ORD00080,12/01/2024,P009,Denim Jeans,Apparel,S06,Online Store,Online,1,49.50,0.15
+ORD00844,28/08/2024,P002,Mechanical Keyboard,Electronics,S02,Vijayawada Mall,Vijayawada,4,89.50,0.00
+ORD00163,2024-03-11,P010,Rain Jacket,Apparel,S01,Hyderabad Central,Hyderabad,1,119.00,0.10
+ORD00706,2024-10-09,P015,Desk Lamp,Home,S04,Visakhapatnam Bay,Visakhapatnam,1,29.99,0.00
+ORD00227,21/06/2024,P002,Mechanical Keyboard,Electronics,S05,Bengaluru Tech Park,Bengaluru,1,89.50,0.10
+ORD00231,24/11/2024,P003,27-inch Monitor,Electronics,S06,Online Store,Online,2,249.00,0.00
+ORD00126,2024-12-27,P020,Bookshelf,Furniture,S04,Visakhapatnam Bay,Visakhapatnam,1,129.50,0.00
+ORD00721,2024-12-09,P018,Water Bottle (1L),Sports,S01,Hyderabad Central,Hyderabad,1,12.99,0.10
+ORD00303,2024-09-14,P017,Dumbbell Set,Sports,S05,Bengaluru Tech Park,Bengaluru,2,149.00,0.00
+ORD00100,25/04/2024,P009,Denim Jeans,Apparel,S04,Visakhapatnam Bay,Visakhapatnam,1,49.50,0.00
+ORD00621,17/11/2024,P001,Wireless Mouse,Electronics,S03,Guntur City Store,Guntur,1,24.99,0.00
+ORD00392,"Feb 12, 2024",P020,Bookshelf,Furniture,S01,Hyderabad Central,Hyderabad,1,129.50,0.10
+ORD00507,13-01-2024,P002,Mechanical Keyboard,Electronics,S05,Bengaluru Tech Park,Bengaluru,4,89.50,0.10
+ORD00080,2024-01-12,P002,Mechanical Keyboard,Electronics,S06,Online Store,Online,4,89.50,0.10
+ORD00548,2024-08-15,P019,Office Chair,Furniture,S04,Visakhapatnam Bay,Visakhapatnam,1,179.00,0.15
+ORD00182,2024-04-07,P019,Office Chair,Furniture,S01,Hyderabad Central,Hyderabad,3,179.00,0.05
+ORD00426,31/10/2024,P003,27-inch Monitor,Electronics,S05,Bengaluru Tech Park,Bengaluru,1,$249.00,0.00
+ORD00456,2024-10-22,P011,Wool Socks (3 pack),Apparel,S05,Bengaluru Tech Park,Bengaluru,4,14.25,0.00
+ORD00136,06/08/2024,P020,Bookshelf,Furniture,S02,Vijayawada Mall,Vijayawada,,129.50,0.00
+ORD00147,19-10-2024,P010,Rain Jacket,Apparel,S04,Visakhapatnam Bay,Visakhapatnam,2,119.00,0.15
+ORD00214,2024-04-15,P011,Wool Socks (3 pack),Apparel,S03,Guntur City Store,Guntur,1,14.25,0.00
+ORD00059,2024-01-27,P004,USB-C Hub,Electronics,S03,Guntur City Store,Guntur,3,39.95,0.00
+ORD00590,05/12/2024,P018,Water Bottle (1L),Sports,S05,Bengaluru Tech Park,Bengaluru,1,12.99,0.00
+ORD00006,2024-05-22,P012,Coffee Maker,Home,S04,Visakhapatnam Bay,Visakhapatnam,1,99.00,0.00
+ORD00420,2024-12-19,P017,Dumbbell Set,Sports,S03,Guntur City Store,Guntur,2,$149.00,0.05
+ORD00468,2024-06-06,P002,Mechanical Keyboard,Electronics,S06,Online Store,Online,0,89.50,0.00
+ORD00543,2024-11-27,P019,Office Chair,Furniture,S05,Bengaluru Tech Park,Bengaluru,4,179.00,0.10
+ORD00067,22/09/2024,P001,Wireless Mouse,Electronics,S03,Guntur City Store,Guntur,4,24.99,0.05
+ORD00240,30/01/2024,P014,Bed Linen Set,Home,S02,Vijayawada Mall,Vijayawada,1,64.00,0.05
+ORD00680,2024-05-20,P002,Mechanical Keyboard,Electronics,S02,Vijayawada Mall,Vijayawada,3,89.50,0.00
+ORD00082,31-05-2024,P012,Coffee Maker,Home,S03,Guntur City Store,Guntur,2,99.00,0.00
+ORD00244,2024-08-29,P014,Bed Linen Set,Home,S03,Guntur City Store,Guntur,1,64.00,0.00
+ORD00210,23/04/2024,P017,Dumbbell Set,Sports,S05,Bengaluru Tech Park,Bengaluru,2,149.00,0.10
+ORD00468,2024-06-06,P015,Desk Lamp,Home,S06,Online Store,Online,3,29.99,0.00
+ORD00489,24/05/2024,P014,Bed Linen Set,Home,S01,Hyderabad Central,Hyderabad,2,64.00,0.00
+ORD00215,2024-10-27,P010,Rain Jacket,Apparel,S01,Hyderabad Central,Hyderabad,4,$119.00,0.05
+ORD00096,30/07/2024,P009,Denim Jeans,Apparel,S03,Guntur City Store,Guntur,1,49.50,0.00
+ORD00412,2024-10-09,P003,27-inch Monitor,Electronics,S02,Vijayawada Mall,Vijayawada,1,$249.00,0.00
+ORD00636,06-09-2024,P009,Denim Jeans,Apparel,S02,Vijayawada Mall,Vijayawada,4,$49.50,0.00
+ORD00672,13/11/2024,P017,Dumbbell Set,Sports,S03,Guntur City Store,Guntur,1,149.00,0.00
+ORD00391,2024-01-12,P018,Water Bottle (1L),Sports,S02,Vijayawada Mall,Vijayawada,1,12.99,0.15
+ORD00506,2024-10-28,P015,Desk Lamp,Home,S02,Vijayawada Mall,Vijayawada,1,29.99,0.10
+ORD00062,2024-08-20,P009,Denim Jeans,Apparel,S01,Hyderabad Central,Hyderabad,3,49.50,0.00
+ORD00184,2024-09-02,P012,Coffee Maker,Home,S02,Vijayawada Mall,Vijayawada,2,99.00,0.00
+ORD00662,28/12/2024,P017,Dumbbell Set,Sports,S03,Guntur City Store,Guntur,4,149.00,0.00
+ORD00362,2024-09-14,P016,Yoga Mat,Sports,S01,Hyderabad Central,Hyderabad,2,$27.00,0.05
+ORD00518,2024-04-08,P001,Wireless Mouse,Electronics,S01,Hyderabad Central,Hyderabad,1,24.99,0.00
+ORD00041,15/09/2024,P008,Cotton T-Shirt,Apparel,S04,Visakhapatnam Bay,Visakhapatnam,1,19.99,0.00
+ORD00276,2024-02-29,P016,Yoga Mat,Sports,S03,Guntur City Store,Guntur,2,27.00,0.10
+ORD00253,30-12-2024,P006,Noise Cancelling Headphones,Electronics,S02,Vijayawada Mall,Vijayawada,1,199.00,0.00
+ORD00564,2024-05-19,P012,Coffee Maker,Home,S03,Guntur City Store,Guntur,1,99.00,0.00
+ORD00594,11-08-2024,P016,Yoga Mat,Sports,S04,Visakhapatnam Bay,Visakhapatnam,3,$27.00,0.00
+ORD00597,25/09/2024,P003,27-inch Monitor,Electronics,S03,Guntur City Store,Guntur,1,249.00,0.00
+ORD00581,04/06/2024,P016,Yoga Mat,Sports,S06,Online Store,Online,2,27.00,0.00
+ORD00156,2024-01-09,P004,USB-C Hub,Electronics,S03,Guntur City Store,Guntur,4,39.95,0.05
+ORD00666,2024-02-15,P001,Wireless Mouse,Electronics,S02,Vijayawada Mall,Vijayawada,2,24.99,0.00
+ORD00272,12/07/2024,P013,Non-stick Frying Pan,Home,S03,Guntur City Store,Guntur,1,34.50,0.00
+ORD00701,2024-08-06,,Wireless Mouse,Electronics,S04,Visakhapatnam Bay,Visakhapatnam,1,$24.99,0.00
+ORD00426,2024-10-31,P009,Denim Jeans,Apparel,S05,Bengaluru Tech Park,Bengaluru,1,49.50,0.05
+ORD00103,2024-05-19,P014,Bed Linen Set,Home,S04,Visakhapatnam Bay,Visakhapatnam,2,64.00,0.00
+ORD00419,2024-04-19,P009,Denim Jeans,Apparel,S04,Visakhapatnam Bay,Visakhapatnam,1,49.50,0.00
+ORD00003,22-03-2024,P003,27-inch Monitor,Electronics,S06,Online Store,Online,1,249.00,0.00
+ORD00353,28-11-2024,P017,Dumbbell Set,Sports,S03,Guntur City Store,Guntur,2,149.00,0.00
+ORD00298,2024-08-28,P017,Dumbbell Set,Sports,S01,Hyderabad Central,Hyderabad,1,149.00,0.10
+ORD00725,22/05/2024,P016,Yoga Mat,Sports,S06,Online Store,Online,4,27.00,0.00
+ORD00160,01/06/2024,P010,Rain Jacket,Apparel,S02,Vijayawada Mall,Vijayawada,2,119.00,0.10
+ORD00745,2024-07-28,P016,Yoga Mat,Sports,S04,Visakhapatnam Bay,Visakhapatnam,2,$27.00,0.15
+ORD00072,14-07-2024,P011,Wool Socks (3 pack),Apparel,S04,Visakhapatnam Bay,Visakhapatnam,4,$14.25,0.15
+ORD00530,20/09/2024,P008,Cotton T-Shirt,Apparel,S01,Hyderabad Central,Hyderabad,3,19.99,0.05
+ORD00341,26/07/2024,P020,Bookshelf,Furniture,S04,Visakhapatnam Bay,Visakhapatnam,1,129.50,0.10
+ORD00769,"May 11, 2024",P004,USB-C Hub,Electronics,S01,Hyderabad Central,Hyderabad,2,39.95,0.00
+ORD00638,2024-12-10,P006,Noise Cancelling Headphones,Electronics,S06,Online Store,Online,1,199.00,0.05
+ORD00243,11-09-2024,P017,Dumbbell Set,Sports,S04,Visakhapatnam Bay,Visakhapatnam,1,149.00,0.15
+ORD00827,14/03/2024,P019,Office Chair,Furniture,S04,Visakhapatnam Bay,Visakhapatnam,1,179.00,0.15
+ORD00799,2024-05-23,P014,Bed Linen Set,Home,S05,Bengaluru Tech Park,Bengaluru,1,64.00,0.00
+ORD00884,2024-01-07,P015,Desk Lamp,Home,S06,Online Store,Online,3,29.99,0.00
+ORD00259,2024-07-29,,Dumbbell Set,Sports,S05,Bengaluru Tech Park,Bengaluru,1,$149.00,0.15
+ORD00836,"Apr 28, 2024",P005,Bluetooth Speaker,Electronics,S02,Vijayawada Mall,Vijayawada,3,59.00,0.00
+ORD00307,2024-11-18,P005,Bluetooth Speaker,Electronics,S01,Hyderabad Central,Hyderabad,1,59.00,0.00
+ORD00817,2024-07-31,P008,Cotton T-Shirt,Apparel,S02,Vijayawada Mall,Vijayawada,1,19.99,0.00
+ORD00759,2024-07-19,P006,Noise Cancelling Headphones,Electronics,S03,Guntur City Store,Guntur,4,199.00,0.05
+ORD00805,12/08/2024,P018,Water Bottle (1L),Sports,S05,Bengaluru Tech Park,Bengaluru,3,12.99,0.00
+ORD00124,2024-04-23,P003,27-inch Monitor,Electronics,S04,Visakhapatnam Bay,Visakhapatnam,1,$249.00,0.00
+ORD00296,2024-04-23,P016,Yoga Mat,Sports,S06,Online Store,Online,4,27.00,0.10
+ORD00824,2024-12-21,P003,27-inch Monitor,Electronics,S06,Online Store,Online,1,249.00,0.00
+ORD00245,2024-05-18,P017,Dumbbell Set,Sports,S01,Hyderabad Central,Hyderabad,4,149.00,0.00
+ORD00692,2024-07-11,P006,Noise Cancelling Headphones,Electronics,S02,Vijayawada Mall,Vijayawada,3,$199.00,0.00
+ORD00352,02-02-2024,P013,Non-stick Frying Pan,Home,S03,Guntur City Store,Guntur,2,$34.50,0.00
+ORD00617,2024-08-11,P004,USB-C Hub,Electronics,S01,Hyderabad Central,Hyderabad,3,39.95,0.15
+ORD00570,2024-12-03,P001,Wireless Mouse,Electronics,S05,Bengaluru Tech Park,Bengaluru,3,24.99,0.15
+ORD00453,22-08-2024,P018,Water Bottle (1L),Sports,S04,Visakhapatnam Bay,Visakhapatnam,3,12.99,0.05
+ORD00805,12/08/2024,P001,Wireless Mouse,Electronics,S05,Bengaluru Tech Park,Bengaluru,1,$24.99,0.00
+ORD00164,30/03/2024,P002,Mechanical Keyboard,Electronics,S04,Visakhapatnam Bay,Visakhapatnam,4,89.50,0.00
+ORD00155,17/03/2024,P020,Bookshelf,Furniture,S05,Bengaluru Tech Park,Bengaluru,3,129.50,0.00
+ORD00321,13/10/2024,P016,Yoga Mat,Sports,S05,Bengaluru Tech Park,Bengaluru,3,$27.00,0.00
+ORD00055,2024-10-11,P010,Rain Jacket,Apparel,S02,Vijayawada Mall,Vijayawada,abc,119.00,0.10
+ORD00280,2024-03-05,P003,27-inch Monitor,Electronics,S01,Hyderabad Central,Hyderabad,4,249.00,0.00
+ORD00235,06/11/2024,P013,Non-stick Frying Pan,Home,S05,Bengaluru Tech Park,Bengaluru,1,34.50,0.00
+ORD00900,2024-09-24,P010,Rain Jacket,Apparel,S03,Guntur City Store,Guntur,1,119.00,0.00
+ORD00612,30/04/2024,P020,Bookshelf,Furniture,S04,Visakhapatnam Bay,Visakhapatnam,4,129.50,0.15
+ORD00458,2024-06-02,P013,Non-stick Frying Pan,Home,S03,Guntur City Store,Guntur,3,34.50,0.15
+ORD00198,2024-10-03,P012,Coffee Maker,Home,S03,Guntur City Store,Guntur,1,$99.00,0.00
+ORD00659,07-06-2024,P011,Wool Socks (3 pack),Apparel,S05,Bengaluru Tech Park,Bengaluru,3,14.25,0.00
+ORD00289,2024-01-17,P012,Coffee Maker,Home,S04,Visakhapatnam Bay,Visakhapatnam,2,99.00,0.00
+ORD00112,16/10/2024,P016,Yoga Mat,Sports,S06,Online Store,Online,2,27.00,0.00
+ORD00223,2024-05-23,P006,Noise Cancelling Headphones,Electronics,S05,Bengaluru Tech Park,Bengaluru,1,199.00,0.10
+ORD00707,2024-09-12,P018,Water Bottle (1L),Sports,S06,Online Store,Online,1,12.99,0.05
+ORD00272,12/07/2024,P008,Cotton T-Shirt,Apparel,S03,Guntur City Store,Guntur,1,$19.99,0.00
+ORD00183,2024-06-19,P007,Running Shoes,Apparel,S03,Guntur City Store,Guntur,4,74.99,0.10
+ORD00196,10/06/2024,P019,Office Chair,Furniture,S01,Hyderabad Central,Hyderabad,1,179.00,0.15
+ORD00773,14/11/2024,P018,Water Bottle (1L),Sports,S04,Visakhapatnam Bay,Visakhapatnam,1,12.99,0.00
+ORD00009,2024-10-26,P014,Bed Linen Set,Home,S04,Visakhapatnam Bay,Visakhapatnam,2,64.00,0.00
+ORD00188,2024-09-25,P002,Mechanical Keyboard,Electronics,S01,Hyderabad Central,Hyderabad,3,89.50,0.00
+ORD00720,12-08-2024,P009,Denim Jeans,Apparel,S02,Vijayawada Mall,Vijayawada,3,49.50,0.00
+ORD00250,2024-03-09,P003,27-inch Monitor,Electronics,S06,Online Store,Online,2,249.00,0.00
+ORD00266,07/03/2024,P005,Bluetooth Speaker,Electronics,S03,Guntur City Store,Guntur,2,59.00,0.00
+ORD00348,2024-03-12,P009,Denim Jeans,Apparel,S05,Bengaluru Tech Park,Bengaluru,3,$49.50,0.10
+ORD00142,2024-09-02,P014,Bed Linen Set,Home,S05,Bengaluru Tech Park,Bengaluru,3,64.00,0.00
+ORD00765,"Nov 24, 2024",P008,Cotton T-Shirt,Apparel,S06,Online Store,Online,1,19.99,0.05
+ORD00830,2024-08-20,P006,Noise Cancelling Headphones,Electronics,S05,Bengaluru Tech Park,Bengaluru,1,199.00,0.00
+ORD00668,2024-02-28,P011,Wool Socks (3 pack),Apparel,S03,Guntur City Store,Guntur,2,$14.25,0.00
+ORD00868,2024-06-16,P003,27-inch Monitor,Electronics,S02,Vijayawada Mall,Vijayawada,3,249.00,0.00
+ORD00515,05-02-2024,P001,Wireless Mouse,Electronics,S05,Bengaluru Tech Park,Bengaluru,1,24.99,0.10
+ORD00046,2024-01-27,P003,27-inch Monitor,Electronics,S03,Guntur City Store,Guntur,3,$249.00,0.10
+ORD00211,13-02-2024,P011,Wool Socks (3 pack),Apparel,S01,Hyderabad Central,Hyderabad,1,$14.25,0.00
+ORD00145,2024-10-24,P020,Bookshelf,Furniture,S02,Vijayawada Mall,Vijayawada,3,129.50,0.05
+ORD00634,2024-08-15,P001,Wireless Mouse,Electronics,S04,Visakhapatnam Bay,Visakhapatnam,4,24.99,0.05
+ORD00762,2024-10-21,P017,Dumbbell Set,Sports,S01,Hyderabad Central,Hyderabad,2,$149.00,0.05
+ORD00537,"May 06, 2024",P014,Bed Linen Set,Home,S02,Vijayawada Mall,Vijayawada,2,64.00,0.05
+ORD00743,2024-08-01,P010,Rain Jacket,Apparel,S05,Bengaluru Tech Park,Bengaluru,3,119.00,0.00
+ORD00670,2024-10-11,P010,Rain Jacket,Apparel,S06,Online Store,Online,2,119.00,0.00
+ORD00501,13/02/2024,P012,Coffee Maker,Home,S02,Vijayawada Mall,Vijayawada,1,$99.00,0.00
+ORD00099,2024-09-03,P012,Coffee Maker,Home,S02,Vijayawada Mall,Vijayawada,3,99.00,0.00
+ORD00225,2024-03-13,P012,Coffee Maker,Home,S05,Bengaluru Tech Park,Bengaluru,2,$99.00,0.00
+ORD00518,08-04-2024,P010,Rain Jacket,Apparel,S01,Hyderabad Central,Hyderabad,2,119.00,0.15
+ORD00151,2024-07-20,P008,Cotton T-Shirt,Apparel,S05,Bengaluru Tech Park,Bengaluru,1,19.99,0.00
+ORD00011,2024-09-13,P017,Dumbbell Set,Sports,S02,Vijayawada Mall,Vijayawada,4,$149.00,0.05
+ORD00252,27-07-2024,P020,Bookshelf,Furniture,S01,Hyderabad Central,Hyderabad,1,$129.50,0.15
+ORD00420,2024-12-19,P012,Coffee Maker,Home,S03,Guntur City Store,Guntur,1,99.00,0.00
+ORD00836,2024-04-28,P020,Bookshelf,Furniture,S02,Vijayawada Mall,Vijayawada,2,129.50,0.15
+ORD00155,17/03/2024,P017,Dumbbell Set,Sports,S05,Bengaluru Tech Park,Bengaluru,2,149.00,0.10
+ORD00857,2024-11-03,P006,Noise Cancelling Headphones,Electronics,S03,Guntur City Store,Guntur,4,199.00,0.00
+ORD00552,"Oct 06, 2024",P010,Rain Jacket,Apparel,S05,Bengaluru Tech Park,Bengaluru,2,119.00,0.00
+ORD00580,11-09-2024,P009,Denim Jeans,Apparel,S04,Visakhapatnam Bay,Visakhapatnam,2,49.50,0.15
+ORD00619,2024-10-26,P008,Cotton T-Shirt,Apparel,S02,Vijayawada Mall,Vijayawada,3,19.99,0.10
+ORD00872,2024-11-19,P006,Noise Cancelling Headphones,Electronics,S01,Hyderabad Central,Hyderabad,4,199.00,0.05
+ORD00048,21/04/2024,P009,Denim Jeans,Apparel,S04,Visakhapatnam Bay,Visakhapatnam,3,49.50,0.00
+ORD00484,2024-10-11,P020,Bookshelf,Furniture,S01,Hyderabad Central,Hyderabad,3,129.50,0.00
+ORD00408,2024-11-12,P004,USB-C Hub,Electronics,S03,Guntur City Store,Guntur,1,39.95,0.00
+ORD00755,2024-06-09,P001,Wireless Mouse,Electronics,S04,Visakhapatnam Bay,Visakhapatnam,1,24.99,0.05
+ORD00556,09-07-2024,P015,Desk Lamp,Home,S01,Hyderabad Central,Hyderabad,3,29.99,0.00
+ORD00387,11/05/2024,P014,Bed Linen Set,Home,S03,Guntur City Store,Guntur,1,64.00,0.15
+ORD00206,2024-10-21,P019,Office Chair,Furniture,S02,Vijayawada Mall,Vijayawada,1,179.00,0.05
+ORD00882,2024-03-16,P015,Desk Lamp,Home,S05,Bengaluru Tech Park,Bengaluru,2,29.99,0.05
+ORD00591,05/04/2024,P007,Running Shoes,Apparel,S05,Bengaluru Tech Park,Bengaluru,2,74.99,0.15
+ORD00406,30/04/2024,P008,Cotton T-Shirt,Apparel,S06,Online Store,Online,1,19.99,0.00
+ORD00249,13-03-2024,P003,27-inch Monitor,Electronics,S06,Online Store,Online,1,249.00,0.00
+ORD00506,2024-10-28,P001,Wireless Mouse,Electronics,S02,Vijayawada Mall,Vijayawada,3,24.99,0.00
+ORD00640,2024-12-12,P017,Dumbbell Set,Sports,S02,Vijayawada Mall,Vijayawada,1,$149.00,0.00
+ORD00042,2024-06-20,P002,Mechanical Keyboard,Electronics,S03,Guntur City Store,Guntur,1,89.50,0.00
+ORD00136,06/08/2024,P015,Desk Lamp,Home,S02,Vijayawada Mall,Vijayawada,1,29.99,0.00
+ORD00368,2024-02-21,P002,Mechanical Keyboard,Electronics,S02,Vijayawada Mall,Vijayawada,1,$89.50,0.10
+ORD00574,"Aug 26, 2024",P020,Bookshelf,Furniture,S01,Hyderabad Central,Hyderabad,3,129.50,0.10
+ORD00767,29/11/2024,P004,USB-C Hub,Electronics,S01,Hyderabad Central,Hyderabad,1,$39.95,0.05
+ORD00327,"Nov 04, 2024",P012,Coffee Maker,Home,S06,Online Store,Online,4,99.00,0.00
+ORD00186,15/03/2024,P018,Water Bottle (1L),Sports,S01,Hyderabad Central,Hyderabad,4,12.99,0.05
+ORD00832,2024-06-20,P010,Rain Jacket,Apparel,S01,Hyderabad Central,Hyderabad,1,119.00,0.00
+ORD00501,13/02/2024,P008,Cotton T-Shirt,Apparel,S02,Vijayawada Mall,Vijayawada,2,19.99,0.10
+ORD00136,2024-08-06,P002,Mechanical Keyboard,Electronics,S02,Vijayawada Mall,Vijayawada,1,89.50,0.10
+ORD00017,2024-02-20,P011,Wool Socks (3 pack),Apparel,S01,Hyderabad Central,Hyderabad,3,14.25,0.00
+ORD00638,2024-12-10,P007,Running Shoes,Apparel,S06,Online Store,Online,1,74.99,0.10
+ORD00155,2024-03-17,P005,Bluetooth Speaker,Electronics,S05,Bengaluru Tech Park,Bengaluru,1,59.00,0.05
+ORD00465,22-06-2024,P015,Desk Lamp,Home,S06,Online Store,Online,4,29.99,0.05
+ORD00115,12-08-2024,P020,Bookshelf,Furniture,S05,Bengaluru Tech Park,Bengaluru,1,129.50,0.00
+ORD00012,"Jul 04, 2024",P002,Mechanical Keyboard,Electronics,S03,Guntur City Store,Guntur,1,$89.50,0.05
+ORD00150,2024-05-28,P017,Dumbbell Set,Sports,S04,Visakhapatnam Bay,Visakhapatnam,2,$149.00,0.00
+ORD00619,2024-10-26,P010,Rain Jacket,Apparel,S02,Vijayawada Mall,Vijayawada,2,119.00,0.10
+ORD00395,2024-11-23,P010,Rain Jacket,Apparel,S06,Online Store,Online,4,119.00,0.00
+ORD00697,11/06/2024,P008,Cotton T-Shirt,Apparel,S05,Bengaluru Tech Park,Bengaluru,4,19.99,0.15
+ORD00764,29/03/2024,P013,Non-stick Frying Pan,Home,S06,Online Store,Online,3,$34.50,0.15
+ORD00436,2024-11-16,P014,Bed Linen Set,Home,S06,Online Store,Online,1,64.00,0.00
+ORD00660,07/12/2024,P011,Wool Socks (3 pack),Apparel,S04,Visakhapatnam Bay,Visakhapatnam,1,14.25,0.05
+ORD00051,"Aug 23, 2024",P014,Bed Linen Set,Home,S06,Online Store,Online,1,64.00,0.05
+ORD00575,2024-10-10,P012,Coffee Maker,Home,S04,Visakhapatnam Bay,Visakhapatnam,1,$99.00,0.10
+ORD00446,18/11/2024,P010,Rain Jacket,Apparel,S01,Hyderabad Central,Hyderabad,2,119.00,0.00
+ORD00407,2024-12-18,P012,Coffee Maker,Home,S05,Bengaluru Tech Park,Bengaluru,3,$99.00,0.00
+ORD00495,20/01/2024,P017,Dumbbell Set,Sports,S05,Bengaluru Tech Park,Bengaluru,4,149.00,0.15
+ORD00528,2024-04-22,P007,Running Shoes,Apparel,S04,Visakhapatnam Bay,Visakhapatnam,1,$74.99,0.00
+ORD00658,  2024-09-07  ,P018,Water Bottle (1L),Sports,S01,Hyderabad Central,Hyderabad,1,12.99,0.15
+ORD00364,2024-10-28,P003,27-inch Monitor,Electronics,S06,Online Store,Online,1,249.00,0.05
+ORD00400,2024-06-13,P002,Mechanical Keyboard,Electronics,S01,Hyderabad Central,Hyderabad,4,$89.50,0.00
+ORD00741,2024-07-15,P014,Bed Linen Set,Home,S04,Visakhapatnam Bay,Visakhapatnam,1,64.00,0.00
+ORD00532,2024-04-12,P003,27-inch Monitor,Electronics,S04,Visakhapatnam Bay,Visakhapatnam,2,249.00,0.00
+ORD00702,2024-02-12,P007,Running Shoes,Apparel,S03,Guntur City Store,Guntur,2,74.99,0.00
+ORD00184,02-09-2024,P020,Bookshelf,Furniture,S02,Vijayawada Mall,Vijayawada,2,129.50,0.00
+ORD00756,2024-01-05,P015,Desk Lamp,Home,S05,Bengaluru Tech Park,Bengaluru,1,29.99,0.00
+ORD00477,19-12-2024,P020,Bookshelf,Furniture,S06,Online Store,Online,1,129.50,0.00
+ORD00641,26/04/2024,P008,Cotton T-Shirt,Apparel,S01,Hyderabad Central,Hyderabad,2,19.99,0.00
+ORD00357,2024-03-21,P016,Yoga Mat,Sports,S03,Guntur City Store,Guntur,2,27.00,0.00
+ORD00578,2024-09-05,P008,Cotton T-Shirt,Apparel,S05,Bengaluru Tech Park,Bengaluru,2,19.99,0.00
+ORD00395,23-11-2024,P001,Wireless Mouse,Electronics,S06,Online Store,Online,2,24.99,0.15
+ORD00802,16/08/2024,P018,Water Bottle (1L),Sports,S01,Hyderabad Central,Hyderabad,2,12.99,0.00
+ORD00479,2024-05-12,P011,Wool Socks (3 pack),Apparel,S03,Guntur City Store,Guntur,2,$14.25,0.00
+ORD00706,2024-10-09,P005,Bluetooth Speaker,Electronics,S04,Visakhapatnam Bay,Visakhapatnam,2,59.00,0.00
+ORD00179,29/01/2024,P010,Rain Jacket,Apparel,S02,Vijayawada Mall,Vijayawada,1,119.00,0.10
+ORD00835,20-01-2024,P005,Bluetooth Speaker,Electronics,S03,Guntur City Store,Guntur,2,$59.00,0.00
+ORD00536,  2024-09-24  ,P019,Office Chair,Furniture,S04,Visakhapatnam Bay,Visakhapatnam,2,179.00,0.00
+ORD00623,2024-05-02,P001,Wireless Mouse,Electronics,S04,Visakhapatnam Bay,Visakhapatnam,3,24.99,0.00
+ORD00327,2024-11-04,P018,Water Bottle (1L),Sports,S06,Online Store,Online,2,12.99,0.00
+ORD00683,"Nov 16, 2024",P008,Cotton T-Shirt,Apparel,S03,Guntur City Store,Guntur,1,19.99,0.00
+ORD00649,2024-11-08,P013,Non-stick Frying Pan,Home,S02,Vijayawada Mall,Vijayawada,3,34.50,0.00
+ORD00382,2024-06-26,P012,Coffee Maker,Home,S04,Visakhapatnam Bay,Visakhapatnam,2,99.00,0.00
+ORD00383,2024-05-17,P011,Wool Socks (3 pack),Apparel,S04,Visakhapatnam Bay,Visakhapatnam,1,14.25,0.00
+ORD00747,10/06/2024,P004,USB-C Hub,Electronics,S02,Vijayawada Mall,Vijayawada,1,39.95,0.15
+ORD00572,08-01-2024,P007,Running Shoes,Apparel,S05,Bengaluru Tech Park,Bengaluru,4,74.99,0.00
+ORD00435,"Jul 20, 2024",P003,27-inch Monitor,Electronics,S06,Online Store,Online,3,249.00,0.05
+ORD00782,10-03-2024,P013,Non-stick Frying Pan,Home,S04,Visakhapatnam Bay,Visakhapatnam,1,34.50,0.00
+ORD00565,26/03/2024,P011,Wool Socks (3 pack),Apparel,S05,Bengaluru Tech Park,Bengaluru,3,14.25,0.10
+ORD00187,2024-10-08,P011,Wool Socks (3 pack),Apparel,S06,Online Store,Online,1,14.25,0.15
+ORD00401,2024-05-17,P012,Coffee Maker,Home,S02,Vijayawada Mall,Vijayawada,2,$99.00,0.15
+ORD00011,13-09-2024,P004,USB-C Hub,Electronics,S02,Vijayawada Mall,Vijayawada,4,39.95,0.00
+ORD00358,09/03/2024,P001,Wireless Mouse,Electronics,S06,Online Store,Online,4,24.99,0.10
+ORD00734,2024-04-14,P003,27-inch Monitor,Electronics,S02,Vijayawada Mall,Vijayawada,1,249.00,0.00
+ORD00269,2024-03-06,P019,Office Chair,Furniture,S02,Vijayawada Mall,Vijayawada,1,179.00,0.05
+ORD00715,2024-10-21,P003,27-inch Monitor,Electronics,S01,Hyderabad Central,Hyderabad,1,249.00,0.00
+ORD00063,2024-10-31,P009,Denim Jeans,Apparel,S06,Online Store,Online,2,49.50,0.00
+ORD00163,2024-03-11,P006,Noise Cancelling Headphones,Electronics,S01,Hyderabad Central,Hyderabad,1,199.00,0.00
+ORD00655,08-07-2024,P016,Yoga Mat,Sports,S06,Online Store,Online,3,$27.00,0.00
+ORD00467,2024-01-10,P011,Wool Socks (3 pack),Apparel,S02,Vijayawada Mall,Vijayawada,3,14.25,0.15
+ORD00055,2024-10-11,P012,Coffee Maker,Home,S02,Vijayawada Mall,Vijayawada,abc,99.00,0.05
+ORD00312,2024-08-12,P003,27-inch Monitor,Electronics,S05,Bengaluru Tech Park,Bengaluru,1,249.00,0.00
+ORD00389,23/11/2024,P011,Wool Socks (3 pack),Apparel,S03,Guntur City Store,Guntur,1,14.25,0.00
+ORD00101,2024-07-24,P001,Wireless Mouse,Electronics,S01,Hyderabad Central,Hyderabad,1,24.99,0.05
+ORD00267,27/10/2024,P010,Rain Jacket,Apparel,S01,Hyderabad Central,Hyderabad,1,119.00,0.00
+ORD00081,26/05/2024,P012,Coffee Maker,Home,S02,Vijayawada Mall,Vijayawada,1,99.00,0.00
+ORD00285,2024-07-09,P004,USB-C Hub,Electronics,S01,Hyderabad Central,Hyderabad,4,39.95,0.00
+ORD00110,2024-11-26,P004,USB-C Hub,Electronics,S02,Vijayawada Mall,Vijayawada,1,39.95,0.00
+ORD00204,  2024-11-16  ,P020,Bookshelf,Furniture,S04,Visakhapatnam Bay,Visakhapatnam,1,$129.50,0.00
+ORD00549,29/06/2024,P006,Noise Cancelling Headphones,Electronics,S03,Guntur City Store,Guntur,2,199.00,0.00
+ORD00154,2024-06-22,P005,Bluetooth Speaker,Electronics,S05,Bengaluru Tech Park,Bengaluru,1,$59.00,0.05
+ORD00784,2024-09-20,P014,Bed Linen Set,Home,S03,Guntur City Store,Guntur,2,$64.00,0.00
+ORD00411,20-08-2024,P017,Dumbbell Set,Sports,S01,Hyderabad Central,Hyderabad,1,149.00,0.00
+ORD00317,2024-01-28,P003,27-inch Monitor,Electronics,S01,Hyderabad Central,Hyderabad,3,249.00,0.00
+ORD00169,2024-05-07,P013,Non-stick Frying Pan,Home,S01,Hyderabad Central,Hyderabad,1,34.50,0.15
+ORD00522,19-02-2024,P006,Noise Cancelling Headphones,Electronics,S04,Visakhapatnam Bay,Visakhapatnam,3,$199.00,0.00
+ORD00361,2024-11-06,P016,Yoga Mat,Sports,S01,Hyderabad Central,Hyderabad,4,27.00,0.05
+ORD00596,2024-03-12,P019,Office Chair,Furniture,S02,Vijayawada Mall,Vijayawada,3,179.00,0.00
+ORD00430,2024-01-28,P005,Bluetooth Speaker,Electronics,S02,Vijayawada Mall,Vijayawada,4,59.00,0.15
+ORD00027,2024-05-14,P005,Bluetooth Speaker,Electronics,S02,Vijayawada Mall,Vijayawada,2,59.00,0.15
+ORD00131,19/06/2024,P012,Coffee Maker,Home,S02,Vijayawada Mall,Vijayawada,2,99.00,0.15
+ORD00199,05/11/2024,,Desk Lamp,Home,S05,Bengaluru Tech Park,Bengaluru,2,29.99,0.00
+ORD00282,27/02/2024,P005,Bluetooth Speaker,Electronics,S04,Visakhapatnam Bay,Visakhapatnam,2,59.00,0.05
+ORD00217,2024-10-02,P015,Desk Lamp,Home,S06,Online Store,Online,2,$29.99,0.15
+ORD00750,2024-02-21,P019,Office Chair,Furniture,S06,Online Store,Online,3,$179.00,0.10
+ORD00888,2024-08-08,P002,Mechanical Keyboard,Electronics,S05,Bengaluru Tech Park,Bengaluru,2,89.50,0.00
+ORD00544,2024-04-25,P009,Denim Jeans,Apparel,S03,Guntur City Store,Guntur,2,$49.50,0.00
+ORD00498,2024-11-15,P009,DENIM JEANS,Apparel,S01,Hyderabad Central,Hyderabad,1,49.50,0.00
+ORD00855,2024-03-04,P001,Wireless Mouse,Electronics,S03,Guntur City Store,Guntur,4,24.99,0.15
+ORD00132,2024-12-16,P016,Yoga Mat,Sports,S04,Visakhapatnam Bay,Visakhapatnam,2,27.00,0.15
+ORD00160,01/06/2024,P012,Coffee Maker,Home,S02,Vijayawada Mall,Vijayawada,2,99.00,0.15
+ORD00889,2024-09-28,P017,Dumbbell Set,Sports,S05,Bengaluru Tech Park,Bengaluru,2,149.00,0.10
+ORD00279,"Nov 13, 2024",P015,Desk Lamp,Home,S02,Vijayawada Mall,Vijayawada,1,29.99,0.00
+ORD00031,2024-08-23,P008,Cotton T-Shirt,Apparel,S03,Guntur City Store,Guntur,1,19.99,0.10
+ORD00765,2024-11-24,P004,USB-C Hub,Electronics,S06,Online Store,Online,3,39.95,0.00
+ORD00889,28-09-2024,P004,USB-C Hub,Electronics,S05,Bengaluru Tech Park,Bengaluru,1,39.95,0.00
+ORD00427,2024-03-10,P017,Dumbbell Set,Sports,S04,Visakhapatnam Bay,Visakhapatnam,1,149.00,0.00
+ORD00565,2024-03-26,P012,Coffee Maker,Home,S05,Bengaluru Tech Park,Bengaluru,1,$99.00,0.05
+ORD00512,08/09/2024,P018,Water Bottle (1L),Sports,S01,Hyderabad Central,Hyderabad,3,$12.99,0.00
+ORD00134,"Aug 11, 2024",P014,Bed Linen Set,Home,S04,Visakhapatnam Bay,Visakhapatnam,1,64.00,0.05
+ORD00144,25/05/2024,P020,Bookshelf,Furniture,S01,Hyderabad Central,Hyderabad,2,129.50,0.05
+ORD00014,2024-08-12,P008,Cotton T-Shirt,Apparel,S05,Bengaluru Tech Park,Bengaluru,2,19.99,0.00
+ORD00464,2024-09-16,P020,Bookshelf,Furniture,S05,Bengaluru Tech Park,Bengaluru,4,129.50,0.15
+ORD00342,07/02/2024,P015,Desk Lamp,Home,S03,Guntur City Store,Guntur,1,29.99,0.15
+ORD00687,2024-01-07,P003,27-inch Monitor,Electronics,S05,Bengaluru Tech Park,Bengaluru,2,249.00,0.15
+ORD00692,  2024-07-11  ,P001,Wireless Mouse,Electronics,S02,Vijayawada Mall,Vijayawada,2,24.99,0.00
+ORD00712,2024-07-29,P004,USB-C Hub,Electronics,S04,Visakhapatnam Bay,Visakhapatnam,1,$39.95,0.00
+ORD00403,2024-05-07,P008,Cotton T-Shirt,Apparel,S04,Visakhapatnam Bay,Visakhapatnam,3,19.99,0.00
+ORD00458,02/06/2024,P010,Rain Jacket,Apparel,S03,Guntur City Store,Guntur,2,119.00,0.00
+ORD00462,2024-03-01,P020,Bookshelf,Furniture,S06,Online Store,Online,4,129.50,0.00
+ORD00743,2024-08-01,P005,Bluetooth Speaker,Electronics,S05,Bengaluru Tech Park,Bengaluru,1,$59.00,0.00
+ORD00648,04/12/2024,P014,Bed Linen Set,Home,S05,Bengaluru Tech Park,Bengaluru,1,64.00,0.10
+ORD00798,2024-01-25,P001,Wireless Mouse,Electronics,S02,Vijayawada Mall,Vijayawada,1,24.99,0.10
+ORD00199,2024-11-05,P013,Non-stick Frying Pan,Home,S05,Bengaluru Tech Park,Bengaluru,4,34.50,0.00
+ORD00345,2024-10-08,P008,Cotton T-Shirt,Apparel,S04,Visakhapatnam Bay,Visakhapatnam,1,19.99,0.05
+ORD00172,11/02/2024,P018,Water Bottle (1L),Sports,S05,Bengaluru Tech Park,Bengaluru,4,$12.99,0.00
+ORD00879,01-06-2024,P016,Yoga Mat,Sports,S06,Online Store,Online,3,27.00,0.00
+ORD00497,2024-09-19,P011,Wool Socks (3 pack),Apparel,S04,Visakhapatnam Bay,Visakhapatnam,1,14.25,0.15
+ORD00159,2024-12-27,P007,Running Shoes,Apparel,S02,Vijayawada Mall,Vijayawada,2,74.99,0.10
+ORD00685,2024-07-12,P010,Rain Jacket,Apparel,S03,Guntur City Store,Guntur,2,119.00,0.00
+ORD00086,08-11-2024,P003,27-inch Monitor,Electronics,S02,Vijayawada Mall,Vijayawada,2,249.00,0.00
+ORD00736,14/07/2024,P010,Rain Jacket,Apparel,S04,Visakhapatnam Bay,Visakhapatnam,2,119.00,0.00
+ORD00210,23/04/2024,P013,Non-stick Frying Pan,Home,S05,Bengaluru Tech Park,Bengaluru,2,34.50,0.10
+ORD00331,  2024-12-11  ,P008,Cotton T-Shirt,Apparel,S06,Online Store,Online,3,19.99,0.05
+ORD00123,2024-05-25,P009,Denim Jeans,Apparel,S01,Hyderabad Central,Hyderabad,2,49.50,0.05
+ORD00161,2024-10-20,P015,Desk Lamp,Home,S06,Online Store,Online,2,29.99,0.10
+ORD00219,  10/09/2024  ,P004,USB-C Hub,Electronics,S05,Bengaluru Tech Park,Bengaluru,2,39.95,0.00
+ORD00208,03-12-2024,P019,Office Chair,Furniture,S02,Vijayawada Mall,Vijayawada,1,179.00,0.05
+ORD00143,2024-10-09,P002,Mechanical Keyboard,Electronics,S06,Online Store,Online,3,89.50,0.05
+ORD00382,26/06/2024,P006,Noise Cancelling Headphones,Electronics,S04,Visakhapatnam Bay,Visakhapatnam,2,199.00,0.00
+ORD00823,2024-09-29,P013,Non-stick Frying Pan,Home,S05,Bengaluru Tech Park,Bengaluru,1,34.50,0.10
+ORD00647,"Jan 06, 2024",P005,Bluetooth Speaker,Electronics,S06,Online Store,Online,4,59.00,0.00
+ORD00057,"Apr 08, 2024",P016,Yoga Mat,Sports,S02,Vijayawada Mall,Vijayawada,1,27.00,0.05
+ORD00579,2024-02-04,P017,Dumbbell Set,Sports,S04,Visakhapatnam Bay,Visakhapatnam,3,149.00,0.15
+ORD00549,29-06-2024,P006,Noise Cancelling Headphones,Electronics,S03,Guntur City Store,Guntur,3,199.00,0.10
+ORD00147,2024-10-19,P015,Desk Lamp,Home,S04,Visakhapatnam Bay,Visakhapatnam,1,29.99,0.00
+ORD00898,16/11/2024,P012,Coffee Maker,Home,S06,Online Store,Online,4,,0.00
+ORD00271,15/02/2024,P012,Coffee Maker,Home,S06,Online Store,Online,1,$99.00,0.00
+ORD00545,2024-12-29,P006,Noise Cancelling Headphones,Electronics,S05,Bengaluru Tech Park,Bengaluru,1,199.00,0.00
+ORD00298,2024-08-28,P019,Office Chair,Furniture,S01,Hyderabad Central,Hyderabad,2,179.00,0.05
+ORD00804,2024-01-12,P009,Denim Jeans,Apparel,S02,Vijayawada Mall,Vijayawada,2,49.50,0.00
+ORD00510,08-02-2024,P009,Denim Jeans,Apparel,S06,Online Store,Online,3,49.50,0.10
+ORD00399,2024-05-02,P009,Denim Jeans,Apparel,S05,Bengaluru Tech Park,Bengaluru,1,49.50,0.10
+ORD00584,2024-10-25,P019,Office Chair,Furniture,S01,Hyderabad Central,Hyderabad,1,179.00,0.10
+ORD00484,2024-10-11,P006,Noise Cancelling Headphones,Electronics,S01,Hyderabad Central,Hyderabad,1,$199.00,0.00
+ORD00334,07/03/2024,P009,Denim Jeans,Apparel,S02,Vijayawada Mall,Vijayawada,1,49.50,0.00
+ORD00002,2024-10-06,P014,Bed Linen Set,Home,S01,Hyderabad Central,Hyderabad,1,64.00,0.00
+ORD00478,2024-02-17,P016,Yoga Mat,Sports,S06,Online Store,Online,1,27.00,0.00
+ORD00115,12/08/2024,P003,27-inch Monitor,Electronics,S05,Bengaluru Tech Park,Bengaluru,1,249.00,0.05
+ORD00833,"Jun 07, 2024",P019,Office Chair,Furniture,S02,Vijayawada Mall,Vijayawada,2,179.00,0.05
+ORD00610,16-05-2024,P016,Yoga Mat,Sports,S03,Guntur City Store,Guntur,1,27.00,0.00
+ORD00745,2024-07-28,P020,Bookshelf,Furniture,S04,Visakhapatnam Bay,Visakhapatnam,1,129.50,0.10
+ORD00087,2024-08-20,P004,USB-C Hub,Electronics,S03,Guntur City Store,Guntur,3,39.95,0.05
+ORD00328,2024-04-01,P011,Wool Socks (3 pack),Apparel,S05,Bengaluru Tech Park,Bengaluru,2,14.25,0.15
+ORD00264,2024-12-26,P016,Yoga Mat,Sports,S06,Online Store,Online,2,$27.00,0.00
+ORD00238,31-01-2024,P003,27-inch Monitor,Electronics,S04,Visakhapatnam Bay,Visakhapatnam,1,249.00,0.05
+ORD00644,2024-05-29,P017,Dumbbell Set,Sports,S06,Online Store,Online,2,149.00,0.15
+ORD00709,2024-07-16,P006,Noise Cancelling Headphones,Electronics,S02,Vijayawada Mall,Vijayawada,1,199.00,0.05
+ORD00117,01-12-2024,P013,Non-stick Frying Pan,Home,S06,Online Store,Online,2,34.50,0.00
+ORD00292,29-11-2024,P005,Bluetooth Speaker,Electronics,S04,Visakhapatnam Bay,Visakhapatnam,2,59.00,0.05
+ORD00315,07/03/2024,P011,Wool Socks (3 pack),Apparel,S04,Visakhapatnam Bay,Visakhapatnam,1,14.25,0.15
+ORD00801,04-07-2024,P004,USB-C Hub,Electronics,S06,Online Store,Online,1,39.95,0.10
+ORD00657,02-03-2024,P019,Office Chair,Furniture,S03,Guntur City Store,Guntur,1,179.00,0.00
+ORD00132,2024-12-16,P002,Mechanical Keyboard,Electronics,S04,Visakhapatnam Bay,Visakhapatnam,1,89.50,0.00
+ORD00505,08/11/2024,P013,Non-stick Frying Pan,Home,S06,Online Store,Online,2,34.50,0.10
+ORD00208,2024-12-03,P014,Bed Linen Set,Home,S02,Vijayawada Mall,Vijayawada,3,64.00,0.00
+ORD00527,03/06/2024,P004,USB-C Hub,Electronics,S03,Guntur City Store,Guntur,2,39.95,0.15
+ORD00086,08-11-2024,P016,Yoga Mat,Sports,S02,Vijayawada Mall,Vijayawada,1,$27.00,0.00
+ORD00352,2024-02-02,P008,Cotton T-Shirt,Apparel,S03,Guntur City Store,Guntur,1,19.99,0.00
+ORD00708,12-03-2024,P019,Office Chair,Furniture,S02,Vijayawada Mall,Vijayawada,2,179.00,0.05
+ORD00304,09/03/2024,P013,Non-stick Frying Pan,Home,S03,Guntur City Store,Guntur,1,$34.50,0.00
+ORD00855,04/03/2024,P014,Bed Linen Set,Home,S03,Guntur City Store,Guntur,4,64.00,0.10
+ORD00242,"Jun 26, 2024",P017,Dumbbell Set,Sports,S05,Bengaluru Tech Park,Bengaluru,1,149.00,0.10
+ORD00814,2024-11-25,P008,Cotton T-Shirt,Apparel,S01,Hyderabad Central,Hyderabad,3,19.99,0.00
+ORD00214,15-04-2024,P003,27-inch Monitor,Electronics,S03,Guntur City Store,Guntur,2,249.00,0.15
+ORD00002,06-10-2024,P008,Cotton T-Shirt,Apparel,S01,Hyderabad Central,Hyderabad,2,$19.99,0.00
+ORD00887,2024-08-23,P018,Water Bottle (1L),Sports,S02,Vijayawada Mall,Vijayawada,1,12.99,0.00
+ORD00757,  2024-12-25  ,P011,Wool Socks (3 pack),Apparel,S01,Hyderabad Central,Hyderabad,1,14.25,0.10
+ORD00803,2024-04-13,P018,Water Bottle (1L),Sports,S05,Bengaluru Tech Park,Bengaluru,4,12.99,0.00
+ORD00430,2024-01-28,P004,USB-C Hub,Electronics,S02,Vijayawada Mall,Vijayawada,1,39.95,0.00
+ORD00647,2024-01-06,P003,27-inch Monitor,Electronics,S06,Online Store,Online,1,249.00,0.00
+ORD00687,2024-01-07,P006,Noise Cancelling Headphones,Electronics,S05,Bengaluru Tech Park,Bengaluru,1,$199.00,0.15
+ORD00740,2024-01-18,P001,Wireless Mouse,Electronics,S03,Guntur City Store,Guntur,2,24.99,0.10
+ORD00317,28-01-2024,P006,Noise Cancelling Headphones,Electronics,S01,Hyderabad Central,Hyderabad,2,199.00,0.00
+ORD00542,2024-11-09,P013,Non-stick Frying Pan,Home,S05,Bengaluru Tech Park,Bengaluru,1,34.50,0.05
+ORD00064,11-12-2024,P001,Wireless Mouse,Electronics,S05,Bengaluru Tech Park,Bengaluru,4,24.99,0.10
+ORD00141,2024-03-12,P001,Wireless Mouse,Electronics,S02,Vijayawada Mall,Vijayawada,1,24.99,0.05
+ORD00245,18-05-2024,P012,Coffee Maker,Home,S01,Hyderabad Central,Hyderabad,1,99.00,0.10
+ORD00714,21-10-2024,P017,Dumbbell Set,Sports,S03,Guntur City Store,Guntur,1,149.00,0.05
+ORD00090,2024-04-20,P005,Bluetooth Speaker,Electronics,S02,Vijayawada Mall,Vijayawada,4,59.00,0.05
+ORD00408,12/11/2024,P012,Coffee Maker,Home,S03,Guntur City Store,Guntur,3,$99.00,0.00
+ORD00239,20-03-2024,P013,Non-stick Frying Pan,Home,S05,Bengaluru Tech Park,Bengaluru,2,34.50,0.15
+ORD00072,2024-07-14,P015,Desk Lamp,Home,S04,Visakhapatnam Bay,Visakhapatnam,1,29.99,0.00
+ORD00699,2024-07-10,P016,Yoga Mat,Sports,S05,Bengaluru Tech Park,Bengaluru,3,27.00,0.00
+ORD00571,15-03-2024,P019,Office Chair,Furniture,S06,Online Store,Online,1,179.00,0.00
+ORD00095,2024-10-26,P018,Water Bottle (1L),Sports,S05,Bengaluru Tech Park,Bengaluru,3,,0.00
+ORD00566,2024-03-11,P012,Coffee Maker,Home,S05,Bengaluru Tech Park,Bengaluru,3,99.00,0.00
+ORD00109,2024-09-18,P017,Dumbbell Set,Sports,S06,Online Store,Online,2,149.00,0.15
+ORD00482,24/07/2024,P003,27-inch Monitor,Electronics,S05,Bengaluru Tech Park,Bengaluru,1,249.00,0.15
+ORD00438,2024-03-10,P019,Office Chair,Furniture,S04,Visakhapatnam Bay,Visakhapatnam,4,179.00,0.00
+ORD00185,28/08/2024,P012,Coffee Maker,Home,S03,Guntur City Store,Guntur,1,99.00,0.00
+ORD00806,2024-09-19,P017,Dumbbell Set,Sports,S04,Visakhapatnam Bay,Visakhapatnam,1,149.00,0.15
+ORD00066,2024-08-20,P001,Wireless Mouse,Electronics,S01,Hyderabad Central,Hyderabad,2,$24.99,0.05
+ORD00804,2024-01-12,P002,Mechanical Keyboard,Electronics,S02,Vijayawada Mall,Vijayawada,3,89.50,0.10
+ORD00005,2024-01-24,P010,Rain Jacket,Apparel,S06,Online Store,Online,4,$119.00,0.15
+ORD00863,2024-12-03,P004,USB-C Hub,Electronics,S01,Hyderabad Central,Hyderabad,1,$39.95,0.05
+ORD00847,"Aug 02, 2024",P018,Water Bottle (1L),Sports,S04,Visakhapatnam Bay,Visakhapatnam,2,12.99,0.00
+ORD00486,16/03/2024,P015,Desk Lamp,Home,S06,Online Store,Online,2,29.99,0.00
+ORD00018,08-02-2024,P004,USB-C Hub,Electronics,S04,Visakhapatnam Bay,Visakhapatnam,1,39.95,0.05
+ORD00613,21-07-2024,P006,Noise Cancelling Headphones,Electronics,S06,Online Store,Online,2,$199.00,0.00
+ORD00538,15/09/2024,P015,Desk Lamp,Home,S01,Hyderabad Central,Hyderabad,2,$29.99,0.00
+ORD00652,17-08-2024,P001,Wireless Mouse,Electronics,S03,Guntur City Store,Guntur,2,24.99,0.00
+ORD00329,2024-02-24,P006,Noise Cancelling Headphones,Electronics,S01,Hyderabad Central,Hyderabad,4,199.00,0.10
+ORD00690,27/08/2024,P002,Mechanical Keyboard,Electronics,S05,Bengaluru Tech Park,Bengaluru,2,89.50,0.00
+ORD00421,2024-04-21,P011,Wool Socks (3 pack),Apparel,S06,Online Store,Online,3,14.25,0.00
+ORD00093,2024-08-17,P019,Office Chair,Furniture,S03,Guntur City Store,Guntur,1,179.00,0.05
+ORD00842,08-12-2024,P003,27-inch Monitor,Electronics,S01,Hyderabad Central,Hyderabad,1,249.00,0.00
+ORD00583,25-05-2024,P001,Wireless Mouse,Electronics,S03,Guntur City Store,Guntur,2,24.99,0.00
+ORD00397,2024-05-29,P001,Wireless Mouse,Electronics,S05,Bengaluru Tech Park,Bengaluru,2,24.99,0.00
+ORD00349,10-01-2024,P005,Bluetooth Speaker,Electronics,S05,Bengaluru Tech Park,Bengaluru,1,59.00,0.00
+ORD00475,04-10-2024,P002,Mechanical Keyboard,Electronics,S03,Guntur City Store,Guntur,1,$89.50,0.00
+ORD00050,2024-06-03,P014,Bed Linen Set,Home,S06,Online Store,Online,2,64.00,0.00
+ORD00686,2024-07-29,P020,Bookshelf,Furniture,S02,Vijayawada Mall,Vijayawada,1,129.50,0.00
+ORD00019,2024-08-20,P018,Water Bottle (1L),Sports,S03,Guntur City Store,Guntur,2,12.99,0.00
+ORD00471,2024-06-16,P017,Dumbbell Set,Sports,S02,Vijayawada Mall,Vijayawada,2,$149.00,0.00
+ORD00450,20/11/2024,P017,Dumbbell Set,Sports,S03,Guntur City Store,Guntur,2,149.00,0.10
+ORD00157,2024-10-23,P002,Mechanical Keyboard,Electronics,S05,Bengaluru Tech Park,Bengaluru,2,89.50,0.00
+ORD00611,07/05/2024,P020,Bookshelf,Furniture,S03,Guntur City Store,Guntur,1,$129.50,0.00
+ORD00634,2024-08-15,P013,Non-stick Frying Pan,Home,S04,Visakhapatnam Bay,Visakhapatnam,1,34.50,0.00
+ORD00653,2024-10-20,P013,Non-stick Frying Pan,Home,S06,Online Store,Online,2,34.50,0.00
+ORD00388,2024-10-22,P017,Dumbbell Set,Sports,S05,Bengaluru Tech Park,Bengaluru,2,$149.00,0.10
+ORD00681,2024-05-20,P017,Dumbbell Set,Sports,S01,Hyderabad Central,Hyderabad,2,$149.00,0.00
+ORD00253,2024-12-30,P013,Non-stick Frying Pan,Home,S02,Vijayawada Mall,Vijayawada,2,34.50,0.10
+ORD00738,2024-01-07,P014,Bed Linen Set,Home,S05,Bengaluru Tech Park,Bengaluru,4,64.00,0.00
+ORD00315,2024-03-07,P004,USB-C Hub,Electronics,S04,Visakhapatnam Bay,Visakhapatnam,4,39.95,0.00
+ORD00223,23-05-2024,P017,Dumbbell Set,Sports,S05,Bengaluru Tech Park,Bengaluru,4,$149.00,0.10
+ORD00607,30-10-2024,P019,Office Chair,Furniture,S03,Guntur City Store,Guntur,1,179.00,0.00
+ORD00166,2024-08-20,P007,Running Shoes,Apparel,S06,Online Store,Online,3,74.99,0.00
+ORD00250,2024-03-09,P008,Cotton T-Shirt,Apparel,S06,Online Store,Online,1,19.99,0.15
+ORD00734,2024-04-14,P008,Cotton T-Shirt,Apparel,S02,Vijayawada Mall,Vijayawada,1,19.99,0.05
+ORD00162,02/10/2024,P009,Denim Jeans,Apparel,S03,Guntur City Store,Guntur,1,49.50,0.05
+ORD00830,20/08/2024,P005,Bluetooth Speaker,Electronics,S05,Bengaluru Tech Park,Bengaluru,3,59.00,0.00
+ORD00360,15/11/2024,P007,Running Shoes,Apparel,S06,Online Store,Online,2,74.99,0.05
+ORD00774,21/08/2024,P009,Denim Jeans,Apparel,S01,Hyderabad Central,Hyderabad,4,49.50,0.10
+ORD00396,2024-08-28,P016,Yoga Mat,Sports,S05,Bengaluru Tech Park,Bengaluru,4,27.00,0.00
+ORD00746,2024-01-04,P017,Dumbbell Set,Sports,S06,Online Store,Online,4,149.00,0.15
+ORD00076,2024-01-29,P012,Coffee Maker,Home,S03,Guntur City Store,Guntur,2,99.00,0.00
+ORD00350,"May 28, 2024",P008,Cotton T-Shirt,Apparel,S02,Vijayawada Mall,Vijayawada,3,19.99,0.15
+ORD00116,2024-12-02,P011,Wool Socks (3 pack),Apparel,S05,Bengaluru Tech Park,Bengaluru,1,14.25,0.10
+ORD00570,03/12/2024,P019,Office Chair,Furniture,S05,Bengaluru Tech Park,Bengaluru,4,$179.00,0.00
+ORD00703,15/12/2024,P020,Bookshelf,Furniture,S03,Guntur City Store,Guntur,4,129.50,0.15
+ORD00084,2024-07-22,P003,27-inch Monitor,Electronics,S05,Bengaluru Tech Park,Bengaluru,3,$249.00,0.00
+ORD00772,29/06/2024,P005,Bluetooth Speaker,Electronics,S05,Bengaluru Tech Park,Bengaluru,2,59.00,0.00
+ORD00551,2024-04-04,P002,Mechanical Keyboard,Electronics,S02,Vijayawada Mall,Vijayawada,2,89.50,0.00
+ORD00050,2024-06-03,P014,BED LINEN SET,Home,S06,Online Store,Online,2,64.00,0.00
+ORD00878,2024-07-25,P014,Bed Linen Set,Home,S01,Hyderabad Central,Hyderabad,3,64.00,0.00
+ORD00120,26/09/2024,P006,Noise Cancelling Headphones,Electronics,S01,Hyderabad Central,Hyderabad,1,199.00,0.10
+ORD00108,2024-07-04,P010,Rain Jacket,Apparel,S01,Hyderabad Central,Hyderabad,3,119.00,0.00
+ORD00295,2024-11-03,P011,Wool Socks (3 pack),Apparel,S04,Visakhapatnam Bay,Visakhapatnam,2,14.25,0.10
+ORD00577,05/08/2024,P013,Non-stick Frying Pan,Home,S06,Online Store,Online,1,34.50,0.10
+ORD00574,26/08/2024,P005,Bluetooth Speaker,Electronics,S01,Hyderabad Central,Hyderabad,2,59.00,0.00
+ORD00821,22/05/2024,P011,Wool Socks (3 pack),Apparel,S02,Vijayawada Mall,Vijayawada,4,14.25,0.00
+ORD00815,07-01-2024,P018,Water Bottle (1L),Sports,S01,Hyderabad Central,Hyderabad,3,$12.99,0.00
+ORD00280,2024-03-05,P005,Bluetooth Speaker,Electronics,S01,Hyderabad Central,Hyderabad,3,59.00,0.00
+ORD00704,"May 13, 2024",P010,Rain Jacket,Apparel,S01,Hyderabad Central,Hyderabad,3,119.00,0.15
+ORD00367,11/10/2024,P004,USB-C Hub,Electronics,S04,Visakhapatnam Bay,Visakhapatnam,3,39.95,0.00
+ORD00614,11/06/2024,P014,Bed Linen Set,Home,S06,Online Store,Online,1,64.00,0.00
+ORD00502,2024-03-26,P008,Cotton T-Shirt,Apparel,S04,Visakhapatnam Bay,Visakhapatnam,1,19.99,0.10
+ORD00008,17-10-2024,P007,RUNNING SHOES,Apparel,S06,Online Store,Online,2,74.99,0.00
+ORD00776,2024-02-15,P009,Denim Jeans,Apparel,S03,Guntur City Store,Guntur,1,$49.50,0.15
+ORD00041,15-09-2024,P015,Desk Lamp,Home,S04,Visakhapatnam Bay,Visakhapatnam,4,29.99,0.10
+ORD00679,22-05-2024,P005,Bluetooth Speaker,Electronics,S05,Bengaluru Tech Park,Bengaluru,1,59.00,0.05
+ORD00167,17-10-2024,P006,Noise Cancelling Headphones,Electronics,S06,Online Store,Online,2,199.00,0.10
+ORD00553,2024-08-14,P004,USB-C Hub,Electronics,S03,Guntur City Store,Guntur,3,39.95,0.00
+ORD00205,31/10/2024,P013,Non-stick Frying Pan,Home,S02,Vijayawada Mall,Vijayawada,4,34.50,0.00
+ORD00093,17/08/2024,P016,Yoga Mat,Sports,S03,Guntur City Store,Guntur,3,27.00,0.00
+ORD00140,2024-08-15,P006,Noise Cancelling Headphones,Electronics,S01,Hyderabad Central,Hyderabad,3,199.00,0.05
+ORD00860,2024-07-19,P018,Water Bottle (1L),Sports,S06,Online Store,Online,1,$12.99,0.00
+ORD00838,2024-06-07,P016,Yoga Mat,Sports,S05,Bengaluru Tech Park,Bengaluru,1,27.00,0.00
+ORD00614,2024-06-11,P016,Yoga Mat,Sports,S06,Online Store,Online,4,27.00,0.15
+ORD00792,2024-01-27,P010,Rain Jacket,Apparel,S06,Online Store,Online,2,119.00,0.15
+ORD00288,2024-09-25,P006,Noise Cancelling Headphones,Electronics,S05,Bengaluru Tech Park,Bengaluru,1,$199.00,0.15
+ORD00168,"Sep 20, 2024",P013,Non-stick Frying Pan,Home,S03,Guntur City Store,Guntur,2,34.50,0.00
+ORD00783,2024-08-05,P017,Dumbbell Set,Sports,S06,Online Store,Online,4,149.00,0.00
+ORD00675,05/01/2024,P014,Bed Linen Set,Home,S06,Online Store,Online,2,64.00,0.10
+ORD00501,"Feb 13, 2024",P005,Bluetooth Speaker,Electronics,S02,Vijayawada Mall,Vijayawada,3,59.00,0.15
+ORD00272,2024-07-12,P001,Wireless Mouse,Electronics,S03,Guntur City Store,Guntur,1,24.99,0.00
+ORD00780,2024-08-27,P008,Cotton T-Shirt,Apparel,S05,Bengaluru Tech Park,Bengaluru,0,19.99,0.15
+ORD00118,2024-07-04,P007,Running Shoes,Apparel,S03,Guntur City Store,Guntur,1,74.99,0.15
+ORD00163,11/03/2024,P019,Office Chair,Furniture,S01,Hyderabad Central,Hyderabad,1,179.00,0.10
+ORD00284,2024-12-01,P020,Bookshelf,Furniture,S04,Visakhapatnam Bay,Visakhapatnam,2,129.50,0.00
+ORD00345,2024-10-08,P018,Water Bottle (1L),Sports,S04,Visakhapatnam Bay,Visakhapatnam,1,$12.99,0.10
+ORD00097,2024-02-16,P014,Bed Linen Set,Home,S01,Hyderabad Central,Hyderabad,1,$64.00,0.10
+ORD00648,04-12-2024,P011,WOOL SOCKS (3 PACK),Apparel,S05,Bengaluru Tech Park,Bengaluru,4,,0.00
+ORD00694,2024-03-30,P004,USB-C Hub,Electronics,S03,Guntur City Store,Guntur,1,39.95,0.10
+ORD00540,08/12/2024,P015,Desk Lamp,Home,S03,Guntur City Store,Guntur,4,29.99,0.10
+ORD00431,04/09/2024,P020,Bookshelf,Furniture,S05,Bengaluru Tech Park,Bengaluru,1,$129.50,0.00
+ORD00701,2024-08-06,P014,Bed Linen Set,Home,S04,Visakhapatnam Bay,Visakhapatnam,1,64.00,0.15
+ORD00845,2024-08-04,P006,Noise Cancelling Headphones,Electronics,S03,Guntur City Store,Guntur,1,$199.00,0.00
+ORD00624,2024-11-27,P004,USB-C Hub,Electronics,S06,Online Store,Online,1,39.95,0.15
+ORD00177,2024-10-02,P010,Rain Jacket,Apparel,S04,Visakhapatnam Bay,Visakhapatnam,2,119.00,0.10
+ORD00317,28/01/2024,P002,Mechanical Keyboard,Electronics,S01,Hyderabad Central,Hyderabad,2,89.50,0.05
+ORD00690,"Aug 27, 2024",P011,Wool Socks (3 pack),Apparel,S05,Bengaluru Tech Park,Bengaluru,3,14.25,0.05
+ORD00322,2024-03-25,P014,Bed Linen Set,Home,S04,Visakhapatnam Bay,Visakhapatnam,1,$64.00,0.05
+ORD00284,01/12/2024,P011,Wool Socks (3 pack),Apparel,S04,Visakhapatnam Bay,Visakhapatnam,2,14.25,0.00
+ORD00625,2024-06-07,P016,Yoga Mat,Sports,S06,Online Store,Online,2,27.00,0.00
+ORD00612,30/04/2024,P002,Mechanical Keyboard,Electronics,S04,Visakhapatnam Bay,Visakhapatnam,1,89.50,0.05
+ORD00869,2024-02-17,P017,Dumbbell Set,Sports,S03,Guntur City Store,Guntur,4,149.00,0.00
+ORD00778,2024-12-13,P020,Bookshelf,Furniture,S05,Bengaluru Tech Park,Bengaluru,4,$129.50,0.00
+ORD00048,"Apr 21, 2024",P004,USB-C Hub,Electronics,S04,Visakhapatnam Bay,Visakhapatnam,3,$39.95,0.00
+ORD00850,"Apr 06, 2024",P007,Running Shoes,Apparel,S04,Visakhapatnam Bay,Visakhapatnam,4,74.99,0.05
+ORD00762,2024-10-21,P002,Mechanical Keyboard,Electronics,S01,Hyderabad Central,Hyderabad,1,$89.50,0.00
+ORD00296,2024-04-23,P006,Noise Cancelling Headphones,Electronics,S06,Online Store,Online,3,,0.05
+ORD00862,2024-11-20,P006,Noise Cancelling Headphones,Electronics,S06,Online Store,Online,1,199.00,0.00
+ORD00656,2024-03-06,P015,Desk Lamp,Home,S04,Visakhapatnam Bay,Visakhapatnam,1,29.99,0.10
+ORD00705,2024-03-17,P008,Cotton T-Shirt,Apparel,S04,Visakhapatnam Bay,Visakhapatnam,3,19.99,0.00
+ORD00526,25/05/2024,P015,Desk Lamp,Home,S04,Visakhapatnam Bay,Visakhapatnam,1,$29.99,0.00
+ORD00175,2024-05-10,P010,Rain Jacket,Apparel,S01,Hyderabad Central,Hyderabad,1,119.00,0.15
+ORD00726,22/12/2024,P005,Bluetooth Speaker,Electronics,S04,Visakhapatnam Bay,Visakhapatnam,1,59.00,0.10
+ORD00320,12/11/2024,P017,Dumbbell Set,Sports,S06,Online Store,Online,2,149.00,0.10
+ORD00890,02-05-2024,P013,Non-stick Frying Pan,Home,S01,Hyderabad Central,Hyderabad,1,34.50,0.10
+ORD00459,26/09/2024,P017,Dumbbell Set,Sports,S04,Visakhapatnam Bay,Visakhapatnam,4,149.00,0.00
+ORD00368,21/02/2024,P013,Non-stick Frying Pan,Home,S02,Vijayawada Mall,Vijayawada,3,34.50,0.15
+ORD00009,2024-10-26,P013,Non-stick Frying Pan,Home,S04,Visakhapatnam Bay,Visakhapatnam,1,$34.50,0.00
+ORD00152,2024-01-05,P005,Bluetooth Speaker,Electronics,S01,Hyderabad Central,Hyderabad,4,59.00,0.10
+ORD00081,26/05/2024,P005,Bluetooth Speaker,Electronics,S02,Vijayawada Mall,Vijayawada,2,59.00,0.10
+ORD00527,2024-06-03,P001,Wireless Mouse,Electronics,S03,Guntur City Store,Guntur,2,24.99,0.00
+ORD00180,2024-03-30,P010,Rain Jacket,Apparel,S06,Online Store,Online,1,119.00,0.15
+ORD00135,2024-05-30,P003,27-inch Monitor,Electronics,S03,Guntur City Store,Guntur,1,249.00,0.00
+ORD00490,2024-07-26,P018,Water Bottle (1L),Sports,S04,Visakhapatnam Bay,Visakhapatnam,1,12.99,0.00
+ORD00894,05-01-2024,P016,Yoga Mat,Sports,S05,Bengaluru Tech Park,Bengaluru,2,27.00,0.00
+ORD00437,05/11/2024,P007,Running Shoes,Apparel,S03,Guntur City Store,Guntur,,74.99,0.00
+ORD00455,2024-01-26,P002,Mechanical Keyboard,Electronics,S02,Vijayawada Mall,Vijayawada,2,$89.50,0.00
+ORD00410,10-10-2024,P017,Dumbbell Set,Sports,S02,Vijayawada Mall,Vijayawada,1,149.00,0.00
+ORD00657,2024-03-02,P012,Coffee Maker,Home,S03,Guntur City Store,Guntur,1,$99.00,0.00
+ORD00877,2024-01-11,P019,Office Chair,Furniture,S03,Guntur City Store,Guntur,4,179.00,0.00
+ORD00071,2024-03-17,P011,Wool Socks (3 pack),Apparel,S04,Visakhapatnam Bay,Visakhapatnam,4,14.25,0.10
+ORD00844,"Aug 28, 2024",P007,Running Shoes,Apparel,S02,Vijayawada Mall,Vijayawada,1,74.99,0.00
+ORD00825,04-07-2024,P005,Bluetooth Speaker,Electronics,S05,Bengaluru Tech Park,Bengaluru,1,,0.00
+ORD00566,2024-03-11,P004,USB-C Hub,Electronics,S05,Bengaluru Tech Park,Bengaluru,1,39.95,0.05
+ORD00335,2024-07-02,P007,Running Shoes,Apparel,S01,Hyderabad Central,Hyderabad,2,74.99,0.00
+ORD00119,2024-03-11,P010,Rain Jacket,Apparel,S02,Vijayawada Mall,Vijayawada,3,119.00,0.00
+ORD00598,2024-08-04,P004,USB-C Hub,Electronics,S02,Vijayawada Mall,Vijayawada,1,39.95,0.00
+ORD00778,2024-12-13,P001,Wireless Mouse,Electronics,S05,Bengaluru Tech Park,Bengaluru,2,$24.99,0.10
+ORD00402,2024-03-15,P009,Denim Jeans,Apparel,S01,Hyderabad Central,Hyderabad,3,49.50,0.15
+ORD00128,20/09/2024,P005,Bluetooth Speaker,Electronics,S05,Bengaluru Tech Park,Bengaluru,1,59.00,0.00
+ORD00351,20/09/2024,P006,Noise Cancelling Headphones,Electronics,S02,Vijayawada Mall,Vijayawada,1,199.00,0.05
+ORD00423,10/02/2024,P008,Cotton T-Shirt,Apparel,S01,Hyderabad Central,Hyderabad,3,$19.99,0.15
+ORD00676,2024-10-02,P004,USB-C Hub,Electronics,S01,Hyderabad Central,Hyderabad,1,39.95,0.15
+ORD00548,15/08/2024,P008,Cotton T-Shirt,Apparel,S04,Visakhapatnam Bay,Visakhapatnam,2,$19.99,0.00
+ORD00534,2024-10-18,P005,Bluetooth Speaker,Electronics,S01,Hyderabad Central,Hyderabad,1,59.00,0.00
+ORD00133,2024-10-05,P002,Mechanical Keyboard,Electronics,S04,Visakhapatnam Bay,Visakhapatnam,4,89.50,0.00
+ORD00762,21/10/2024,P005,Bluetooth Speaker,Electronics,S01,Hyderabad Central,Hyderabad,1,59.00,0.00
+ORD00576,"Aug 12, 2024",P011,Wool Socks (3 pack),Apparel,S05,Bengaluru Tech Park,Bengaluru,1,$14.25,0.15
+ORD00811,02/09/2024,P016,Yoga Mat,Sports,S01,Hyderabad Central,Hyderabad,4,$27.00,0.00
+ORD00750,2024-02-21,P019,Office Chair,Furniture,S06,Online Store,Online,3,$179.00,0.10
+ORD00695,09-07-2024,P017,Dumbbell Set,Sports,S06,Online Store,Online,4,149.00,0.05
+ORD00126,27/12/2024,P005,Bluetooth Speaker,Electronics,S04,Visakhapatnam Bay,Visakhapatnam,2,59.00,0.10
+ORD00788,2024-01-04,P006,Noise Cancelling Headphones,Electronics,S02,Vijayawada Mall,Vijayawada,2,199.00,0.00
+ORD00480,02/09/2024,P010,Rain Jacket,Apparel,S04,Visakhapatnam Bay,Visakhapatnam,3,119.00,0.05
+ORD00574,2024-08-26,P002,Mechanical Keyboard,Electronics,S01,Hyderabad Central,Hyderabad,,89.50,0.00
+ORD00262,22/03/2024,P008,Cotton T-Shirt,Apparel,S01,Hyderabad Central,Hyderabad,1,19.99,0.15
+ORD00673,"Jun 02, 2024",P014,Bed Linen Set,Home,S01,Hyderabad Central,Hyderabad,1,64.00,0.05
+ORD00424,2024-11-19,P010,Rain Jacket,Apparel,S04,Visakhapatnam Bay,Visakhapatnam,2,$119.00,0.00
+ORD00165,28-05-2024,P010,Rain Jacket,Apparel,S01,Hyderabad Central,Hyderabad,2,119.00,0.00
+ORD00669,20/11/2024,P009,Denim Jeans,Apparel,S02,Vijayawada Mall,Vijayawada,2,49.50,0.05
+ORD00818,2024-05-26,P012,Coffee Maker,Home,S02,Vijayawada Mall,Vijayawada,1,99.00,0.00
+ORD00647,2024-01-06,P014,Bed Linen Set,Home,S06,Online Store,Online,1,64.00,0.15
+ORD00198,03/10/2024,P005,Bluetooth Speaker,Electronics,S03,Guntur City Store,Guntur,3,59.00,0.10
+ORD00510,2024-02-08,P011,Wool Socks (3 pack),Apparel,S06,Online Store,Online,1,14.25,0.15
+ORD00885,2024-10-29,P017,Dumbbell Set,Sports,S05,Bengaluru Tech Park,Bengaluru,1,149.00,0.00
+ORD00522,"Feb 19, 2024",P014,Bed Linen Set,Home,S04,Visakhapatnam Bay,Visakhapatnam,1,64.00,0.15
+ORD00422,25/12/2024,P020,Bookshelf,Furniture,S05,Bengaluru Tech Park,Bengaluru,2,129.50,0.00
+ORD00651,04-06-2024,P017,Dumbbell Set,Sports,S06,Online Store,Online,1,149.00,0.00
+ORD00078,2024-03-21,P009,Denim Jeans,Apparel,S01,Hyderabad Central,Hyderabad,2,49.50,0.00
+ORD00739,09/04/2024,P002,Mechanical Keyboard,Electronics,S04,Visakhapatnam Bay,Visakhapatnam,2,89.50,0.00
+ORD00313,2024-08-03,P004,USB-C Hub,Electronics,S06,Online Store,Online,1,39.95,0.10
+ORD00340,2024-05-08,P019,Office Chair,Furniture,S05,Bengaluru Tech Park,Bengaluru,3,179.00,0.00
+ORD00286,2024-08-14,P014,Bed Linen Set,Home,S03,Guntur City Store,Guntur,2,64.00,0.00
+ORD00685,12-07-2024,P003,27-inch Monitor,Electronics,S03,Guntur City Store,Guntur,3,249.00,0.00
+ORD00740,2024-01-18,P006,Noise Cancelling Headphones,Electronics,S03,Guntur City Store,Guntur,1,199.00,0.15
+ORD00409,2024-07-12,P005,Bluetooth Speaker,Electronics,S03,Guntur City Store,Guntur,1,59.00,0.00
+ORD00242,2024-06-26,P004,USB-C Hub,Electronics,S05,Bengaluru Tech Park,Bengaluru,3,39.95,0.00
+ORD00557,2024-08-05,P005,Bluetooth Speaker,Electronics,S06,Online Store,Online,3,59.00,0.05
+ORD00754,14/07/2024,P007,Running Shoes,Apparel,S06,Online Store,Online,3,$74.99,0.00
+ORD00226,2024-02-17,P012,Coffee Maker,Home,S06,Online Store,Online,3,99.00,0.15
+ORD00419,2024-04-19,P010,Rain Jacket,Apparel,S04,Visakhapatnam Bay,Visakhapatnam,1,119.00,0.00
+ORD00453,2024-08-22,P019,Office Chair,Furniture,S04,Visakhapatnam Bay,Visakhapatnam,2,$179.00,0.00
+ORD00226,2024-02-17,P014,Bed Linen Set,Home,S06,Online Store,Online,3,64.00,0.00
+ORD00497,2024-09-19,P016,Yoga Mat,Sports,S04,Visakhapatnam Bay,Visakhapatnam,2,27.00,0.05
+ORD00592,2024-10-16,P002,Mechanical Keyboard,Electronics,S06,Online Store,Online,2,89.50,0.00
+ORD00719,2024-12-21,P015,Desk Lamp,Home,S06,Online Store,Online,1,29.99,0.10
+ORD00215,2024-10-27,P010,Rain Jacket,Apparel,S01,Hyderabad Central,Hyderabad,4,$119.00,0.05
+ORD00579,04/02/2024,P010,Rain Jacket,Apparel,S04,Visakhapatnam Bay,Visakhapatnam,2,119.00,0.00
+ORD00738,07/01/2024,P012,Coffee Maker,Home,S05,Bengaluru Tech Park,Bengaluru,1,99.00,0.00
+ORD00077,15/12/2024,P019,Office Chair,Furniture,S02,Vijayawada Mall,Vijayawada,1,179.00,0.00
+ORD00595,04/11/2024,P014,Bed Linen Set,Home,S03,Guntur City Store,Guntur,4,$64.00,0.10
+ORD00411,2024-08-20,P012,Coffee Maker,Home,S01,Hyderabad Central,Hyderabad,3,$99.00,0.00
+ORD00449,30/12/2024,P003,27-inch Monitor,Electronics,S02,Vijayawada Mall,Vijayawada,1,249.00,0.10
+ORD00238,31/01/2024,P010,Rain Jacket,Apparel,S04,Visakhapatnam Bay,Visakhapatnam,2,119.00,0.05
+ORD00740,18/01/2024,P005,Bluetooth Speaker,Electronics,S03,Guntur City Store,Guntur,1,59.00,0.05
+ORD00314,2024-03-22,P013,Non-stick Frying Pan,Home,S01,Hyderabad Central,Hyderabad,3,34.50,0.05
+ORD00463,22/11/2024,P007,Running Shoes,Apparel,S02,Vijayawada Mall,Vijayawada,2,74.99,0.00
+ORD00702,2024-02-12,P004,USB-C Hub,Electronics,S03,Guntur City Store,Guntur,1,39.95,0.00
+ORD00359,13/02/2024,P014,Bed Linen Set,Home,S02,Vijayawada Mall,Vijayawada,2,64.00,0.15
+ORD00239,20/03/2024,P003,27-inch Monitor,Electronics,S05,Bengaluru Tech Park,Bengaluru,1,249.00,0.00
+ORD00328,2024-04-01,P019,Office Chair,Furniture,S05,Bengaluru Tech Park,Bengaluru,4,179.00,0.10
+ORD00241,02/12/2024,P004,USB-C Hub,Electronics,S06,Online Store,Online,1,39.95,0.00
+ORD00293,2024-05-20,P020,Bookshelf,Furniture,S04,Visakhapatnam Bay,Visakhapatnam,1,129.50,0.00
+ORD00778,2024-12-13,P013,Non-stick Frying Pan,Home,S05,Bengaluru Tech Park,Bengaluru,2,34.50,0.00
+ORD00193,2024-07-26,P018,Water Bottle (1L),Sports,S04,Visakhapatnam Bay,Visakhapatnam,2,12.99,0.10
+ORD00269,2024-03-06,P001,Wireless Mouse,Electronics,S02,Vijayawada Mall,Vijayawada,4,24.99,0.05
+ORD00642,"Aug 22, 2024",P020,Bookshelf,Furniture,S01,Hyderabad Central,Hyderabad,2,129.50,0.15
+ORD00444,12/08/2024,P020,Bookshelf,Furniture,S05,Bengaluru Tech Park,Bengaluru,3,129.50,0.00
+ORD00541,2024-08-25,P001,Wireless Mouse,Electronics,S02,Vijayawada Mall,Vijayawada,4,24.99,0.00
+ORD00544,2024-04-25,P012,Coffee Maker,Home,S03,Guntur City Store,Guntur,2,$99.00,0.05
+ORD00483,10/08/2024,P019,Office Chair,Furniture,S05,Bengaluru Tech Park,Bengaluru,3,179.00,0.00
+ORD00786,2024-09-06,P001,Wireless Mouse,Electronics,S01,Hyderabad Central,Hyderabad,2,$24.99,0.00
+ORD00547,2024-08-03,P001,Wireless Mouse,Electronics,S04,Visakhapatnam Bay,Visakhapatnam,1,24.99,0.00
+ORD00121,  2024-05-01  ,P010,Rain Jacket,Apparel,S04,Visakhapatnam Bay,Visakhapatnam,4,119.00,0.15
+ORD00558,2024-10-29,P001,Wireless Mouse,Electronics,S04,Visakhapatnam Bay,Visakhapatnam,1,24.99,0.00
+ORD00419,2024-04-19,P002,Mechanical Keyboard,Electronics,S04,Visakhapatnam Bay,Visakhapatnam,4,$89.50,0.05
+ORD00568,2024-08-14,P008,Cotton T-Shirt,Apparel,S05,Bengaluru Tech Park,Bengaluru,1,19.99,0.10
+ORD00593,2024-11-26,P020,Bookshelf,Furniture,S02,Vijayawada Mall,Vijayawada,1,129.50,0.00
+ORD00708,"Mar 12, 2024",P013,Non-stick Frying Pan,Home,S02,Vijayawada Mall,Vijayawada,4,$34.50,0.00
+ORD00584,2024-10-25,P011,Wool Socks (3 pack),Apparel,S01,Hyderabad Central,Hyderabad,1,14.25,0.00
+ORD00810,2024-05-11,P015,Desk Lamp,Home,S06,Online Store,Online,1,$29.99,0.10
+ORD00659,07/06/2024,P005,Bluetooth Speaker,Electronics,S05,Bengaluru Tech Park,Bengaluru,3,59.00,0.05
+ORD00704,2024-05-13,P019,Office Chair,Furniture,S01,Hyderabad Central,Hyderabad,3,179.00,0.00
+ORD00879,01-06-2024,P004,USB-C Hub,Electronics,S06,Online Store,Online,1,$39.95,0.00
+ORD00615,15/05/2024,P005,Bluetooth Speaker,Electronics,S05,Bengaluru Tech Park,Bengaluru,2,59.00,0.10
+ORD00771,2024-09-30,P019,Office Chair,Furniture,S04,Visakhapatnam Bay,Visakhapatnam,2,179.00,0.00
+ORD00833,2024-06-07,P002,Mechanical Keyboard,Electronics,S02,Vijayawada Mall,Vijayawada,1,89.50,0.00
+ORD00378,2024-10-10,P011,Wool Socks (3 pack),Apparel,S02,Vijayawada Mall,Vijayawada,1,14.25,0.05
+ORD00212,2024-06-24,P006,Noise Cancelling Headphones,Electronics,S06,Online Store,Online,4,199.00,0.10
+ORD00342,2024-02-07,P018,Water Bottle (1L),Sports,S03,Guntur City Store,Guntur,1,12.99,0.10
+ORD00602,2024-12-16,P008,Cotton T-Shirt,Apparel,S01,Hyderabad Central,Hyderabad,4,19.99,0.00
+ORD00526,2024-05-25,P016,Yoga Mat,Sports,S04,Visakhapatnam Bay,Visakhapatnam,2,27.00,0.00
+ORD00681,2024-05-20,P008,Cotton T-Shirt,Apparel,S01,Hyderabad Central,Hyderabad,1,19.99,0.00
+ORD00312,12/08/2024,P015,Desk Lamp,Home,S05,Bengaluru Tech Park,Bengaluru,1,29.99,0.00
+ORD00209,2024-10-01,P011,Wool Socks (3 pack),Apparel,S05,Bengaluru Tech Park,Bengaluru,4,$14.25,0.00
+ORD00841,2024-08-18,P002,Mechanical Keyboard,Electronics,S03,Guntur City Store,Guntur,2,89.50,0.10
+ORD00026,2024-05-15,P009,Denim Jeans,Apparel,S05,Bengaluru Tech Park,Bengaluru,4,49.50,0.15
+ORD00684,"Nov 13, 2024",P015,Desk Lamp,Home,S04,Visakhapatnam Bay,Visakhapatnam,2,29.99,0.00
+ORD00150,28/05/2024,P019,Office Chair,Furniture,S04,Visakhapatnam Bay,Visakhapatnam,3,179.00,0.00
+ORD00291,2024-08-30,P007,Running Shoes,Apparel,S05,Bengaluru Tech Park,Bengaluru,3,74.99,0.10
+ORD00633,17-04-2024,P014,Bed Linen Set,Home,S04,Visakhapatnam Bay,Visakhapatnam,1,64.00,0.00
+ORD00366,2024-12-14,P014,Bed Linen Set,Home,S04,Visakhapatnam Bay,Visakhapatnam,2,64.00,0.05
+ORD00159,"Dec 27, 2024",P009,Denim Jeans,Apparel,S02,Vijayawada Mall,Vijayawada,2,49.50,0.00
+ORD00031,2024-08-23,P003,27-inch Monitor,Electronics,S03,Guntur City Store,Guntur,4,249.00,0.00
+ORD00294,2024-07-10,P011,Wool Socks (3 pack),Apparel,S05,Bengaluru Tech Park,Bengaluru,4,14.25,0.10
+ORD00481,26/07/2024,P011,Wool Socks (3 pack),Apparel,S06,Online Store,Online,2,14.25,0.00
+ORD00374,2024-06-27,P008,Cotton T-Shirt,Apparel,S03,Guntur City Store,Guntur,2,19.99,0.00
+ORD00806,19-09-2024,P002,Mechanical Keyboard,Electronics,S04,Visakhapatnam Bay,Visakhapatnam,2,89.50,0.00
+ORD00334,2024-03-07,P020,Bookshelf,Furniture,S02,Vijayawada Mall,Vijayawada,3,129.50,0.00
+ORD00358,2024-03-09,P002,Mechanical Keyboard,Electronics,S06,Online Store,Online,4,89.50,0.00
+ORD00326,15-09-2024,P011,Wool Socks (3 pack),Apparel,S04,Visakhapatnam Bay,Visakhapatnam,4,$14.25,0.00
+ORD00484,2024-10-11,P020,Bookshelf,Furniture,S01,Hyderabad Central,Hyderabad,3,129.50,0.00
+ORD00143,2024-10-09,P006,Noise Cancelling Headphones,Electronics,S06,Online Store,Online,3,199.00,0.00
+ORD00281,04/02/2024,P001,Wireless Mouse,Electronics,S01,Hyderabad Central,Hyderabad,3,24.99,0.05
+ORD00428,2024-04-07,P020,Bookshelf,Furniture,S03,Guntur City Store,Guntur,2,129.50,0.15
+ORD00069,2024-08-24,P014,Bed Linen Set,Home,S01,Hyderabad Central,Hyderabad,3,64.00,0.00
+ORD00417,22-11-2024,P015,Desk Lamp,Home,S05,Bengaluru Tech Park,Bengaluru,2,29.99,0.00
+ORD00369,"Apr 23, 2024",P020,Bookshelf,Furniture,S03,Guntur City Store,Guntur,1,129.50,0.00
+ORD00801,04/07/2024,P017,Dumbbell Set,Sports,S06,Online Store,Online,2,149.00,0.00
+ORD00326,2024-09-15,P020,Bookshelf,Furniture,S04,Visakhapatnam Bay,Visakhapatnam,4,129.50,0.15
+ORD00203,2024-05-17,P016,Yoga Mat,Sports,S03,Guntur City Store,Guntur,1,27.00,0.00
+ORD00233,2024-02-14,P004,USB-C Hub,Electronics,S01,Hyderabad Central,Hyderabad,2,39.95,0.00
+ORD00631,10/02/2024,P013,Non-stick Frying Pan,Home,S06,Online Store,Online,4,34.50,0.10
+ORD00528,  22/04/2024  ,P016,Yoga Mat,Sports,S04,Visakhapatnam Bay,Visakhapatnam,2,$27.00,0.00
+ORD00113,2024-07-07,P003,27-inch Monitor,Electronics,S03,Guntur City Store,Guntur,2,249.00,0.05
+ORD00656,2024-03-06,P015,Desk Lamp,Home,S04,Visakhapatnam Bay,Visakhapatnam,1,29.99,0.10
+ORD00851,2024-12-24,P015,Desk Lamp,Home,S04,Visakhapatnam Bay,Visakhapatnam,1,29.99,0.00
+ORD00074,2024-11-16,P018,Water Bottle (1L),Sports,S06,Online Store,Online,1,12.99,0.00
+ORD00719,2024-12-21,P015,Desk Lamp,Home,S06,Online Store,Online,2,29.99,0.00
+ORD00724,2024-06-16,P008,Cotton T-Shirt,Apparel,S03,Guntur City Store,Guntur,1,$19.99,0.00
+ORD00229,2024-04-29,P011,Wool Socks (3 pack),Apparel,S04,Visakhapatnam Bay,Visakhapatnam,3,$14.25,0.15
+ORD00620,24/02/2024,P001,Wireless Mouse,Electronics,S03,Guntur City Store,Guntur,1,24.99,0.15
+ORD00044,21/06/2024,P020,Bookshelf,Furniture,S06,Online Store,Online,2,129.50,0.00
+ORD00560,03-06-2024,P005,Bluetooth Speaker,Electronics,S05,Bengaluru Tech Park,Bengaluru,1,59.00,0.10
+ORD00350,2024-05-28,P017,Dumbbell Set,Sports,S02,Vijayawada Mall,Vijayawada,2,$149.00,0.00
+ORD00016,03/10/2024,P015,Desk Lamp,Home,S02,Vijayawada Mall,Vijayawada,4,29.99,0.00
+ORD00254,2024-10-08,P015,Desk Lamp,Home,S02,Vijayawada Mall,Vijayawada,1,$29.99,0.15
+ORD00849,2024-01-02,P015,Desk Lamp,Home,S04,Visakhapatnam Bay,Visakhapatnam,2,29.99,0.05
+ORD00060,  2024-05-07  ,P014,Bed Linen Set,Home,S01,Hyderabad Central,Hyderabad,1,64.00,0.05
+ORD00749,13/06/2024,P008,Cotton T-Shirt,Apparel,S01,Hyderabad Central,Hyderabad,2,19.99,0.00
+ORD00865,2024-02-21,P014,Bed Linen Set,Home,S04,Visakhapatnam Bay,Visakhapatnam,1,64.00,0.10
+ORD00754,2024-07-14,P004,USB-C Hub,Electronics,S06,Online Store,Online,1,39.95,0.00
+ORD00316,22/10/2024,P013,Non-stick Frying Pan,Home,S06,Online Store,Online,1,34.50,0.15
+ORD00599,"Oct 28, 2024",P008,Cotton T-Shirt,Apparel,S01,Hyderabad Central,Hyderabad,4,19.99,0.15
+ORD00698,2024-05-23,P017,Dumbbell Set,Sports,S02,Vijayawada Mall,Vijayawada,1,149.00,0.05
+ORD00523,15/06/2024,P014,Bed Linen Set,Home,S01,Hyderabad Central,Hyderabad,1,64.00,0.00
+ORD00686,29/07/2024,P020,Bookshelf,Furniture,S02,Vijayawada Mall,Vijayawada,2,129.50,0.00
+ORD00039,2024-02-24,P006,Noise Cancelling Headphones,Electronics,S04,Visakhapatnam Bay,Visakhapatnam,3,$199.00,0.10
+ORD00831,04/04/2024,P020,Bookshelf,Furniture,S06,Online Store,Online,3,129.50,0.15
+ORD00228,2024-08-07,P009,Denim Jeans,Apparel,S02,Vijayawada Mall,Vijayawada,1,49.50,0.00
+ORD00050,03/06/2024,P004,USB-C Hub,Electronics,S06,Online Store,Online,3,39.95,0.05
+ORD00637,23/03/2024,P005,Bluetooth Speaker,Electronics,S03,Guntur City Store,Guntur,4,59.00,0.10
+ORD00147,2024-10-19,P001,Wireless Mouse,Electronics,S04,Visakhapatnam Bay,Visakhapatnam,2,24.99,0.10
+ORD00867,2024-09-24,P004,USB-C Hub,Electronics,S06,Online Store,Online,1,39.95,0.00
+ORD00733,04/01/2024,P007,Running Shoes,Apparel,S01,Hyderabad Central,Hyderabad,1,74.99,0.00
+ORD00790,"Jan 17, 2024",P007,Running Shoes,Apparel,S02,Vijayawada Mall,Vijayawada,4,$74.99,0.10
+ORD00716,2024-12-03,P006,Noise Cancelling Headphones,Electronics,S02,Vijayawada Mall,Vijayawada,1,199.00,0.10
+ORD00257,2024-03-06,P014,Bed Linen Set,Home,S01,Hyderabad Central,Hyderabad,3,64.00,0.00
+ORD00274,2024-07-28,P013,Non-stick Frying Pan,Home,S06,Online Store,Online,2,$34.50,0.15
+ORD00255,"Apr 23, 2024",P013,Non-stick Frying Pan,Home,S02,Vijayawada Mall,Vijayawada,1,$34.50,0.10
+ORD00178,27/02/2024,P020,Bookshelf,Furniture,S01,Hyderabad Central,Hyderabad,1,129.50,0.05
+ORD00444,2024-08-12,P011,Wool Socks (3 pack),Apparel,S05,Bengaluru Tech Park,Bengaluru,4,14.25,0.00
+ORD00833,2024-06-07,P007,Running Shoes,Apparel,S02,Vijayawada Mall,Vijayawada,2,$74.99,0.00
+ORD00724,2024-06-16,P011,Wool Socks (3 pack),Apparel,S03,Guntur City Store,Guntur,1,$14.25,0.00
+ORD00714,2024-10-21,P005,Bluetooth Speaker,Electronics,S03,Guntur City Store,Guntur,2,59.00,0.15
+ORD00899,09/11/2024,P015,Desk Lamp,Home,S01,Hyderabad Central,Hyderabad,2,29.99,0.15
+ORD00274,28-07-2024,P001,Wireless Mouse,Electronics,S06,Online Store,Online,1,24.99,0.00
+ORD00076,29/01/2024,P006,Noise Cancelling Headphones,Electronics,S03,Guntur City Store,Guntur,1,199.00,0.00
+ORD00599,2024-10-28,P018,Water Bottle (1L),Sports,S01,Hyderabad Central,Hyderabad,1,12.99,0.00
+ORD00058,2024-01-28,P019,Office Chair,Furniture,S05,Bengaluru Tech Park,Bengaluru,1,179.00,0.00
+ORD00409,2024-07-12,P012,Coffee Maker,Home,S03,Guntur City Store,Guntur,1,99.00,0.00
+ORD00214,15/04/2024,P017,Dumbbell Set,Sports,S03,Guntur City Store,Guntur,4,149.00,0.00
+ORD00820,07/07/2024,P016,Yoga Mat,Sports,S03,Guntur City Store,Guntur,3,27.00,0.00
+ORD00895,2024-04-26,P006,Noise Cancelling Headphones,Electronics,S05,Bengaluru Tech Park,Bengaluru,3,199.00,0.15
+ORD00357,21-03-2024,P004,USB-C Hub,Electronics,S03,Guntur City Store,Guntur,2,39.95,0.00
+ORD00037,2024-04-30,P008,Cotton T-Shirt,Apparel,S06,Online Store,Online,3,19.99,0.00
+ORD00476,15/07/2024,P014,Bed Linen Set,Home,S01,Hyderabad Central,Hyderabad,1,64.00,0.10
+ORD00874,2024-02-07,P001,Wireless Mouse,Electronics,S02,Vijayawada Mall,Vijayawada,3,24.99,0.00
+ORD00442,30/08/2024,P007,Running Shoes,Apparel,S02,Vijayawada Mall,Vijayawada,1,$74.99,0.00
+ORD00017,2024-02-20,P015,Desk Lamp,Home,S01,Hyderabad Central,Hyderabad,1,29.99,0.00
+ORD00472,17/07/2024,P004,USB-C Hub,Electronics,S06,Online Store,Online,-1,39.95,0.00
+ORD00742,2024-02-15,P006,Noise Cancelling Headphones,Electronics,S01,Hyderabad Central,Hyderabad,3,199.00,0.00
+ORD00177,2024-10-02,P008,Cotton T-Shirt,Apparel,S04,Visakhapatnam Bay,Visakhapatnam,1,19.99,0.00
+ORD00263,2024-04-22,P011,Wool Socks (3 pack),Apparel,S05,Bengaluru Tech Park,Bengaluru,3,14.25,0.10
+ORD00826,2024-08-03,P008,Cotton T-Shirt,Apparel,S02,Vijayawada Mall,Vijayawada,1,19.99,0.00
+ORD00588,10-11-2024,P014,Bed Linen Set,Home,S03,Guntur City Store,Guntur,1,64.00,0.10
+ORD00305,2024-01-12,P004,USB-C Hub,Electronics,S05,Bengaluru Tech Park,Bengaluru,2,$39.95,0.00
+ORD00124,2024-04-23,P001,Wireless Mouse,Electronics,S04,Visakhapatnam Bay,Visakhapatnam,1,24.99,0.00
+ORD00013,"Sep 05, 2024",P005,Bluetooth Speaker,Electronics,S01,Hyderabad Central,Hyderabad,1,59.00,0.00
+ORD00747,"Jun 10, 2024",P013,Non-stick Frying Pan,Home,S02,Vijayawada Mall,Vijayawada,1,34.50,0.00
+ORD00247,2024-07-07,P001,Wireless Mouse,Electronics,S05,Bengaluru Tech Park,Bengaluru,4,24.99,0.00
+ORD00268,2024-11-10,P019,Office Chair,Furniture,S03,Guntur City Store,Guntur,3,179.00,0.00
+ORD00359,2024-02-13,P020,Bookshelf,Furniture,S02,Vijayawada Mall,Vijayawada,4,129.50,0.15
+ORD00667,2024-07-30,P020,Bookshelf,Furniture,S03,Guntur City Store,Guntur,2,129.50,0.00
+ORD00864,14-05-2024,P003,27-inch Monitor,Electronics,S02,Vijayawada Mall,Vijayawada,2,249.00,0.00
+ORD00040,2024-05-07,P005,Bluetooth Speaker,Electronics,S01,Hyderabad Central,Hyderabad,3,59.00,0.10
+ORD00394,27-08-2024,P015,Desk Lamp,Home,S05,Bengaluru Tech Park,Bengaluru,2,29.99,0.10
+ORD00590,05/12/2024,P007,Running Shoes,Apparel,S05,Bengaluru Tech Park,Bengaluru,1,74.99,0.00
+ORD00336,12/11/2024,P015,Desk Lamp,Home,S05,Bengaluru Tech Park,Bengaluru,1,29.99,0.10
+ORD00295,2024-11-03,P010,Rain Jacket,Apparel,S04,Visakhapatnam Bay,Visakhapatnam,1,119.00,0.00
+ORD00563,2024-10-24,P011,Wool Socks (3 pack),Apparel,S01,Hyderabad Central,Hyderabad,2,14.25,0.10
+ORD00729,"Apr 14, 2024",P008,Cotton T-Shirt,Apparel,S06,Online Store,Online,4,19.99,0.05
+ORD00082,31/05/2024,,Yoga Mat,Sports,S03,Guntur City Store,Guntur,4,27.00,0.00
+ORD00273,2024-07-11,P003,27-inch Monitor,Electronics,S02,Vijayawada Mall,Vijayawada,2,249.00,0.00
+ORD00278,28-10-2024,P002,Mechanical Keyboard,Electronics,S02,Vijayawada Mall,Vijayawada,2,89.50,0.05
+ORD00016,03/10/2024,P019,Office Chair,Furniture,S02,Vijayawada Mall,Vijayawada,2,179.00,0.00
+ORD00133,2024-10-05,P002,Mechanical Keyboard,Electronics,S04,Visakhapatnam Bay,Visakhapatnam,3,89.50,0.00
+ORD00735,"Feb 10, 2024",P014,Bed Linen Set,Home,S03,Guntur City Store,Guntur,3,64.00,0.15
+ORD00477,19/12/2024,P018,Water Bottle (1L),Sports,S06,Online Store,Online,1,12.99,0.15
+ORD00381,03/09/2024,P017,Dumbbell Set,Sports,S03,Guntur City Store,Guntur,1,$149.00,0.00
+ORD00161,"Oct 20, 2024",P005,Bluetooth Speaker,Electronics,S06,Online Store,Online,1,$59.00,0.00
+ORD00258,2024-08-06,P007,Running Shoes,Apparel,S02,Vijayawada Mall,Vijayawada,4,74.99,0.00
+ORD00539,"Jul 27, 2024",P012,Coffee Maker,Home,S02,Vijayawada Mall,Vijayawada,1,$99.00,0.10
+ORD00731,"Jun 18, 2024",P007,Running Shoes,Apparel,S03,Guntur City Store,Guntur,2,74.99,0.10
+ORD00591,05/04/2024,P018,Water Bottle (1L),Sports,S05,Bengaluru Tech Park,Bengaluru,3,12.99,0.15
+ORD00426,31/10/2024,P011,Wool Socks (3 pack),Apparel,S05,Bengaluru Tech Park,Bengaluru,1,14.25,0.05
+ORD00472,2024-07-17,P010,Rain Jacket,Apparel,S06,Online Store,Online,1,119.00,0.15
+ORD00553,14/08/2024,P003,27-inch Monitor,Electronics,S03,Guntur City Store,Guntur,1,249.00,0.05
+ORD00286,2024-08-14,P014,Bed Linen Set,Home,S03,Guntur City Store,Guntur,3,64.00,0.15
+ORD00388,2024-10-22,P018,Water Bottle (1L),Sports,S05,Bengaluru Tech Park,Bengaluru,1,12.99,0.15
+ORD00573,20/02/2024,P017,Dumbbell Set,Sports,S02,Vijayawada Mall,Vijayawada,1,149.00,0.00
+ORD00108,2024-07-04,P004,USB-C Hub,Electronics,S01,Hyderabad Central,Hyderabad,1,$39.95,0.05
+ORD00851,2024-12-24,P017,Dumbbell Set,Sports,S04,Visakhapatnam Bay,Visakhapatnam,4,149.00,0.00
+ORD00850,2024-04-06,P012,Coffee Maker,Home,S04,Visakhapatnam Bay,Visakhapatnam,1,99.00,0.00
+ORD00816,2024-03-12,P015,Desk Lamp,Home,S04,Visakhapatnam Bay,Visakhapatnam,3,29.99,0.00
+ORD00641,26-04-2024,P018,Water Bottle (1L),Sports,S01,Hyderabad Central,Hyderabad,1,12.99,0.00
+ORD00339,2024-02-03,P015,Desk Lamp,Home,S02,Vijayawada Mall,Vijayawada,3,$29.99,0.00
+ORD00027,2024-05-14,P014,Bed Linen Set,Home,S02,Vijayawada Mall,Vijayawada,1,64.00,0.00
+ORD00213,2024-03-22,P007,Running Shoes,Apparel,S03,Guntur City Store,Guntur,2,74.99,0.00
+ORD00611,2024-05-07,P015,Desk Lamp,Home,S03,Guntur City Store,Guntur,1,29.99,0.00
+ORD00260,2024-07-14,P011,Wool Socks (3 pack),Apparel,S06,Online Store,Online,1,14.25,0.00
+ORD00335,2024-07-02,P006,Noise Cancelling Headphones,Electronics,S01,Hyderabad Central,Hyderabad,1,199.00,0.05
+ORD00630,01/08/2024,P011,Wool Socks (3 pack),Apparel,S06,Online Store,Online,2,14.25,0.00
+ORD00748,12/03/2024,P008,Cotton T-Shirt,Apparel,S01,Hyderabad Central,Hyderabad,1,19.99,0.05
+ORD00846,2024-04-04,P014,Bed Linen Set,Home,S01,Hyderabad Central,Hyderabad,1,64.00,0.15
+ORD00562,"Sep 03, 2024",P009,Denim Jeans,Apparel,S05,Bengaluru Tech Park,Bengaluru,2,49.50,0.00
+ORD00032,2024-12-13,P001,Wireless Mouse,Electronics,S05,Bengaluru Tech Park,Bengaluru,1,24.99,0.00
+ORD00746,04/01/2024,P002,Mechanical Keyboard,Electronics,S06,Online Store,Online,1,89.50,0.05
+ORD00680,"May 20, 2024",P018,Water Bottle (1L),Sports,S02,Vijayawada Mall,Vijayawada,4,12.99,0.00
+ORD00053,2024-11-08,P011,Wool Socks (3 pack),Apparel,S06,Online Store,Online,1,14.25,0.15
+ORD00551,04-04-2024,P016,Yoga Mat,Sports,S02,Vijayawada Mall,Vijayawada,3,27.00,0.00
+ORD00432,2024-07-17,P012,Coffee Maker,Home,S06,Online Store,Online,4,99.00,0.00
+ORD00680,20/05/2024,P001,Wireless Mouse,Electronics,S02,Vijayawada Mall,Vijayawada,4,24.99,0.10
+ORD00181,2024-04-25,P018,Water Bottle (1L),Sports,S03,Guntur City Store,Guntur,2,12.99,0.00
+ORD00803,2024-04-13,P014,Bed Linen Set,Home,S05,Bengaluru Tech Park,Bengaluru,1,64.00,0.00
+ORD00775,15-10-2024,P017,Dumbbell Set,Sports,S06,Online Store,Online,2,149.00,0.00
+ORD00219,2024-09-10,P018,Water Bottle (1L),Sports,S05,Bengaluru Tech Park,Bengaluru,1,12.99,0.00
+ORD00044,2024-06-21,P013,Non-stick Frying Pan,Home,S06,Online Store,Online,3,$34.50,0.15
+ORD00447,2024-03-26,P015,Desk Lamp,Home,S04,Visakhapatnam Bay,Visakhapatnam,1,29.99,0.05
+ORD00383,2024-05-17,P005,Bluetooth Speaker,Electronics,S04,Visakhapatnam Bay,Visakhapatnam,4,$59.00,0.10
+ORD00382,2024-06-26,P001,Wireless Mouse,Electronics,S04,Visakhapatnam Bay,Visakhapatnam,1,$24.99,0.00
+ORD00018,"Feb 08, 2024",P002,Mechanical Keyboard,Electronics,S04,Visakhapatnam Bay,Visakhapatnam,1,89.50,0.00
+ORD00511,  14/07/2024  ,P016,Yoga Mat,Sports,S04,Visakhapatnam Bay,Visakhapatnam,4,27.00,0.00
+ORD00693,2024-10-26,P001,Wireless Mouse,Electronics,S03,Guntur City Store,Guntur,1,24.99,0.00
+ORD00631,2024-02-10,P009,Denim Jeans,Apparel,S06,Online Store,Online,4,$49.50,0.00
+ORD00277,14-05-2024,P004,USB-C Hub,Electronics,S04,Visakhapatnam Bay,Visakhapatnam,1,39.95,0.00
+ORD00060,07/05/2024,P014,Bed Linen Set,Home,S01,Hyderabad Central,Hyderabad,2,64.00,0.15
+ORD00082,31/05/2024,P014,Bed Linen Set,Home,S03,Guntur City Store,Guntur,-1,64.00,0.00
+ORD00299,2024-07-28,P005,Bluetooth Speaker,Electronics,S05,Bengaluru Tech Park,Bengaluru,1,$59.00,0.10
+ORD00886,05/02/2024,P006,Noise Cancelling Headphones,Electronics,S03,Guntur City Store,Guntur,2,$199.00,0.15
+ORD00609,2024-11-12,P009,Denim Jeans,Apparel,S04,Visakhapatnam Bay,Visakhapatnam,1,49.50,0.00
+ORD00276,2024-02-29,P013,Non-stick Frying Pan,Home,S03,Guntur City Store,Guntur,1,34.50,0.00
+ORD00269,2024-03-06,P020,Bookshelf,Furniture,S02,Vijayawada Mall,Vijayawada,1,129.50,0.05
+ORD00880,"Jun 14, 2024",P012,Coffee Maker,Home,S06,Online Store,Online,3,99.00,0.05
+ORD00787,2024-08-08,P003,27-inch Monitor,Electronics,S04,Visakhapatnam Bay,Visakhapatnam,2,249.00,0.00
+ORD00749,13/06/2024,P012,Coffee Maker,Home,S01,Hyderabad Central,Hyderabad,4,99.00,0.15
+ORD00114,2024-01-22,P015,Desk Lamp,Home,S04,Visakhapatnam Bay,Visakhapatnam,1,29.99,0.15
+ORD00459,2024-09-26,P010,Rain Jacket,Apparel,S04,Visakhapatnam Bay,Visakhapatnam,1,119.00,0.15
+ORD00751,2024-02-14,P004,USB-C Hub,Electronics,S03,Guntur City Store,Guntur,2,39.95,0.05
+ORD00443,2024-05-18,P007,Running Shoes,Apparel,S04,Visakhapatnam Bay,Visakhapatnam,3,74.99,0.00
+ORD00083,28-02-2024,P005,Bluetooth Speaker,Electronics,S04,Visakhapatnam Bay,Visakhapatnam,3,59.00,0.00
+ORD00035,2024-10-07,P015,Desk Lamp,Home,S01,Hyderabad Central,Hyderabad,2,29.99,0.10
+ORD00900,2024-09-24,P018,Water Bottle (1L),Sports,S03,Guntur City Store,Guntur,2,$12.99,0.00
+ORD00370,01/12/2024,P015,Desk Lamp,Home,S05,Bengaluru Tech Park,Bengaluru,1,29.99,0.15
+ORD00122,24/05/2024,P005,Bluetooth Speaker,Electronics,S04,Visakhapatnam Bay,Visakhapatnam,4,59.00,0.00
+ORD00871,12/06/2024,P020,Bookshelf,Furniture,S05,Bengaluru Tech Park,Bengaluru,1,129.50,0.00
+ORD00573,"Feb 20, 2024",P004,USB-C Hub,Electronics,S02,Vijayawada Mall,Vijayawada,1,39.95,0.00
+ORD00304,"Mar 09, 2024",P012,Coffee Maker,Home,S03,Guntur City Store,Guntur,,99.00,0.00
+ORD00786,2024-09-06,P012,Coffee Maker,Home,S01,Hyderabad Central,Hyderabad,4,$99.00,0.00
+ORD00541,25/08/2024,P017,Dumbbell Set,Sports,S02,Vijayawada Mall,Vijayawada,1,149.00,0.00
+ORD00138,2024-02-04,P012,Coffee Maker,Home,S02,Vijayawada Mall,Vijayawada,1,99.00,0.05
+ORD00810,2024-05-11,P020,Bookshelf,Furniture,S06,Online Store,Online,2,129.50,0.15
+ORD00790,17/01/2024,P016,Yoga Mat,Sports,S02,Vijayawada Mall,Vijayawada,2,$27.00,0.15
+ORD00278,2024-10-28,P002,Mechanical Keyboard,Electronics,S02,Vijayawada Mall,Vijayawada,3,89.50,0.15
+ORD00500,13-05-2024,P016,Yoga Mat,Sports,S06,Online Store,Online,1,27.00,0.05
+ORD00641,2024-04-26,P020,Bookshelf,Furniture,S01,Hyderabad Central,Hyderabad,2,129.50,0.10
+ORD00412,2024-10-09,P010,Rain Jacket,Apparel,S02,Vijayawada Mall,Vijayawada,1,$119.00,0.10
+ORD00344,2024-04-17,P006,Noise Cancelling Headphones,Electronics,S06,Online Store,Online,1,$199.00,0.15
+ORD00055,2024-10-11,P016,Yoga Mat,Sports,S02,Vijayawada Mall,Vijayawada,2,$27.00,0.00
+ORD00754,14-07-2024,P018,Water Bottle (1L),Sports,S06,Online Store,Online,4,12.99,0.00
+ORD00521,2024-11-12,P005,Bluetooth Speaker,Electronics,S01,Hyderabad Central,Hyderabad,1,59.00,0.10
+ORD00561,30/11/2024,P009,Denim Jeans,Apparel,S06,Online Store,Online,2,49.50,0.00
+ORD00318,2024-04-30,P015,Desk Lamp,Home,S01,Hyderabad Central,Hyderabad,3,29.99,0.00
+ORD00266,07/03/2024,P012,Coffee Maker,Home,S03,Guntur City Store,Guntur,4,99.00,0.00
+ORD00546,"Dec 22, 2024",P005,Bluetooth Speaker,Electronics,S02,Vijayawada Mall,Vijayawada,4,$59.00,0.05
+ORD00723,2024-01-15,P007,Running Shoes,Apparel,S01,Hyderabad Central,Hyderabad,2,74.99,0.00
+ORD00674,"Dec 15, 2024",P011,Wool Socks (3 pack),Apparel,S03,Guntur City Store,Guntur,1,14.25,0.00
+ORD00293,2024-05-20,P012,Coffee Maker,Home,S04,Visakhapatnam Bay,Visakhapatnam,2,99.00,0.00
+ORD00757,2024-12-25,P019,Office Chair,Furniture,S01,Hyderabad Central,Hyderabad,2,179.00,0.15
+ORD00364,2024-10-28,P001,Wireless Mouse,Electronics,S06,Online Store,Online,2,24.99,0.00
+ORD00301,15/02/2024,P001,Wireless Mouse,Electronics,S02,Vijayawada Mall,Vijayawada,1,24.99,0.00
+ORD00291,2024-08-30,P007,Running Shoes,Apparel,S05,Bengaluru Tech Park,Bengaluru,3,74.99,0.10
+ORD00217,2024-10-02,P006,Noise Cancelling Headphones,Electronics,S06,Online Store,Online,2,199.00,0.00
+ORD00355,2024-02-09,P013,Non-stick Frying Pan,Home,S05,Bengaluru Tech Park,Bengaluru,4,34.50,0.00
+ORD00511,2024-07-14,P002,Mechanical Keyboard,Electronics,S04,Visakhapatnam Bay,Visakhapatnam,1,89.50,0.15
+ORD00204,16-11-2024,P015,Desk Lamp,Home,S04,Visakhapatnam Bay,Visakhapatnam,1,29.99,0.15
+ORD00564,2024-05-19,P017,Dumbbell Set,Sports,S03,Guntur City Store,Guntur,1,$149.00,0.10
+ORD00831,2024-04-04,P013,Non-stick Frying Pan,Home,S06,Online Store,Online,3,34.50,0.00
+ORD00727,2024-01-07,P020,Bookshelf,Furniture,S02,Vijayawada Mall,Vijayawada,3,129.50,0.00
+ORD00073,2024-03-20,P011,Wool Socks (3 pack),Apparel,S01,Hyderabad Central,Hyderabad,3,14.25,0.15
+ORD00677,04/03/2024,P007,Running Shoes,Apparel,S04,Visakhapatnam Bay,Visakhapatnam,2,74.99,0.00
+ORD00122,24-05-2024,P017,Dumbbell Set,Sports,S04,Visakhapatnam Bay,Visakhapatnam,1,149.00,0.00
+ORD00898,16/11/2024,P009,Denim Jeans,Apparel,S06,Online Store,Online,1,49.50,0.00
+ORD00755,09/06/2024,P005,Bluetooth Speaker,Electronics,S04,Visakhapatnam Bay,Visakhapatnam,2,$59.00,0.05
+ORD00398,2024-07-21,P013,Non-stick Frying Pan,Home,S02,Vijayawada Mall,Vijayawada,3,34.50,0.00
+ORD00627,2024-05-28,P003,27-inch Monitor,Electronics,S04,Visakhapatnam Bay,Visakhapatnam,4,249.00,0.00
+ORD00755,09/06/2024,P014,Bed Linen Set,Home,S04,Visakhapatnam Bay,Visakhapatnam,1,64.00,0.00
+ORD00292,29/11/2024,P020,Bookshelf,Furniture,S04,Visakhapatnam Bay,Visakhapatnam,3,129.50,0.00
+ORD00242,26/06/2024,P009,Denim Jeans,Apparel,S05,Bengaluru Tech Park,Bengaluru,1,49.50,0.00
+ORD00676,02-10-2024,P003,27-inch Monitor,Electronics,S01,Hyderabad Central,Hyderabad,2,249.00,0.15
+ORD00622,2024-01-29,P018,Water Bottle (1L),Sports,S06,Online Store,Online,4,12.99,0.00
+ORD00347,2024-04-23,P014,Bed Linen Set,Home,S06,Online Store,Online,1,64.00,0.00
+ORD00314,22/03/2024,P019,Office Chair,Furniture,S01,Hyderabad Central,Hyderabad,2,179.00,0.05
+ORD00043,2024-12-22,P008,Cotton T-Shirt,Apparel,S01,Hyderabad Central,Hyderabad,2,$19.99,0.00
+ORD00281,04-02-2024,P018,Water Bottle (1L),Sports,S01,Hyderabad Central,Hyderabad,1,12.99,0.00
+ORD00852,14/07/2024,P014,Bed Linen Set,Home,S03,Guntur City Store,Guntur,2,64.00,0.10
+ORD00794,2024-12-07,P016,Yoga Mat,Sports,S04,Visakhapatnam Bay,Visakhapatnam,2,27.00,0.15
+ORD00127,27/05/2024,P004,USB-C Hub,Electronics,S02,Vijayawada Mall,Vijayawada,1,39.95,0.00
+ORD00728,2024-05-04,P002,Mechanical Keyboard,Electronics,S05,Bengaluru Tech Park,Bengaluru,1,89.50,0.00
+ORD00073,2024-03-20,P009,Denim Jeans,Apparel,S01,Hyderabad Central,Hyderabad,1,$49.50,0.10
+ORD00775,2024-10-15,P018,Water Bottle (1L),Sports,S06,Online Store,Online,1,12.99,0.05
+ORD00246,05/01/2024,P010,Rain Jacket,Apparel,S03,Guntur City Store,Guntur,2,119.00,0.00
+ORD00015,2024-04-27,P011,Wool Socks (3 pack),Apparel,S01,Hyderabad Central,Hyderabad,1,14.25,0.00
+ORD00045,13/05/2024,P007,Running Shoes,Apparel,S04,Visakhapatnam Bay,Visakhapatnam,2,74.99,0.00
+ORD00861,28/12/2024,P019,Office Chair,Furniture,S05,Bengaluru Tech Park,Bengaluru,1,179.00,0.10
+ORD00555,14-02-2024,P012,Coffee Maker,Home,S05,Bengaluru Tech Park,Bengaluru,1,99.00,0.10
+ORD00413,"Jul 17, 2024",P020,Bookshelf,Furniture,S06,Online Store,Online,3,129.50,0.00
+ORD00223,23-05-2024,P014,Bed Linen Set,Home,S05,Bengaluru Tech Park,Bengaluru,4,$64.00,0.00
+ORD00010,27-09-2024,P015,Desk Lamp,Home,S03,Guntur City Store,Guntur,1,29.99,0.10
+ORD00847,02/08/2024,P019,Office Chair,Furniture,S04,Visakhapatnam Bay,Visakhapatnam,1,179.00,0.00
+ORD00088,"Jul 04, 2024",P007,Running Shoes,Apparel,S01,Hyderabad Central,Hyderabad,2,$74.99,0.05
+ORD00228,2024-08-07,P005,Bluetooth Speaker,Electronics,S02,Vijayawada Mall,Vijayawada,4,59.00,0.00
+ORD00234,12-03-2024,P001,Wireless Mouse,Electronics,S02,Vijayawada Mall,Vijayawada,3,24.99,0.10
+ORD00058,2024-01-28,P005,Bluetooth Speaker,Electronics,S05,Bengaluru Tech Park,Bengaluru,2,59.00,0.15
+ORD00439,2024-03-01,P005,Bluetooth Speaker,Electronics,S02,Vijayawada Mall,Vijayawada,3,59.00,0.15
+ORD00342,2024-02-07,P004,USB-C Hub,Electronics,S03,Guntur City Store,Guntur,1,$39.95,0.10
+ORD00191,2024-12-23,P020,Bookshelf,Furniture,S06,Online Store,Online,2,129.50,0.15
+ORD00866,2024-07-11,P015,Desk Lamp,Home,S03,Guntur City Store,Guntur,3,29.99,0.00
+ORD00365,15/04/2024,P009,Denim Jeans,Apparel,S06,Online Store,Online,3,49.50,0.00
+ORD00636,06/09/2024,P002,Mechanical Keyboard,Electronics,S02,Vijayawada Mall,Vijayawada,2,89.50,0.00
+ORD00788,2024-01-04,P009,Denim Jeans,Apparel,S02,Vijayawada Mall,Vijayawada,1,49.50,0.00
+ORD00819,2024-02-13,P005,Bluetooth Speaker,Electronics,S01,Hyderabad Central,Hyderabad,1,59.00,0.05
+ORD00115,12/08/2024,P011,Wool Socks (3 pack),Apparel,S05,Bengaluru Tech Park,Bengaluru,2,14.25,0.00
+ORD00796,2024-01-20,P005,Bluetooth Speaker,Electronics,S03,Guntur City Store,Guntur,1,59.00,0.05
+ORD00570,2024-12-03,P002,Mechanical Keyboard,Electronics,S05,Bengaluru Tech Park,Bengaluru,2,89.50,0.00
+ORD00428,2024-04-07,P020,Bookshelf,Furniture,S03,Guntur City Store,Guntur,3,$129.50,0.15
+ORD00721,  2024-12-09  ,P009,Denim Jeans,Apparel,S01,Hyderabad Central,Hyderabad,1,49.50,0.00
+ORD00431,2024-09-04,P017,Dumbbell Set,Sports,S05,Bengaluru Tech Park,Bengaluru,1,149.00,0.00
+ORD00125,2024-11-28,P005,Bluetooth Speaker,Electronics,S03,Guntur City Store,Guntur,1,59.00,0.15
+ORD00715,21-10-2024,P010,Rain Jacket,Apparel,S01,Hyderabad Central,Hyderabad,1,119.00,0.15
+ORD00376,"May 04, 2024",P003,27-inch Monitor,Electronics,S03,Guntur City Store,Guntur,1,249.00,0.15
+ORD00386,2024-08-31,P015,Desk Lamp,Home,S06,Online Store,Online,3,29.99,0.00
+ORD00052,2024-10-02,P003,27-inch Monitor,Electronics,S04,Visakhapatnam Bay,Visakhapatnam,1,249.00,0.00
+ORD00496,10/02/2024,P003,27-inch Monitor,Electronics,S05,Bengaluru Tech Park,Bengaluru,2,249.00,0.05
+ORD00573,2024-02-20,P016,Yoga Mat,Sports,S02,Vijayawada Mall,Vijayawada,1,27.00,0.05
+ORD00018,2024-02-08,P008,Cotton T-Shirt,Apparel,S04,Visakhapatnam Bay,Visakhapatnam,1,19.99,0.00
+ORD00702,12/02/2024,P017,Dumbbell Set,Sports,S03,Guntur City Store,Guntur,2,149.00,0.00
+ORD00700,2024-03-21,P018,Water Bottle (1L),Sports,S03,Guntur City Store,Guntur,1,12.99,0.15
+ORD00378,2024-10-10,P007,Running Shoes,Apparel,S02,Vijayawada Mall,Vijayawada,2,74.99,0.00
+ORD00629,18-10-2024,P015,Desk Lamp,Home,S03,Guntur City Store,Guntur,1,$29.99,0.00
+ORD00779,2024-07-08,P020,Bookshelf,Furniture,S06,Online Store,Online,1,129.50,0.00
+ORD00194,18/02/2024,P008,Cotton T-Shirt,Apparel,S05,Bengaluru Tech Park,Bengaluru,1,19.99,0.15
+ORD00026,15/05/2024,P009,Denim Jeans,Apparel,S05,Bengaluru Tech Park,Bengaluru,1,49.50,0.00
+ORD00606,2024-06-05,P003,27-inch Monitor,Electronics,S03,Guntur City Store,Guntur,1,249.00,0.00
+ORD00021,2024-04-30,P019,Office Chair,Furniture,S04,Visakhapatnam Bay,Visakhapatnam,1,$179.00,0.05
+ORD00224,08-03-2024,P011,Wool Socks (3 pack),Apparel,S02,Vijayawada Mall,Vijayawada,3,14.25,0.15
+ORD00302,2024-11-16,P008,Cotton T-Shirt,Apparel,S06,Online Store,Online,2,$19.99,0.00
+ORD00490,26-07-2024,P013,Non-stick Frying Pan,Home,S04,Visakhapatnam Bay,Visakhapatnam,3,34.50,0.00
+ORD00432,2024-07-17,P013,Non-stick Frying Pan,Home,S06,Online Store,Online,1,34.50,0.00
+ORD00347,23/04/2024,P016,Yoga Mat,Sports,S06,Online Store,Online,2,27.00,0.00
+ORD00671,14-04-2024,P018,Water Bottle (1L),Sports,S02,Vijayawada Mall,Vijayawada,2,12.99,0.00
+ORD00818,26-05-2024,P013,Non-stick Frying Pan,Home,S02,Vijayawada Mall,Vijayawada,2,$34.50,0.10
+ORD00525,09/01/2024,P001,Wireless Mouse,Electronics,S04,Visakhapatnam Bay,Visakhapatnam,1,24.99,0.00
+ORD00513,2024-08-14,P015,Desk Lamp,Home,S06,Online Store,Online,1,29.99,0.00
+ORD00759,19/07/2024,P010,Rain Jacket,Apparel,S03,Guntur City Store,Guntur,1,119.00,0.00
+ORD00102,23/06/2024,P002,Mechanical Keyboard,Electronics,S02,Vijayawada Mall,Vijayawada,1,89.50,0.15
+ORD00042,2024-06-20,P007,Running Shoes,Apparel,S03,Guntur City Store,Guntur,1,74.99,0.00
+ORD00742,15/02/2024,P007,Running Shoes,Apparel,S01,Hyderabad Central,Hyderabad,4,$74.99,0.00
+ORD00270,2024-06-18,P008,Cotton T-Shirt,Apparel,S06,Online Store,Online,1,19.99,0.00
+ORD00848,2024-04-11,P011,Wool Socks (3 pack),Apparel,S01,Hyderabad Central,Hyderabad,1,14.25,0.10
+ORD00492,2024-12-02,P003,27-inch Monitor,Electronics,S04,Visakhapatnam Bay,Visakhapatnam,1,249.00,0.15
+ORD00571,2024-03-15,P020,Bookshelf,Furniture,S06,Online Store,Online,1,129.50,0.05
+ORD00078,21/03/2024,P012,Coffee Maker,Home,S01,Hyderabad Central,Hyderabad,4,99.00,0.00
+ORD00881,2024-06-04,P006,Noise Cancelling Headphones,Electronics,S01,Hyderabad Central,Hyderabad,4,$199.00,0.05
+ORD00756,  05-01-2024  ,P011,Wool Socks (3 pack),Apparel,S05,Bengaluru Tech Park,Bengaluru,1,14.25,0.00
+ORD00618,2024-04-14,P006,Noise Cancelling Headphones,Electronics,S03,Guntur City Store,Guntur,3,199.00,0.15
+ORD00417,2024-11-22,P006,Noise Cancelling Headphones,Electronics,S05,,Bengaluru,2,199.00,0.05
+ORD00068,"Jun 08, 2024",P018,Water Bottle (1L),Sports,S05,Bengaluru Tech Park,Bengaluru,1,12.99,0.00
+ORD00344,17-04-2024,P012,Coffee Maker,Home,S06,Online Store,Online,1,$99.00,0.10
+ORD00035,07/10/2024,P010,Rain Jacket,Apparel,S01,Hyderabad Central,Hyderabad,1,119.00,0.15
+ORD00722,19/12/2024,P002,Mechanical Keyboard,Electronics,S03,Guntur City Store,Guntur,2,89.50,0.00
+ORD00631,10/02/2024,P013,Non-stick Frying Pan,Home,S06,Online Store,Online,1,34.50,0.00
+ORD00582,2024-02-26,P018,Water Bottle (1L),Sports,S05,Bengaluru Tech Park,Bengaluru,3,,0.05
+ORD00830,2024-08-20,P009,Denim Jeans,Apparel,S05,Bengaluru Tech Park,Bengaluru,4,49.50,0.05
+ORD00509,2024-11-27,P004,USB-C Hub,Electronics,S05,Bengaluru Tech Park,Bengaluru,2,39.95,0.00
+ORD00230,06-02-2024,P010,Rain Jacket,Apparel,S02,Vijayawada Mall,Vijayawada,1,119.00,0.15
+ORD00061,20/02/2024,P010,Rain Jacket,Apparel,S02,Vijayawada Mall,Vijayawada,1,119.00,0.00
+ORD00682,25-04-2024,P004,USB-C Hub,Electronics,S06,Online Store,Online,1,39.95,0.00
+ORD00329,2024-02-24,P005,Bluetooth Speaker,Electronics,S01,Hyderabad Central,Hyderabad,1,59.00,0.00
+ORD00751,2024-02-14,P018,Water Bottle (1L),Sports,S03,Guntur City Store,Guntur,4,12.99,0.00
+ORD00567,13/10/2024,P001,Wireless Mouse,Electronics,S05,Bengaluru Tech Park,Bengaluru,2,$24.99,0.00
+ORD00832,2024-06-20,P010,Rain Jacket,Apparel,S01,Hyderabad Central,Hyderabad,1,119.00,0.00
+ORD00876,03/08/2024,P015,Desk Lamp,Home,S01,Hyderabad Central,Hyderabad,1,29.99,0.00
+ORD00059,27/01/2024,P002,Mechanical Keyboard,Electronics,S03,Guntur City Store,Guntur,1,89.50,0.15
+ORD00334,2024-03-07,P005,Bluetooth Speaker,Electronics,S02,Vijayawada Mall,Vijayawada,4,59.00,0.05
+ORD00895,2024-04-26,P016,Yoga Mat,Sports,S05,Bengaluru Tech Park,Bengaluru,1,27.00,0.00
+ORD00259,2024-07-29,P002,Mechanical Keyboard,Electronics,S05,Bengaluru Tech Park,Bengaluru,1,89.50,0.00
+ORD00423,2024-02-10,P012,Coffee Maker,Home,S01,Hyderabad Central,Hyderabad,4,99.00,0.00
+ORD00337,2024-01-21,P013,Non-stick Frying Pan,Home,S06,Online Store,Online,4,34.50,0.00
+ORD00033,2024-06-09,P017,Dumbbell Set,Sports,S04,Visakhapatnam Bay,Visakhapatnam,1,$149.00,0.05
+ORD00030,2024-03-22,P013,Non-stick Frying Pan,Home,S06,Online Store,Online,4,34.50,0.15
+ORD00674,2024-12-15,P009,Denim Jeans,Apparel,S03,Guntur City Store,Guntur,4,49.50,0.10
+ORD00261,16/01/2024,P016,Yoga Mat,Sports,S03,Guntur City Store,Guntur,2,27.00,0.15
+ORD00482,2024-07-24,P008,Cotton T-Shirt,Apparel,S05,Bengaluru Tech Park,Bengaluru,2,19.99,0.05
+ORD00603,25/11/2024,P009,Denim Jeans,Apparel,S04,Visakhapatnam Bay,Visakhapatnam,4,49.50,0.15
+ORD00111,01/12/2024,P016,Yoga Mat,Sports,S01,Hyderabad Central,Hyderabad,2,27.00,0.05
+ORD00888,2024-08-08,P014,Bed Linen Set,Home,S05,Bengaluru Tech Park,Bengaluru,1,64.00,0.00
+ORD00567,13/10/2024,P017,Dumbbell Set,Sports,S05,Bengaluru Tech Park,Bengaluru,3,149.00,0.10
+ORD00057,2024-04-08,P010,Rain Jacket,Apparel,S02,Vijayawada Mall,Vijayawada,4,119.00,0.15
+ORD00797,2024-07-13,P002,Mechanical Keyboard,Electronics,S04,Visakhapatnam Bay,Visakhapatnam,2,$89.50,0.10
+ORD00399,02/05/2024,P015,Desk Lamp,Home,S05,,Bengaluru,2,29.99,0.00
+ORD00311,29/02/2024,P001,Wireless Mouse,Electronics,S01,Hyderabad Central,Hyderabad,3,24.99,0.10
+ORD00517,23/08/2024,P010,Rain Jacket,Apparel,S03,Guntur City Store,Guntur,2,119.00,0.00
+ORD00632,2024-11-12,P013,Non-stick Frying Pan,Home,S05,Bengaluru Tech Park,Bengaluru,3,$34.50,0.00
+ORD00538,15/09/2024,P017,Dumbbell Set,Sports,S01,Hyderabad Central,Hyderabad,abc,149.00,0.15
+ORD00238,2024-01-31,P013,Non-stick Frying Pan,Home,S04,Visakhapatnam Bay,Visakhapatnam,1,34.50,0.05
+ORD00594,2024-08-11,P002,Mechanical Keyboard,Electronics,S04,Visakhapatnam Bay,Visakhapatnam,1,89.50,0.00
+ORD00553,14-08-2024,P010,Rain Jacket,Apparel,S03,Guntur City Store,Guntur,1,119.00,0.05
+ORD00072,2024-07-14,P005,Bluetooth Speaker,Electronics,S04,Visakhapatnam Bay,Visakhapatnam,2,59.00,0.00
+ORD00287,2024-01-29,P003,27-inch Monitor,Electronics,S05,Bengaluru Tech Park,Bengaluru,1,249.00,0.05
+ORD00158,2024-07-13,P008,Cotton T-Shirt,Apparel,S02,Vijayawada Mall,Vijayawada,1,$19.99,0.10
+ORD00856,03-12-2024,P014,Bed Linen Set,Home,S03,Guntur City Store,Guntur,2,64.00,0.00
+ORD00873,22/07/2024,P006,Noise Cancelling Headphones,Electronics,S01,Hyderabad Central,Hyderabad,3,199.00,0.00
+ORD00722,2024-12-19,P008,Cotton T-Shirt,Apparel,S03,Guntur City Store,Guntur,1,$19.99,0.00
+ORD00869,17/02/2024,P018,Water Bottle (1L),Sports,S03,Guntur City Store,Guntur,2,12.99,0.00
+ORD00248,21-12-2024,P001,Wireless Mouse,Electronics,S01,Hyderabad Central,Hyderabad,3,24.99,0.00
+ORD00894,05/01/2024,P002,Mechanical Keyboard,Electronics,S05,Bengaluru Tech Park,Bengaluru,3,89.50,0.05
+ORD00219,2024-09-10,P012,Coffee Maker,Home,S05,Bengaluru Tech Park,Bengaluru,2,99.00,0.15
+ORD00022,2024-12-02,P011,Wool Socks (3 pack),Apparel,S05,Bengaluru Tech Park,Bengaluru,4,14.25,0.00
+ORD00330,2024-12-19,P018,Water Bottle (1L),Sports,S03,Guntur City Store,Guntur,1,12.99,0.15
+ORD00561,30/11/2024,P014,Bed Linen Set,Home,S06,Online Store,Online,1,$64.00,0.10
+ORD00621,17-11-2024,P011,Wool Socks (3 pack),Apparel,S03,Guntur City Store,Guntur,4,14.25,0.10
+ORD00052,2024-10-02,P014,Bed Linen Set,Home,S04,Visakhapatnam Bay,Visakhapatnam,3,64.00,0.05
+ORD00227,21/06/2024,P005,Bluetooth Speaker,Electronics,S05,Bengaluru Tech Park,Bengaluru,2,59.00,0.00
+ORD00516,2024-10-17,P011,Wool Socks (3 pack),Apparel,S05,Bengaluru Tech Park,Bengaluru,2,14.25,0.00
+ORD00117,2024-12-01,P017,Dumbbell Set,Sports,S06,Online Store,Online,1,149.00,0.10
+ORD00098,2024-01-31,P010,Rain Jacket,Apparel,S05,Bengaluru Tech Park,Bengaluru,1,119.00,0.05
+ORD00297,03/04/2024,P003,27-inch Monitor,Electronics,S06,Online Store,Online,1,249.00,0.00
+ORD00537,2024-05-06,P001,Wireless Mouse,Electronics,S02,Vijayawada Mall,Vijayawada,1,24.99,0.00
+ORD00127,27/05/2024,P003,27-inch Monitor,Electronics,S02,Vijayawada Mall,Vijayawada,1,$249.00,0.00
+ORD00075,20-11-2024,P015,Desk Lamp,Home,S06,Online Store,Online,1,$29.99,0.00
+ORD00588,2024-11-10,P018,Water Bottle (1L),Sports,S03,Guntur City Store,Guntur,1,12.99,0.00
+ORD00069,2024-08-24,P005,Bluetooth Speaker,Electronics,S01,Hyderabad Central,Hyderabad,2,59.00,0.10
+ORD00375,"Sep 14, 2024",P019,Office Chair,Furniture,S03,Guntur City Store,Guntur,1,179.00,0.00
+ORD00646,31-07-2024,P005,Bluetooth Speaker,Electronics,S03,Guntur City Store,Guntur,3,59.00,0.00
+ORD00429,23-01-2024,P012,Coffee Maker,Home,S02,Vijayawada Mall,Vijayawada,1,$99.00,0.10
+ORD00441,2024-05-16,P003,27-inch Monitor,Electronics,S05,Bengaluru Tech Park,Bengaluru,2,249.00,0.00
+ORD00065,2024-06-27,P011,WOOL SOCKS (3 PACK),Apparel,S04,Visakhapatnam Bay,Visakhapatnam,2,14.25,0.15
+ORD00138,2024-02-04,P005,Bluetooth Speaker,Electronics,S02,Vijayawada Mall,Vijayawada,2,59.00,0.00
+ORD00578,2024-09-05,P005,Bluetooth Speaker,Electronics,S05,Bengaluru Tech Park,Bengaluru,3,59.00,0.00
+ORD00638,"Dec 10, 2024",P012,Coffee Maker,Home,S06,Online Store,Online,3,99.00,0.15
+ORD00354,05/10/2024,P013,Non-stick Frying Pan,Home,S05,Bengaluru Tech Park,Bengaluru,2,34.50,0.00
+ORD00349,10-01-2024,P002,Mechanical Keyboard,Electronics,S05,Bengaluru Tech Park,Bengaluru,2,89.50,0.05
+ORD00872,"Nov 19, 2024",P020,Bookshelf,Furniture,S01,Hyderabad Central,Hyderabad,3,129.50,0.10
+ORD00351,2024-09-20,P016,Yoga Mat,Sports,S02,Vijayawada Mall,Vijayawada,4,,0.00
+ORD00589,2024-07-24,P003,27-inch Monitor,Electronics,S02,Vijayawada Mall,Vijayawada,2,249.00,0.00
+ORD00206,2024-10-21,P013,Non-stick Frying Pan,Home,S02,Vijayawada Mall,Vijayawada,1,$34.50,0.15
+ORD00187,08/10/2024,P016,Yoga Mat,Sports,S06,Online Store,Online,2,27.00,0.10
+ORD00513,14/08/2024,P004,USB-C Hub,Electronics,S06,Online Store,Online,1,39.95,0.00
+ORD00547,03/08/2024,P017,Dumbbell Set,Sports,S04,Visakhapatnam Bay,Visakhapatnam,2,149.00,0.00
+ORD00661,2024-04-29,P003,27-inch Monitor,Electronics,S04,Visakhapatnam Bay,Visakhapatnam,4,249.00,0.10
+ORD00834,2024-05-24,P004,USB-C Hub,Electronics,S04,Visakhapatnam Bay,Visakhapatnam,1,39.95,0.10
+ORD00748,"Mar 12, 2024",P004,USB-C Hub,Electronics,S01,Hyderabad Central,Hyderabad,4,39.95,0.00
+ORD00700,2024-03-21,P012,Coffee Maker,Home,S03,Guntur City Store,Guntur,1,99.00,0.00
+ORD00182,2024-04-07,P013,Non-stick Frying Pan,Home,S01,Hyderabad Central,Hyderabad,2,$34.50,0.05
+ORD00339,03/02/2024,P014,Bed Linen Set,Home,S02,Vijayawada Mall,Vijayawada,2,64.00,0.00
+ORD00069,2024-08-24,P013,Non-stick Frying Pan,Home,S01,Hyderabad Central,Hyderabad,1,34.50,0.05
+ORD00896,29/12/2024,P020,Bookshelf,Furniture,S03,Guntur City Store,Guntur,2,129.50,0.00
+ORD00587,19/12/2024,P011,Wool Socks (3 pack),Apparel,S06,Online Store,Online,2,14.25,0.15
+ORD00409,2024-07-12,P010,Rain Jacket,Apparel,S03,Guntur City Store,Guntur,2,119.00,0.00
+ORD00791,2024-02-26,P005,Bluetooth Speaker,Electronics,S01,Hyderabad Central,Hyderabad,1,59.00,0.05
+ORD00357,2024-03-21,P014,Bed Linen Set,Home,S03,Guntur City Store,Guntur,1,64.00,0.00
+ORD00006,2024-05-22,P003,27-inch Monitor,Electronics,S04,Visakhapatnam Bay,Visakhapatnam,2,249.00,0.00
+ORD00140,15/08/2024,P010,Rain Jacket,Apparel,S01,Hyderabad Central,Hyderabad,3,119.00,0.10
+ORD00033,"Jun 09, 2024",P007,Running Shoes,Apparel,S04,Visakhapatnam Bay,Visakhapatnam,1,74.99,0.00
+ORD00202,07/01/2024,P008,Cotton T-Shirt,Apparel,S03,Guntur City Store,Guntur,2,19.99,0.00
+ORD00841,2024-08-18,P019,Office Chair,Furniture,S03,Guntur City Store,Guntur,1,179.00,0.00
+ORD00687,2024-01-07,P017,Dumbbell Set,Sports,S05,Bengaluru Tech Park,Bengaluru,1,149.00,0.00
+ORD00649,2024-11-08,P020,Bookshelf,Furniture,S02,Vijayawada Mall,Vijayawada,2,129.50,0.10
+ORD00024,05/02/2024,P017,Dumbbell Set,Sports,S02,Vijayawada Mall,Vijayawada,1,149.00,0.15
+ORD00602,2024-12-16,P006,Noise Cancelling Headphones,Electronics,S01,Hyderabad Central,Hyderabad,4,199.00,0.10
+ORD00083,28-02-2024,P005,Bluetooth Speaker,Electronics,S04,Visakhapatnam Bay,Visakhapatnam,3,59.00,0.00
+ORD00190,07/12/2024,P016,Yoga Mat,Sports,S05,Bengaluru Tech Park,Bengaluru,1,$27.00,0.05
+ORD00809,15/06/2024,P019,Office Chair,Furniture,S01,Hyderabad Central,Hyderabad,1,179.00,0.10
+ORD00547,03/08/2024,P011,Wool Socks (3 pack),Apparel,S04,Visakhapatnam Bay,Visakhapatnam,2,14.25,0.10
+ORD00434,2024-04-30,P001,Wireless Mouse,Electronics,S05,Bengaluru Tech Park,Bengaluru,4,24.99,0.00
+ORD00161,20-10-2024,P013,Non-stick Frying Pan,Home,S06,Online Store,Online,4,34.50,0.00
+ORD00758,2024-04-17,P002,Mechanical Keyboard,Electronics,S06,Online Store,Online,4,89.50,0.15
+ORD00200,2024-05-31,P010,Rain Jacket,Apparel,S02,Vijayawada Mall,Vijayawada,2,$119.00,0.15
+ORD00221,01/03/2024,P019,Office Chair,Furniture,S02,Vijayawada Mall,Vijayawada,2,179.00,0.15
+ORD00285,2024-07-09,P010,Rain Jacket,Apparel,S01,Hyderabad Central,Hyderabad,1,119.00,0.15
+ORD00698,23/05/2024,P019,Office Chair,Furniture,S02,Vijayawada Mall,Vijayawada,4,,0.00
+ORD00440,20/05/2024,P004,USB-C Hub,Electronics,S02,Vijayawada Mall,Vijayawada,1,39.95,0.00
+ORD00506,2024-10-28,P011,Wool Socks (3 pack),Apparel,S02,Vijayawada Mall,Vijayawada,2,$14.25,0.00
+ORD00249,2024-03-13,P012,Coffee Maker,Home,S06,Online Store,Online,2,$99.00,0.10
+ORD00193,26/07/2024,P016,Yoga Mat,Sports,S04,Visakhapatnam Bay,Visakhapatnam,3,27.00,0.10
+ORD00199,2024-11-05,P006,Noise Cancelling Headphones,Electronics,S05,Bengaluru Tech Park,Bengaluru,2,199.00,0.10
+ORD00576,2024-08-12,P003,27-inch Monitor,Electronics,S05,Bengaluru Tech Park,Bengaluru,1,249.00,0.00
+ORD00592,2024-10-16,P003,27-inch Monitor,Electronics,S06,Online Store,Online,2,249.00,0.15
+ORD00656,06/03/2024,P007,Running Shoes,Apparel,S04,Visakhapatnam Bay,Visakhapatnam,2,74.99,0.00
+ORD00134,2024-08-11,P015,Desk Lamp,Home,S04,Visakhapatnam Bay,Visakhapatnam,4,29.99,0.00
+ORD00377,27/04/2024,P012,Coffee Maker,Home,S03,Guntur City Store,Guntur,2,99.00,0.00
+ORD00454,03/11/2024,P018,Water Bottle (1L),Sports,S01,Hyderabad Central,Hyderabad,1,12.99,0.10
+ORD00718,2024-07-28,P009,Denim Jeans,Apparel,S04,Visakhapatnam Bay,Visakhapatnam,1,$49.50,0.00
+ORD00106,26-12-2024,P002,Mechanical Keyboard,Electronics,S02,Vijayawada Mall,Vijayawada,2,89.50,0.00
+ORD00320,2024-11-12,P012,Coffee Maker,Home,S06,Online Store,Online,3,99.00,0.15
+ORD00834,2024-05-24,P005,Bluetooth Speaker,Electronics,S04,Visakhapatnam Bay,Visakhapatnam,1,59.00,0.15
+ORD00843,2024-08-09,P016,Yoga Mat,Sports,S02,Vijayawada Mall,Vijayawada,1,27.00,0.00
+ORD00650,18/07/2024,P001,Wireless Mouse,Electronics,S06,Online Store,Online,4,24.99,0.05
+ORD00627,2024-05-28,P010,Rain Jacket,Apparel,S04,Visakhapatnam Bay,Visakhapatnam,3,119.00,0.05
+ORD00373,29-06-2024,P003,27-inch Monitor,Electronics,S06,Online Store,Online,2,249.00,0.10
+ORD00781,"Jun 09, 2024",P003,27-inch Monitor,Electronics,S01,Hyderabad Central,Hyderabad,1,249.00,0.00
+ORD00445,19/10/2024,P017,Dumbbell Set,Sports,S05,Bengaluru Tech Park,Bengaluru,2,149.00,0.10
+ORD00070,"Feb 05, 2024",P010,Rain Jacket,Apparel,S03,Guntur City Store,Guntur,3,119.00,0.05
+ORD00765,2024-11-24,P014,Bed Linen Set,Home,S06,Online Store,Online,1,$64.00,0.00
+ORD00037,2024-04-30,P016,Yoga Mat,Sports,S06,Online Store,Online,2,27.00,0.15
+ORD00114,2024-01-22,P017,DUMBBELL SET,Sports,S04,Visakhapatnam Bay,Visakhapatnam,2,149.00,0.00
+ORD00247,07/07/2024,P007,Running Shoes,Apparel,S05,,Bengaluru,3,74.99,0.05
+ORD00633,17-04-2024,P005,Bluetooth Speaker,Electronics,S04,Visakhapatnam Bay,Visakhapatnam,2,59.00,0.00
+ORD00061,2024-02-20,P003,27-inch Monitor,Electronics,S02,Vijayawada Mall,Vijayawada,1,249.00,0.00
+ORD00063,31/10/2024,P010,Rain Jacket,Apparel,S06,Online Store,Online,2,119.00,0.00
+ORD00420,2024-12-19,P008,Cotton T-Shirt,Apparel,S03,Guntur City Store,Guntur,1,19.99,0.00
+ORD00774,2024-08-21,P014,Bed Linen Set,Home,S01,Hyderabad Central,Hyderabad,4,$64.00,0.00
+ORD00383,2024-05-17,P012,Coffee Maker,Home,S04,Visakhapatnam Bay,Visakhapatnam,1,99.00,0.00
+ORD00746,2024-01-04,P011,Wool Socks (3 pack),Apparel,S06,Online Store,Online,2,14.25,0.00
+ORD00173,16/06/2024,P004,USB-C Hub,Electronics,S05,Bengaluru Tech Park,Bengaluru,2,$39.95,0.10
+ORD00103,2024-05-19,P017,Dumbbell Set,Sports,S04,Visakhapatnam Bay,Visakhapatnam,1,149.00,0.00
+ORD00232,28/06/2024,P005,Bluetooth Speaker,Electronics,S06,Online Store,Online,4,59.00,0.05
+ORD00816,12/03/2024,P002,Mechanical Keyboard,Electronics,S04,Visakhapatnam Bay,Visakhapatnam,2,$89.50,0.00
+ORD00843,"Aug 09, 2024",P011,Wool Socks (3 pack),Apparel,S02,Vijayawada Mall,Vijayawada,1,14.25,0.00
+ORD00829,28-08-2024,P017,Dumbbell Set,Sports,S04,Visakhapatnam Bay,Visakhapatnam,1,149.00,0.00
+ORD00788,04/01/2024,P015,Desk Lamp,Home,S02,Vijayawada Mall,Vijayawada,1,$29.99,0.00
+ORD00842,08-12-2024,P015,Desk Lamp,Home,S01,Hyderabad Central,Hyderabad,2,29.99,0.05
+ORD00777,2024-03-04,P002,Mechanical Keyboard,Electronics,S02,Vijayawada Mall,Vijayawada,1,89.50,0.15
+ORD00323,20/07/2024,P007,Running Shoes,Apparel,S02,Vijayawada Mall,Vijayawada,3,$74.99,0.00
+ORD00895,2024-04-26,P011,Wool Socks (3 pack),Apparel,S05,Bengaluru Tech Park,Bengaluru,2,14.25,0.10
+ORD00698,2024-05-23,P020,Bookshelf,Furniture,S02,Vijayawada Mall,Vijayawada,1,129.50,0.05
+ORD00516,"Oct 17, 2024",P003,27-inch Monitor,Electronics,S05,Bengaluru Tech Park,Bengaluru,1,$249.00,0.15
+ORD00104,02/11/2024,P007,Running Shoes,Apparel,S01,Hyderabad Central,Hyderabad,1,74.99,0.00
+ORD00685,12-07-2024,P003,27-inch Monitor,Electronics,S03,Guntur City Store,Guntur,3,249.00,0.00
+ORD00094,2024-08-15,P011,Wool Socks (3 pack),Apparel,S01,Hyderabad Central,Hyderabad,2,14.25,0.00
+ORD00227,2024-06-21,P004,USB-C Hub,Electronics,S05,Bengaluru Tech Park,Bengaluru,4,$39.95,0.00
+ORD00158,13-07-2024,P020,Bookshelf,Furniture,S02,Vijayawada Mall,Vijayawada,4,129.50,0.15
+ORD00750,2024-02-21,P010,Rain Jacket,Apparel,S06,Online Store,Online,2,119.00,0.10
+ORD00029,27/07/2024,P014,Bed Linen Set,Home,S05,Bengaluru Tech Park,Bengaluru,3,64.00,0.15
+ORD00044,21-06-2024,P003,27-inch Monitor,Electronics,S06,Online Store,Online,2,249.00,0.00
+ORD00065,27-06-2024,P016,Yoga Mat,Sports,S04,Visakhapatnam Bay,Visakhapatnam,1,27.00,0.00
+ORD00404,2024-06-08,P002,Mechanical Keyboard,Electronics,S03,Guntur City Store,Guntur,3,89.50,0.05
+ORD00637,23-03-2024,P011,Wool Socks (3 pack),Apparel,S03,Guntur City Store,Guntur,4,14.25,0.15
+ORD00605,  2024-11-24  ,P015,Desk Lamp,Home,S06,Online Store,Online,3,29.99,0.00
+ORD00345,2024-10-08,P019,Office Chair,Furniture,S04,Visakhapatnam Bay,Visakhapatnam,2,179.00,0.00
+ORD00601,19/12/2024,P009,Denim Jeans,Apparel,S06,Online Store,Online,2,49.50,0.00
+ORD00891,2024-12-27,P010,Rain Jacket,Apparel,S05,Bengaluru Tech Park,Bengaluru,3,119.00,0.10
+ORD00323,2024-07-20,P019,Office Chair,Furniture,S02,Vijayawada Mall,Vijayawada,1,179.00,0.00
+ORD00717,2024-07-29,P012,Coffee Maker,Home,S05,Bengaluru Tech Park,Bengaluru,1,99.00,0.00
+ORD00130,09/01/2024,P012,Coffee Maker,Home,S03,Guntur City Store,Guntur,1,99.00,0.10
+ORD00257,2024-03-06,P004,USB-C Hub,Electronics,S01,Hyderabad Central,Hyderabad,1,39.95,0.00
+ORD00545,2024-12-29,P003,27-inch Monitor,Electronics,S05,Bengaluru Tech Park,Bengaluru,1,249.00,0.00
+ORD00852,14-07-2024,P004,USB-C Hub,Electronics,S03,Guntur City Store,Guntur,4,$39.95,0.15
+ORD00793,2024-09-18,P009,Denim Jeans,Apparel,S02,Vijayawada Mall,Vijayawada,3,49.50,0.15
+ORD00524,24/10/2024,P004,USB-C Hub,Electronics,S01,Hyderabad Central,Hyderabad,3,39.95,0.10
+ORD00726,2024-12-22,P013,Non-stick Frying Pan,Home,S04,Visakhapatnam Bay,Visakhapatnam,2,34.50,0.10
+ORD00594,11/08/2024,P009,Denim Jeans,Apparel,S04,Visakhapatnam Bay,Visakhapatnam,2,$49.50,0.00
+ORD00178,2024-02-27,P008,Cotton T-Shirt,Apparel,S01,Hyderabad Central,Hyderabad,3,19.99,0.00
+ORD00679,22/05/2024,P020,Bookshelf,Furniture,S05,Bengaluru Tech Park,Bengaluru,2,129.50,0.00
+ORD00626,10/08/2024,P005,Bluetooth Speaker,Electronics,S06,Online Store,Online,4,59.00,0.05
+ORD00483,10/08/2024,P018,Water Bottle (1L),Sports,S05,Bengaluru Tech Park,Bengaluru,2,$12.99,0.00
+ORD00376,2024-05-04,P015,Desk Lamp,Home,S03,Guntur City Store,Guntur,4,$29.99,0.15
+ORD00142,2024-09-02,P003,27-inch Monitor,Electronics,S05,Bengaluru Tech Park,Bengaluru,2,$249.00,0.10
+ORD00880,2024-06-14,P014,Bed Linen Set,Home,S06,Online Store,Online,1,64.00,0.00
+ORD00066,2024-08-20,P009,Denim Jeans,Apparel,S01,Hyderabad Central,Hyderabad,1,49.50,0.15
+ORD00393,26-09-2024,P002,Mechanical Keyboard,Electronics,S02,Vijayawada Mall,Vijayawada,2,89.50,0.15
+ORD00880,2024-06-14,P002,Mechanical Keyboard,Electronics,S06,Online Store,Online,1,$89.50,0.15
+ORD00679,22/05/2024,P016,Yoga Mat,Sports,S05,Bengaluru Tech Park,Bengaluru,1,27.00,0.00
+ORD00780,"Aug 27, 2024",P009,Denim Jeans,Apparel,S05,Bengaluru Tech Park,Bengaluru,4,49.50,0.05
+ORD00804,2024-01-12,P016,Yoga Mat,Sports,S02,Vijayawada Mall,Vijayawada,2,$27.00,0.15
+ORD00277,14/05/2024,P009,Denim Jeans,Apparel,S04,Visakhapatnam Bay,Visakhapatnam,1,49.50,0.00
+ORD00140,2024-08-15,P011,Wool Socks (3 pack),Apparel,S01,Hyderabad Central,Hyderabad,2,14.25,0.10
+ORD00806,2024-09-19,P018,Water Bottle (1L),Sports,S04,Visakhapatnam Bay,Visakhapatnam,1,12.99,0.00
+ORD00735,2024-02-10,P013,Non-stick Frying Pan,Home,S03,Guntur City Store,Guntur,1,34.50,0.00
+ORD00467,2024-01-10,P006,Noise Cancelling Headphones,Electronics,S02,Vijayawada Mall,Vijayawada,2,$199.00,0.00
+ORD00338,2024-09-17,P002,Mechanical Keyboard,Electronics,S04,Visakhapatnam Bay,Visakhapatnam,1,89.50,0.10
+ORD00582,2024-02-26,P016,Yoga Mat,Sports,S05,Bengaluru Tech Park,Bengaluru,2,27.00,0.10
+ORD00739,09/04/2024,P012,COFFEE MAKER,Home,S04,Visakhapatnam Bay,Visakhapatnam,2,99.00,0.00
+ORD00866,11/07/2024,P012,Coffee Maker,Home,S03,Guntur City Store,Guntur,2,$99.00,0.05
+ORD00349,2024-01-10,P001,Wireless Mouse,Electronics,S05,Bengaluru Tech Park,Bengaluru,3,24.99,0.05
+ORD00151,20/07/2024,P020,Bookshelf,Furniture,S05,Bengaluru Tech Park,Bengaluru,4,129.50,0.10
+ORD00676,02-10-2024,P013,Non-stick Frying Pan,Home,S01,Hyderabad Central,Hyderabad,1,34.50,0.15
+ORD00173,2024-06-16,P017,Dumbbell Set,Sports,S05,Bengaluru Tech Park,Bengaluru,2,149.00,0.00
+ORD00062,20/08/2024,P008,Cotton T-Shirt,Apparel,S01,Hyderabad Central,Hyderabad,4,19.99,0.15
+ORD00531,2024-12-12,P004,USB-C Hub,Electronics,S03,Guntur City Store,Guntur,1,39.95,0.00
+ORD00390,05-11-2024,P009,Denim Jeans,Apparel,S06,Online Store,Online,4,49.50,0.15
+ORD00545,29/12/2024,P018,Water Bottle (1L),Sports,S05,Bengaluru Tech Park,Bengaluru,4,12.99,0.00
+ORD00725,2024-05-22,P012,Coffee Maker,Home,S06,Online Store,Online,1,99.00,0.00
+ORD00346,05/09/2024,P020,Bookshelf,Furniture,S04,Visakhapatnam Bay,Visakhapatnam,2,129.50,0.10
+ORD00209,01/10/2024,P003,27-inch Monitor,Electronics,S05,Bengaluru Tech Park,Bengaluru,1,249.00,0.00
+ORD00520,23/10/2024,P002,Mechanical Keyboard,Electronics,S02,Vijayawada Mall,Vijayawada,3,89.50,0.00
+ORD00517,23/08/2024,P003,27-inch Monitor,Electronics,S03,Guntur City Store,Guntur,4,$249.00,0.00
+ORD00355,09-02-2024,P012,Coffee Maker,Home,S05,Bengaluru Tech Park,Bengaluru,2,$99.00,0.00
+ORD00158,13/07/2024,P011,Wool Socks (3 pack),Apparel,S02,Vijayawada Mall,Vijayawada,1,14.25,0.00
+ORD00010,27/09/2024,P001,Wireless Mouse,Electronics,S03,Guntur City Store,Guntur,2,24.99,0.00
+ORD00275,2024-09-02,P001,Wireless Mouse,Electronics,S02,Vijayawada Mall,Vijayawada,1,$24.99,0.10
+ORD00466,30/07/2024,P017,Dumbbell Set,Sports,S06,Online Store,Online,1,149.00,0.10
+ORD00742,15-02-2024,P019,Office Chair,Furniture,S01,Hyderabad Central,Hyderabad,3,179.00,0.00
+ORD00478,17/02/2024,P004,USB-C Hub,Electronics,S06,Online Store,Online,2,39.95,0.10
+ORD00139,28-02-2024,,Yoga Mat,Sports,S01,Hyderabad Central,Hyderabad,1,27.00,0.00
+ORD00351,2024-09-20,P016,Yoga Mat,Sports,S02,Vijayawada Mall,Vijayawada,4,27.00,0.00
+ORD00043,2024-12-22,P013,Non-stick Frying Pan,Home,S01,Hyderabad Central,Hyderabad,2,34.50,0.00
+ORD00448,2024-12-22,P013,Non-stick Frying Pan,Home,S05,Bengaluru Tech Park,Bengaluru,1,34.50,0.00
+ORD00639,2024-09-09,P007,Running Shoes,Apparel,S03,Guntur City Store,Guntur,2,74.99,0.00
+ORD00677,04/03/2024,P012,Coffee Maker,Home,S04,Visakhapatnam Bay,Visakhapatnam,1,99.00,0.15
+ORD00672,2024-11-13,P006,Noise Cancelling Headphones,Electronics,S03,Guntur City Store,Guntur,1,199.00,0.00
+ORD00664,30-09-2024,P014,Bed Linen Set,Home,S05,Bengaluru Tech Park,Bengaluru,1,64.00,0.00
+ORD00034,2024-11-15,P004,USB-C Hub,Electronics,S03,Guntur City Store,Guntur,3,39.95,0.00
+ORD00301,2024-02-15,P011,Wool Socks (3 pack),Apparel,S02,Vijayawada Mall,Vijayawada,3,14.25,0.05
+ORD00600,07/07/2024,P020,Bookshelf,Furniture,S03,Guntur City Store,Guntur,1,129.50,0.10
+ORD00011,2024-09-13,P007,Running Shoes,Apparel,S02,Vijayawada Mall,Vijayawada,1,74.99,0.15
+ORD00389,23-11-2024,P020,Bookshelf,Furniture,S03,Guntur City Store,Guntur,2,$129.50,0.15
+ORD00582,26/02/2024,P019,Office Chair,Furniture,S05,Bengaluru Tech Park,Bengaluru,4,179.00,0.05
+ORD00120,2024-09-26,P006,Noise Cancelling Headphones,Electronics,S01,Hyderabad Central,Hyderabad,3,199.00,0.00
+ORD00465,2024-06-22,P016,Yoga Mat,Sports,S06,Online Store,Online,3,27.00,0.10
+ORD00282,27/02/2024,P005,Bluetooth Speaker,Electronics,S04,Visakhapatnam Bay,Visakhapatnam,2,59.00,0.05
+ORD00028,21/01/2024,P008,Cotton T-Shirt,Apparel,S03,Guntur City Store,Guntur,2,19.99,0.00
+ORD00148,25/08/2024,P020,Bookshelf,Furniture,S02,Vijayawada Mall,Vijayawada,1,129.50,0.15
+ORD00427,10/03/2024,P007,Running Shoes,Apparel,S04,Visakhapatnam Bay,Visakhapatnam,2,74.99,0.10
+ORD00834,24/05/2024,P007,Running Shoes,Apparel,S04,Visakhapatnam Bay,Visakhapatnam,1,74.99,0.00
+ORD00418,03-11-2024,P011,Wool Socks (3 pack),Apparel,S04,Visakhapatnam Bay,Visakhapatnam,2,14.25,0.00
+ORD00473,13/06/2024,P010,Rain Jacket,Apparel,S02,Vijayawada Mall,Vijayawada,1,119.00,0.00
+ORD00106,2024-12-26,P018,Water Bottle (1L),Sports,S02,Vijayawada Mall,Vijayawada,3,12.99,0.15
+ORD00820,"Jul 07, 2024",P003,27-inch Monitor,Electronics,S03,Guntur City Store,Guntur,3,$249.00,0.15
+ORD00716,03-12-2024,P003,27-inch Monitor,Electronics,S02,Vijayawada Mall,Vijayawada,2,249.00,0.10
+ORD00384,18/05/2024,P017,Dumbbell Set,Sports,S02,Vijayawada Mall,Vijayawada,2,149.00,0.00
+ORD00391,12/01/2024,P008,Cotton T-Shirt,Apparel,S02,Vijayawada Mall,Vijayawada,2,$19.99,0.10
+ORD00273,2024-07-11,P014,Bed Linen Set,Home,S02,Vijayawada Mall,Vijayawada,1,64.00,0.00
+ORD00893,2024-08-07,P006,Noise Cancelling Headphones,Electronics,S03,Guntur City Store,Guntur,4,199.00,0.00
+ORD00365,2024-04-15,P014,Bed Linen Set,Home,S06,Online Store,Online,1,64.00,0.00
+ORD00508,2024-11-02,P004,USB-C Hub,Electronics,S06,Online Store,Online,1,39.95,0.05
+ORD00609,12/11/2024,P001,Wireless Mouse,Electronics,S04,Visakhapatnam Bay,Visakhapatnam,3,24.99,0.00
+ORD00098,2024-01-31,P018,Water Bottle (1L),Sports,S05,Bengaluru Tech Park,Bengaluru,1,12.99,0.00
+ORD00686,29/07/2024,P001,Wireless Mouse,Electronics,S02,Vijayawada Mall,Vijayawada,2,$24.99,0.00
+ORD00290,22/07/2024,P001,Wireless Mouse,Electronics,S06,Online Store,Online,1,24.99,0.00
+ORD00291,30-08-2024,P012,Coffee Maker,Home,S05,Bengaluru Tech Park,Bengaluru,1,99.00,0.15
+ORD00494,12/09/2024,P017,Dumbbell Set,Sports,S06,Online Store,Online,1,$149.00,0.05
+ORD00488,09-11-2024,P002,Mechanical Keyboard,Electronics,S05,Bengaluru Tech Park,Bengaluru,1,89.50,0.05
+ORD00200,2024-05-31,P003,27-inch Monitor,Electronics,S02,Vijayawada Mall,Vijayawada,1,249.00,0.00
+ORD00785,"Dec 13, 2024",P017,Dumbbell Set,Sports,S02,Vijayawada Mall,Vijayawada,3,149.00,0.00
+ORD00719,21/12/2024,P002,Mechanical Keyboard,Electronics,S06,Online Store,Online,1,$89.50,0.00
+ORD00757,2024-12-25,P013,Non-stick Frying Pan,Home,S01,Hyderabad Central,Hyderabad,1,34.50,0.15
+ORD00528,2024-04-22,P012,Coffee Maker,Home,S04,Visakhapatnam Bay,Visakhapatnam,1,99.00,0.00
+ORD00170,2024-04-30,P004,USB-C Hub,Electronics,S01,Hyderabad Central,Hyderabad,2,39.95,0.00
+ORD00237,2024-10-18,P003,27-inch Monitor,Electronics,S04,Visakhapatnam Bay,Visakhapatnam,1,249.00,0.00
+ORD00678,23-04-2024,P012,Coffee Maker,Home,S02,Vijayawada Mall,Vijayawada,1,99.00,0.00
+ORD00760,2024-02-19,P015,Desk Lamp,Home,S02,Vijayawada Mall,Vijayawada,2,29.99,0.05
+ORD00839,2024-02-04,P012,Coffee Maker,Home,S03,Guntur City Store,Guntur,1,99.00,0.00
+ORD00141,2024-03-12,P018,Water Bottle (1L),Sports,S02,Vijayawada Mall,Vijayawada,1,12.99,0.00
+ORD00181,2024-04-25,P003,27-inch Monitor,Electronics,S03,Guntur City Store,Guntur,4,249.00,0.15
+ORD00022,2024-12-02,P017,Dumbbell Set,Sports,S05,Bengaluru Tech Park,Bengaluru,1,149.00,0.00
+ORD00655,"Jul 08, 2024",P019,Office Chair,Furniture,S06,Online Store,Online,2,179.00,0.00
+ORD00146,22/01/2024,P002,Mechanical Keyboard,Electronics,S01,Hyderabad Central,Hyderabad,4,89.50,0.15
+ORD00433,2024-06-10,P001,Wireless Mouse,Electronics,S04,Visakhapatnam Bay,Visakhapatnam,1,24.99,0.05
+ORD00122,24-05-2024,P018,Water Bottle (1L),Sports,S04,Visakhapatnam Bay,Visakhapatnam,4,12.99,0.10
+ORD00637,2024-03-23,P007,Running Shoes,Apparel,S03,Guntur City Store,Guntur,2,74.99,0.00
+ORD00678,23/04/2024,P007,Running Shoes,Apparel,S02,Vijayawada Mall,Vijayawada,1,$74.99,0.15
+ORD00881,2024-06-04,P006,Noise Cancelling Headphones,Electronics,S01,Hyderabad Central,Hyderabad,4,$199.00,0.05
+ORD00441,2024-05-16,P016,Yoga Mat,Sports,S05,Bengaluru Tech Park,Bengaluru,2,27.00,0.00
+ORD00699,2024-07-10,P008,Cotton T-Shirt,Apparel,S05,Bengaluru Tech Park,Bengaluru,1,19.99,0.00
+ORD00633,17/04/2024,P018,Water Bottle (1L),Sports,S04,Visakhapatnam Bay,Visakhapatnam,1,$12.99,0.00
+ORD00841,2024-08-18,P018,Water Bottle (1L),Sports,S03,Guntur City Store,Guntur,1,12.99,0.15
+ORD00258,2024-08-06,P002,Mechanical Keyboard,Electronics,S02,Vijayawada Mall,Vijayawada,2,89.50,0.05
+ORD00567,2024-10-13,P004,USB-C Hub,Electronics,S05,Bengaluru Tech Park,Bengaluru,1,$39.95,0.00
+ORD00869,17/02/2024,P009,Denim Jeans,Apparel,S03,Guntur City Store,Guntur,4,49.50,0.00
+ORD00862,20/11/2024,P008,Cotton T-Shirt,Apparel,S06,Online Store,Online,3,19.99,0.15
+ORD00230,2024-02-06,P003,27-inch Monitor,Electronics,S02,Vijayawada Mall,Vijayawada,3,249.00,0.00
+ORD00840,2024-05-26,P020,Bookshelf,Furniture,S04,Visakhapatnam Bay,Visakhapatnam,4,129.50,0.00
+ORD00181,25/04/2024,P005,Bluetooth Speaker,Electronics,S03,Guntur City Store,Guntur,3,59.00,0.00
+ORD00497,19/09/2024,P020,Bookshelf,Furniture,S04,Visakhapatnam Bay,Visakhapatnam,3,129.50,0.10
+ORD00406,2024-04-30,P011,Wool Socks (3 pack),Apparel,S06,Online Store,Online,1,$14.25,0.15
+ORD00298,2024-08-28,P002,Mechanical Keyboard,Electronics,S01,Hyderabad Central,Hyderabad,4,89.50,0.00
+ORD00121,"May 01, 2024",P012,Coffee Maker,Home,S04,Visakhapatnam Bay,Visakhapatnam,2,99.00,0.05
+ORD00056,2024-10-08,P015,Desk Lamp,Home,S03,Guntur City Store,Guntur,1,29.99,0.00
+ORD00390,2024-11-05,P019,Office Chair,Furniture,S06,Online Store,Online,2,179.00,0.00
+ORD00447,2024-03-26,P020,Bookshelf,Furniture,S04,Visakhapatnam Bay,Visakhapatnam,4,$129.50,0.10
+ORD00523,15-06-2024,P019,Office Chair,Furniture,S01,Hyderabad Central,Hyderabad,2,179.00,0.00
+ORD00851,24/12/2024,P014,Bed Linen Set,Home,S04,Visakhapatnam Bay,Visakhapatnam,1,64.00,0.05
+ORD00025,23/02/2024,P004,USB-C Hub,Electronics,S02,Vijayawada Mall,Vijayawada,4,39.95,0.10
+ORD00485,01/02/2024,P005,Bluetooth Speaker,Electronics,S01,Hyderabad Central,Hyderabad,4,$59.00,0.15
+ORD00102,"Jun 23, 2024",P010,Rain Jacket,Apparel,S02,Vijayawada Mall,Vijayawada,3,119.00,0.15
+ORD00203,2024-05-17,P016,Yoga Mat,Sports,S03,Guntur City Store,Guntur,3,27.00,0.00
+ORD00244,2024-08-29,P005,Bluetooth Speaker,Electronics,S03,Guntur City Store,Guntur,1,59.00,0.15
+ORD00095,2024-10-26,P011,Wool Socks (3 pack),Apparel,S05,Bengaluru Tech Park,Bengaluru,1,14.25,0.05
+ORD00541,2024-08-25,P013,Non-stick Frying Pan,Home,S02,Vijayawada Mall,Vijayawada,1,34.50,0.15
+ORD00121,2024-05-01,P010,Rain Jacket,Apparel,S04,Visakhapatnam Bay,Visakhapatnam,3,119.00,0.15

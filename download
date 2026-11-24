@@ -1,0 +1,10 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+data/warehouse.db
+data/processed/
+logs/*.log
+logs/rejected_records.csv
+.DS_Store
